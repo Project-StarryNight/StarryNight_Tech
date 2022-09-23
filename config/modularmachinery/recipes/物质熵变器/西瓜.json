@@ -1,0 +1,30 @@
+{
+    "machine": "Material_entropy_converter",
+    "registryName": "watermelon",
+    "recipeTime": 80,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:melon_block",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:manaresource@23",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:pumpkin",
+            "amount": 2
+        }
+    ]
+}

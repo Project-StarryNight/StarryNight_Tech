@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "TE:material@1024",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:blaze_powder",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@1024",
+            "amount": 5
+        }
+    ]
+}

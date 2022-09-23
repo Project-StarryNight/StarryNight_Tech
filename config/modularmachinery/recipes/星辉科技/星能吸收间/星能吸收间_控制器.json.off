@@ -1,0 +1,65 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_Stellaassimilator",
+    "recipeTime": 1600,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 64000
+        },
+		{
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@3",
+            "amount": 64
+        },
+		{
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "embers:pickaxe_clockwork",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:obsidian",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:quartz_block",
+            "amount": 64
+        },
+		{
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:storage@1",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ore:paper",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularmachinery:itemblueprint",
+            "nbt":{
+                "dynamicmachine": "modularmachinery:Stellarassimilator",
+                "display":{
+                    "Lore": [
+                        "§3Rank: §d§lA-",
+						"§f消耗§6灰烬能量§f进行采矿的机器。",
+                        "§f放入§7乌鸦座§f星图后，机器将利用§7乌鸦的眼睛§f从地下汲取珍宝。",
+						"§f只能在§b夜晚§f工作，放入§e时钟座星图§f后则无视工作时间。",
+						"§a§o你需要更多的高能瓦斯"
+                    ]
+                }
+            }
+        }
+    ]
+}

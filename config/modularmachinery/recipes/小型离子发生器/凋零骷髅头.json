@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "Skull@1",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 750000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:skull",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:skull@1",
+            "amount": 5
+        }
+    ]
+}

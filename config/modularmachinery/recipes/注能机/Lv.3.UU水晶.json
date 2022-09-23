@@ -1,0 +1,30 @@
+{
+    "machine": "Crystal_injection",
+    "registryName": "Lv3.UUCry",
+    "recipeTime": 900,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 5000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item800",
+            "amount": 20
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ic2uu_matter",
+            "amount": 2048000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "custommc:item885",
+            "amount": 1
+        }
+    ]
+}

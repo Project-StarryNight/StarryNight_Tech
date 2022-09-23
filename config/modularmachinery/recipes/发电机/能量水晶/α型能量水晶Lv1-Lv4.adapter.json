@@ -1,0 +1,30 @@
+{
+    "machine": "energy_crystal",
+    "adapter": "modularmachinery:energy_crystal_2",
+    "modifiers": [
+        {
+            "io": "input",
+            "target": "fluid",
+            "operation": 1,
+            "multiplier": 0.25
+        },
+        {
+            "io": "input",
+            "target": "duration",
+            "operation": 1,
+            "multiplier": 0.85
+        },
+        {
+            "io": "output",
+            "target": "energy",
+            "operation": 1,
+            "multiplier": 0.1
+        },
+        {
+            "io": "output",
+            "target": "fluid",
+            "operation": 1,
+            "multiplier": 0.1
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "§a泰拉合金锭",
+  "tooltip": "§6由奥利哈刚和泰拉钢组成的高强度合金",
+  "ore_dict": "ingotTerraAlloy",
+  "type": "additions:simple"
+}

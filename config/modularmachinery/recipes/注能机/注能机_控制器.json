@@ -1,0 +1,59 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_Crystal_injection",
+    "recipeTime": 1200,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 250000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 5
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@3",
+            "amount": 10
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:super_circuit",
+            "amount": 25
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:resource@1",
+            "amount": 4
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "extrabotany:material@1",
+            "amount": 2
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ic2:resource@13",
+            "amount": 2
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularmachinery:blockcasing",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:crystal_injection_controller"
+        }
+    ]
+}

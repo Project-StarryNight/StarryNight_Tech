@@ -1,0 +1,16 @@
+{
+  "item_block": {
+    "name": "§6无尽碎片矿",
+    "ore_dict": "oreInfinitySplinter",
+    "type": "additions:block_simple"
+  },
+  "name": "§6无尽碎片矿",
+  "material": "minecraft:stone",
+  "hardness": 75.0,
+  "resistance": 50000.0,
+  "harvest_level": 7,
+  "harvest_tool": "pickaxe",
+  "light_level": 3,
+  "can_pistons_push": false,
+  "type": "additions:simple"
+}

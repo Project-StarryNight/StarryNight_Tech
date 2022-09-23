@@ -1,0 +1,65 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_Phaselense",
+    "recipeTime": 1600,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 64000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "enderio:block_enhanced_alloy_smelter",
+            "amount": 8
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:obsidian",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:quartz_block",
+            "amount": 64
+        },
+		{
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "tconstruct:firewood@1",
+            "amount": 48
+        },
+		{
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@1024",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ebwizardry:magic_crystal",
+            "amount": 16
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ebwizardry:magic_crystal@1",
+            "amount": 24
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularmachinery:blockcasing",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:phaselense_controller"
+        }
+    ]
+}

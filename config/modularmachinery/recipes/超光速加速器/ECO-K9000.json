@@ -1,0 +1,102 @@
+{
+    "machine": "Light-speed_material_accelerator",
+    "registryName": "ECO-K9000",
+    "recipeTime": 240000,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 9000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ic2uu_matter",
+            "amount": 2147483647
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "additions:novaextended-fallen_star_arrow"
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotAlloyT3",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemCrystalRGP",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritiatweaks:enhancement_crystal",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "tconstruct:arrow",
+            "nbt": {
+                "Unbreakable":"1b",
+                "StatsOriginal":{
+                    "AttackSpeedMultiplier":"1.0f",
+                    "Accuracy":"1.0f",
+                    "MiningSpeed":"66.6f",
+                    "FreeModifiers":"3",
+                    "Durability":"546",
+                    "HarvestLevel":"93",
+                    "Attack":"90000"},
+                    "display":{
+                        "Lore": [
+                            "§9§l难度: §4§l11",
+                            "§cECO武器实验室实验品",
+                            "§e利用了异世界水晶异常强大的力量",
+                            "其威力可以远超其前作K8000",
+                            "使用全新的合金载体,使得武器可以利用异世界水晶内30%的能量"],
+                        "Name":"§cECO-§dK9000"},
+                    "Stats":{"AttackSpeedMultiplier":"1.0f",
+                        "Accuracy":"1.0f",
+                        "MiningSpeed":"67.1f",
+                        "FreeModifiers":"25",
+                        "Durability":"1319",
+                        "HarvestLevel":"93",
+                        "Attack":"9010.523f"
+                    },
+                "Special":{
+                    "Categories":[
+                        "tool","projectile","no_melee"]},
+                "TinkerData":{
+                    "UsedModifiers":"54",
+                "Materials":[
+                        "endrod","infinity_metal","invar"],
+                    "Modifiers":[
+                        "toolleveling","tconevo.entropic","sharpness","tconevo.flux_burn","creative","luck","beheading","necrotic","fiery","tconevo.reaping","emerald","diamond","soulbound","extratraittntexplosive","tconevo.primordial","fins"]},
+                    "Modifiers":[{
+                        "identifier":"endspeed",
+                        "color":"-1507370","level":"1"},
+                        {"identifier":"tconevo.omnipotence","color":"-11757164","level":"1"},
+                        {"identifier":"tconevo.infinitum","color":"-11757164","level":"1"},
+                        {"identifier":"duritos","color":"-7101283","level":"1"},
+                        {"identifier":"toolleveling","color":"16777215","level":"13","xp":"197062","bonus_modifiers":"12"},
+                        {"identifier":"tconevo.entropic","color":"16737792","level":"5"},
+                        {"identifier":"sharpness","current":"360","color":"16774902","level":"5","max":"360","extraInfo":"360 / 360"},
+                        {"identifier":"tconevo.flux_burn","color":"11150920","level":"5"},
+                        {"identifier":"creative","color":"0","level":"64"},
+                        {"identifier":"luck","current":"360","color":"2970082","level":"3","max":"360","modifierUsed":"1b","extraInfo":"360 / 360"},
+                        {"identifier":"beheading","color":"1070923","level":"10"},
+                        {"identifier":"necrotic","color":"6160384","level":"10"},
+                        {"identifier":"fiery","current":"125","color":"15375922","level":"5","max":"125","extraInfo":"125 / 125"},
+                        {"identifier":"tconevo.reaping","color":"1983894","level":"5"},{"identifier":"emerald","color":"4322180"},
+                        {"identifier":"diamond","color":"9237730"},{"identifier":"soulbound","color":"16120748"},
+                        {"identifier":"explosive","color":"-43691","level":"1"},{"identifier":"extratraittntexplosive","color":"-43691"},
+                        {"identifier":"tconevo.primordial","color":"4411999","level":"5"},{"identifier":"fins","color":"11259375","level":"1"}],
+                "Traits":["endspeed","tconevo.omnipotence","tconevo.infinitum","duritos","toolleveling","tconevo.entropic","tconevo.flux_burn","luck","necrotic","fiery","tconevo.reaping","explosive","tconevo.primordial","fins"]},
+            "amount": 1
+        }
+    ]
+}

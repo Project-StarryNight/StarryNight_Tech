@@ -1,0 +1,24 @@
+{
+    "machine": "Neutron_particle_crystal",
+    "registryName": "uu_neutron",
+    "recipeTime": 20,
+    "requirements":[
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ic2uu_matter",
+            "amount": 500
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "neutron",
+            "amount": 1000
+        }
+    ]
+}

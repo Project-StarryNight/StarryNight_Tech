@@ -1,0 +1,24 @@
+{
+    "machine": "Neutron_particle_crystal",
+    "registryName": "neutron_1",
+    "recipeTime": 40,
+    "requirements":[
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:resource@4",
+            "amount": 1
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 250000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "neutron",
+            "amount": 450
+        }
+    ]
+}

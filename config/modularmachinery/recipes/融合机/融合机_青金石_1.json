@@ -1,0 +1,48 @@
+{
+    "machine": "Ultimate_Combiner",
+    "registryName": "Ultimate_Combiner_qingjinshi_1",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 6400
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:dye@4",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:dye@4",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:dye@4",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:dye@4",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:cobblestone",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:lapis_ore",
+            "amount": 16
+        }
+    ]
+}

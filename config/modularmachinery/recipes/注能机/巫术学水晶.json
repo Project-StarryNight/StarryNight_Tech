@@ -1,0 +1,24 @@
+{
+    "machine": "Crystal_injection",
+    "registryName": "Ebw_crystal_1",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 25600
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item794",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ebwizardry:magic_crystal",
+            "amount": 8
+        }
+    ]
+}

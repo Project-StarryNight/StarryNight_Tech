@@ -1,0 +1,301 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/mainmenu/bg.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -1
+}
+
+customization {
+  identifier = %id=400322%
+  width = 90
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\servers_h-1.png
+  backgroundnormal = resources\mainmenu\servers-1.png
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-centered
+  x = 105
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=604382%
+  width = 30
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=604382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\accounts_h.png
+  backgroundnormal = resources\mainmenu\accounts.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = 10
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=400382%
+  width = 90
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\settings_h.png
+  backgroundnormal = resources\mainmenu\settings.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = -15
+  action = movebutton
+  y = 79
+}
+
+customization {
+  identifier = %id=502382%
+  width = 30
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\exit_h.png
+  backgroundnormal = resources\mainmenu\exit.png
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -135
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=376382%
+  width = 30
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=376382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\language_h.png
+  backgroundnormal = resources\mainmenu\language.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -36
+}
+
+customization {
+  identifier = %id=400298%
+  width = 90
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\sp_h-1.png
+  backgroundnormal = resources\mainmenu\sp-1.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=400346%
+  width = 90
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\mods_h.png
+  backgroundnormal = resources\mainmenu\mods.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  path = resources/logo.png
+  orientation = mid-centered
+  x = -45
+  width = 90
+  actionid = 462902e0-11b7-42d6-9556-40b3f7c2a2fe1652332248499
+  action = addtexture
+  y = -136
+  height = 90
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  backgroundhovered = resources\mainmenu\paperbox_h.png
+  label = 
+  loopbackgroundanimations = true
+  x = 10
+  width = 90
+  actionid = 84d0dc00-ad50-4971-93a4-4341500a135c1652336772700
+  action = addbutton
+  y = -36
+  backgroundnormal = resources\mainmenu\paperbox.png
+  value = play.paperboxmc.cn
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\mainmenu\qqgroup_h.png
+  label = 
+  loopbackgroundanimations = true
+  x = 10
+  width = 90
+  actionid = 69e44848-c306-4922-88d8-7507482baba71652336840786
+  action = addbutton
+  y = -1
+  backgroundnormal = resources\mainmenu\qqgroup.png
+  value = 点击链接加入群聊【纸箱工艺丨格雷魔法】：https://jq.qq.com/?_wv=1027&k=SbOcAkIP
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources\mainmenu\accounts_h.png
+  label = 
+  loopbackgroundanimations = true
+  x = 105
+  width = 30
+  actionid = 0624481f-a3f7-4641-8158-e6d5626aa0e51652336956741
+  action = addbutton
+  y = 34
+  backgroundnormal = resources\mainmenu\accounts.png
+  value = the_fireplace.ias.gui.GuiAccountSelector
+  height = 30
+}
+
+customization {
+  path = resources/customloadingscreen/image/paperbox/rebirth.png
+  orientation = bottom-centered
+  x = -55
+  width = 111
+  actionid = 634e33d9-c88c-431d-bbe1-7443396457cd1652431285716
+  action = addtexture
+  y = -33
+  height = 33
+}
+

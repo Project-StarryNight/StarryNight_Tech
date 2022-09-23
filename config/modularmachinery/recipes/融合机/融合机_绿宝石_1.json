@@ -1,0 +1,36 @@
+{
+    "machine": "Ultimate_Combiner",
+    "registryName": "Ultimate_Combiner_lvbaoshi_1",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 25600
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:emerald",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:emerald",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:cobblestone",
+            "amount": 48
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:emerald_ore",
+            "amount": 48
+        }
+    ]
+}

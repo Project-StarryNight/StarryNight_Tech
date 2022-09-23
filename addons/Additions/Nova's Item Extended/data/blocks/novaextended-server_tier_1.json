@@ -1,0 +1,27 @@
+{
+  "item_block": {
+    "name": "§b服务器",
+    "tooltip": [
+      "§a一台包含了三台服务器的机架",
+      "§a用于处理复杂数据信息"
+    ],
+    "attribute_modifiers": [
+      {
+        "attribute_name": "generic.movementSpeed",
+        "amount": -0.05000000074505806,
+        "slot": "mainhand",
+        "uuid": "b6bde9af-07c2-40d1-a15f-71cf858447cd"
+      }
+    ],
+    "type": "additions:block_simple"
+  },
+  "name": "§b服务器",
+  "material": "minecraft:metal",
+  "hardness": 5.0,
+  "resistance": 20.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "light_level": 5,
+  "can_pistons_push": false,
+  "type": "additions:simple"
+}

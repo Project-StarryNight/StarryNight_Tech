@@ -1,0 +1,9 @@
+{
+  "name": "§c落星合金锭",
+  "tooltip": [
+    "§e多种外星合金组成的合金锭",
+    "§d§n用于制作高级机械零件"
+  ],
+  "ore_dict": "ingotFallenStarAlloy",
+  "type": "additions:simple"
+}

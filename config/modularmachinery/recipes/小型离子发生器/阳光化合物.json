@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "ASP:Crafting",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 12000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:glowstone",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "super_solar_panels:crafting@1",
+            "amount": 5
+        }
+    ]
+}

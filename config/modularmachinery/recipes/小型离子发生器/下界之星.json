@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "NetherStar",
+    "recipeTime": 5,
+    "requirements":[
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 300000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:skull@1",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ore:netherStar",
+            "amount": 5
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "machine": "mana_collector",
+    "registryName": "mana_lv2",
+    "recipeTime": 4800,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 512000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item798",
+            "amount": 1,
+            "chance": 0.25
+        },
+        {
+            "type": "gugu-utils:mana_pertick",
+            "io-type": "output",
+            "time": 4800,
+            "mana": 480
+        }
+    ]
+}

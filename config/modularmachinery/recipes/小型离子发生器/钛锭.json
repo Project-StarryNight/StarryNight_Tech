@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "METS_ti",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotSteel",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mets:titanium_ingot",
+            "amount": 5
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "machine": "mana_collector",
+    "registryName": "mana_wizardry_1",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 256000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ebwizardry:magic_crystal",
+            "amount": 1
+        },
+        {
+            "type": "gugu-utils:mana_pertick",
+            "io-type": "output",
+            "time": 20,
+            "mana": 500
+        }
+    ]
+}

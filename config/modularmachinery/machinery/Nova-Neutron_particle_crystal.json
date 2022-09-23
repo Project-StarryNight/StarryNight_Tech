@@ -1,0 +1,4328 @@
+{
+    "registryname": "neutron_particle_crystal",
+	"localizedname": "§bECO-§9NE7β §b中子粒子生成水晶",
+    "failure-action": "still",
+    "color": "4169E1",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "super_solar_panels:neutronfluid@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 14,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 14,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 14,
+            "elements": [
+                "minecraft:stained_glass@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 14,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 14,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 11,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 11,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 11,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 11,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 11,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "super_solar_panels:neutronfluid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "minecraft:stained_glass@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "minecraft:stained_glass@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "super_solar_panels:neutronfluid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "super_solar_panels:neutronfluid@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "minecraft:stained_glass@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 7,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@12"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "super_solar_panels:neutronfluid@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "tconstruct:metal@0"
+            ]
+        }
+    ]}

@@ -1,0 +1,92 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_Neutron_particle_crystal",
+    "recipeTime": 1600,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 720000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@3",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@3",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:super_circuit",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:resource@4",
+            "amount": 60
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "nuclearcraft:voltaic_pile_elite",
+            "amount": 10
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "super_solar_panels:machines@10",
+            "amount": 10
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ic2:resource@13",
+            "amount": 20
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ore:paper",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularmachinery:itemblueprint",
+            "nbt":{
+                "dynamicmachine": "modularmachinery:Neutron_particle_crystal",
+                "display":{
+                    "Lore": [
+                        "§c泄露的实验报告:NE6α",
+                        "§b经过研究",
+                        "§b中子可以在特定的情况下通入能量生成",
+                        "§b我们构建了一个全真空的“流明钴水晶”",
+                        "§b但是它无法直接通入能量",
+                        "§b我们研究了一种可以使用电磁场传输能量的装置",
+                        "§b四色光柱充能金属电磁能量环",
+                        "§b这个外环可以让环内存储的能量定向至真空水晶中心",
+                        "§b在通电过程出现了问题",
+                        "§b两名实验员受伤",
+                        "§b经过调查，这台机器产生了异常粒子波动",
+                        "§b导致有机体过于接近机器的时候被中子粒子击穿",
+                        "§b目前计划研究更稳定的NE7β",
+                        "§6报告结束"
+                    ]
+                }
+            }
+        }
+    ]
+}

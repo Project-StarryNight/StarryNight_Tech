@@ -1,0 +1,60 @@
+{
+    "machine": "Nuclear_melt_detonator",
+    "registryName": "nongyehexin_1",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 30000000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "hydrogen",
+            "amount": 128000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "harvestcraft:deluxecheeseburgeritem",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "harvestcraft:gourmetporkburgeritem",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "harvestcraft:southernstylebreakfastitem",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "harvestcraft:koreandinneritem",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "harvestcraft:gourmetmuttonburgeritem",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritia:ultimate_stew",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "custommc:item882",
+            "amount": 1
+        }
+    ]
+}

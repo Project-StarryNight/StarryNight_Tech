@@ -1,0 +1,30 @@
+{
+    "machine": "Crystal_injection",
+    "registryName": "Lv4.Cry",
+    "recipeTime": 36000,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 10000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "infinity_metal",
+            "amount": 67
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item513",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "custommc:item512",
+            "amount": 2
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "machine": "regeneration_machine",
+    "registryName": "regeneration_machine_4",
+    "recipeTime": 3000,
+    "requirements":[
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 15000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item14",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemCrystalGreen",
+            "amount": 8,
+            "chance": 0
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "extrabotany:material@3",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:manaresource@5",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extrabotany:material@1",
+            "amount": 2
+        }
+    ]
+}

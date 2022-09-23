@@ -1,0 +1,45 @@
+{
+    "machine": "bot_crafter",
+    "registryName": "extrabotany:gildedmashedpotato",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 2560
+        },
+        {
+            "type": "gugu-utils:mana",
+            "io-type": "input",
+            "mana": 50000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:potato",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "extrabotany:ultimatehammer"
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:livingrock@0",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "extrabotany:gildedmashedpotato",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "extrabotany:ultimatehammer"
+        }
+    ]
+}

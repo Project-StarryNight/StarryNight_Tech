@@ -1,0 +1,272 @@
+{
+    "machine": "Light-speed_material_accelerator",
+    "registryName": "longbow",
+    "recipeTime": 360000,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 6000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ic2uu_matter",
+            "amount": 2147483647
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritia:infinity_bow"
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotAlloyT3",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemCrystalRGP",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritiatweaks:enhancement_crystal",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "tconstruct:longbow",
+            "nbt": {
+                "EvolvedTier":"3",
+                "Unbreakable":"1b",
+                "StatsOriginal":{
+                    "AttackSpeedMultiplier":"1.0f",
+                    "MiningSpeed":"44.3f",
+                    "DrawSpeed":"3.9299998f",
+                    "FreeModifiers":"3",
+                    "ProjectileBonusDamage":"342.0f",
+                    "Durability":"4286",
+                    "HarvestLevel":"93",
+                    "Attack":"114514.0f",
+                    "Range":"1.5f"
+                },
+                "display":{
+                    "Lore": [
+                        "§9§l难度: §4§l12"],
+                    "Name":"§c覆灭§d千星"
+                },
+                "ResetFlag":"0b",
+                "Stats":{
+                    "AttackSpeedMultiplier":"1.23456791E11f",
+                    "MiningSpeed":"500.0f",
+                    "DrawSpeed":"1.23456792E8f",
+                    "FreeModifiers":"21",
+                    "ProjectileBonusDamage":"342.0f",
+                    "Durability":"6929",
+                    "HarvestLevel":"93",
+                    "Attack":"1.23456795E15f",
+                    "Range":"1.5f"
+                },
+                "Special":{
+                    "Categories":[
+                        "tool",
+                        "launcher"
+                    ]
+                },
+                "EvolvedEnergy":"0",
+                "PhotovoltaicRate":"204800",
+                "TinkerData":{
+                    "UsedModifiers":"58",
+                    "Materials":[
+                        "chaotic_metal",
+                        "infinity_metal",
+                        "universal_metal",
+                        "soularium"
+                    ],
+                    "Modifiers":[
+                        "tconevo.draconic_energy",
+                        "tconevo.draconic_draw_speed",
+                        "tconevo.draconic_arrow_speed",
+                        "toolleveling",
+                        "tconevo.entropic",
+                        "tconevo.flux_burn",
+                        "tconevo.reaping",
+                        "creative",
+                        "fiery",
+                        "beheading",
+                        "necrotic",
+                        "sharpness",
+                        "haste",
+                        "soulbound",
+                        "emerald",
+                        "diamond",
+                        "tconevo.photovoltaic",
+                        "tconevo.primordial"
+                    ]
+                },
+                "Traits":[
+                    "tconevo.soul_rend3",
+                    "tconevo.evolved",
+                    "tconevo.draconic_energy",
+                    "tconevo.draconic_draw_speed",
+                    "tconevo.draconic_arrow_speed",
+                    "tconevo.omnipotence",
+                    "tconevo.infinitum",
+                    "tconevo.ruination",
+                    "crumbling",
+                    "writable1",
+                    "toolleveling",
+                    "tconevo.entropic",
+                    "tconevo.flux_burn",
+                    "tconevo.reaping",
+                    "fiery",
+                    "necrotic",
+                    "tconevo.photovoltaic",
+                    "tconevo.primordial"
+                ],
+                "Modifiers":[
+                    {
+                        "identifier":"tconevo.soul_rend",
+                        "color":"-10066330",
+                        "level":"3"
+                    },
+                    {
+                        "identifier":"tconevo.evolved",
+                        "color":"-10066330",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"tconevo.draconic_energy",
+                        "color":"43690",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"tconevo.draconic_draw_speed",
+                        "color":"43690",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"tconevo.draconic_arrow_speed",
+                        "color":"43690",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"tconevo.omnipotence",
+                        "color":"-11757164",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"tconevo.infinitum",
+                        "color":"-11757164",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"tconevo.ruination",
+                        "color":"-2662954",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"crumbling",
+                        "color":"-2662954",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"writable",
+                        "color":"-9872563",
+                        "level":"1",
+                        "writable1":"1b"
+                    },
+                    {
+                        "identifier":"toolleveling",
+                        "color":"16777215",
+                        "level":"1",
+                        "xp":"0",
+                        "bonus_modifiers":"0"
+                    },
+                    {
+                        "identifier":"tconevo.entropic",
+                        "color":"16737792",
+                        "level":"5"
+                    },
+                    {
+                        "identifier":"tconevo.flux_burn",
+                        "color":"11150920",
+                        "level":"5"
+                    },
+                    {
+                        "identifier":"tconevo.reaping",
+                        "color":"1983894",
+                        "level":"5"
+                    },
+                    {
+                        "identifier":"creative",
+                        "color":"0",
+                        "level":"64"
+                    },
+                    {
+                        "identifier":"fiery",
+                        "current":"125",
+                        "color":"15375922",
+                        "level":"5",
+                        "max":"125",
+                        "extraInfo":"125 / 125"
+                    },
+                    {
+                        "identifier":"beheading",
+                        "color":"1070923",
+                        "level":"10"
+                    },
+                    {
+                        "identifier":"necrotic",
+                        "color":"6160384",
+                        "level":"10"
+                    },
+                    {
+                        "identifier":"sharpness",
+                        "current":"360",
+                        "color":"16774902",
+                        "level":"5",
+                        "max":"360",
+                        "extraInfo":"360 / 360"
+                    },
+                    {
+                        "identifier":"haste",
+                        "current":"250",
+                        "color":"9502720",
+                        "level":"5",
+                        "max":"250",
+                        "extraInfo":"250 / 250"
+                    },
+                    {
+                        "identifier":"soulbound",
+                        "color":"16120748"
+                    },
+                    {
+                        "identifier":"emerald",
+                        "color":"4322180"
+                    },
+                    {
+                        "identifier":"diamond",
+                        "color":"9237730"
+                    },
+                    {
+                        "identifier":"tconevo.photovoltaic",
+                        "color":"3894951",
+                        "level":"1"
+                    },
+                    {
+                        "identifier":"tconevo.primordial",
+                        "color":"4411999",
+                        "level":"5"
+                    }
+                ]
+            },
+            "amount": 1
+        }
+    ]
+}

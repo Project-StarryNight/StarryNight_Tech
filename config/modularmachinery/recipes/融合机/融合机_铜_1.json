@@ -1,0 +1,48 @@
+{
+    "machine": "Ultimate_Combiner",
+    "registryName": "Ultimate_Combiner_tong_1",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 12800
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustBronze",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustBronze",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustBronze",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustBronze",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:cobblestone",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:resource@1",
+            "amount": 32
+        }
+    ]
+}

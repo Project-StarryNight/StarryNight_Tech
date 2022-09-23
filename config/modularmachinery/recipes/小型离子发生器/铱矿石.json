@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "IC:misc_resource@1",
+    "recipeTime": 5,
+    "requirements":[
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 20000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotIron",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:misc_resource@1",
+            "amount": 5
+        }
+    ]
+}

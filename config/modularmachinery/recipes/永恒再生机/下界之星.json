@@ -1,0 +1,38 @@
+{
+    "machine": "regeneration_machine",
+    "registryName": "regeneration_machine_5",
+    "recipeTime": 200,
+    "requirements":[
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 125000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item14",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:skull@1",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:nether_star",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:nether_star",
+            "amount": 16,
+            "chance": 0.5
+        }
+    ]
+}

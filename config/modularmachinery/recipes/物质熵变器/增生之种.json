@@ -1,0 +1,30 @@
+{
+    "machine": "Material_entropy_converter",
+    "registryName": "bot_1",
+    "recipeTime": 300,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:listAllseed",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:manaresource@23",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "botania:overgrowthseed",
+            "amount": 1
+        }
+    ]
+}

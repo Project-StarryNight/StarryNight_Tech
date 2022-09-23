@@ -1,0 +1,24 @@
+{
+    "machine": "Material_entropy_converter",
+    "registryName": "blaze_rod",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:rodBasalz",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:blaze_rod",
+            "amount": 4
+        }
+    ]
+}

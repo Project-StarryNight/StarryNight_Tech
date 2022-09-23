@@ -1,0 +1,10 @@
+{
+  "name": "§9方舟锭",
+  "shines": true,
+  "tooltip": [
+    "§b蕴含着银河的力量",
+    "§5§l需要使用原子重构机合成"
+  ],
+  "ore_dict": "ingotArk",
+  "type": "additions:simple"
+}

@@ -1,0 +1,25 @@
+{
+    "machine": "ECO_Y6",
+    "registryName": "uu_matter_b",
+    "recipeTime": 2000,
+    "requirements":[
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item800",
+            "amount": 1,
+            "chance": 0.03
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 75000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "ic2uu_matter",
+            "amount": 48000
+        }
+    ]
+}

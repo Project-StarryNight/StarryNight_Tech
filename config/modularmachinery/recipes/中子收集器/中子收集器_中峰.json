@@ -1,0 +1,20 @@
+{
+    "machine": "Ultimate_zhongzi",
+    "registryName": "zhongzishouji_med",
+    "recipeTime": 34000,
+    "requirements": [
+        {
+            "type": "gugu-utils:environment",
+            "io-type": "input",
+            "subType": "altitude",
+            "begin": 65,
+            "end": 127
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "avaritia:resource@4",
+            "amount": 14
+        }
+    ]
+}

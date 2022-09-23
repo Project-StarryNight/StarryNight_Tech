@@ -1,0 +1,61 @@
+{
+    "machine": "Iridescentobservatory",
+    "registryName": "Iridescentobservatory_0",
+    "recipeTime": 4800,
+    "requirements": [
+        {
+			"type": "gugu-utils:environment",
+			"io-type": "input",
+			"subType": "time",
+			"begin": 13000,
+			"end": 23999
+		},
+		{
+		"type": "gugu-utils:environment",
+		"io-type": "input",
+		"subType": "moonphase",
+		"moonphases": [
+				0
+			]
+		},
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 12800
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:paper",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:manaresource@9",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "custommc:item833",
+			"nbt":{
+                "display":{
+					"Name":"§e天雷座§f星图",
+					"Lore": [
+                        "§f只在§b满月§f出现的§e天雷座",
+                        "§f传说神王§e宙斯§f的力量就藏在其中。",
+                        "§b星能发电机§f需以此星图定位§e天雷座。"
+                    ]
+				}
+			},
+            "amount": 1
+        }
+    ]
+}

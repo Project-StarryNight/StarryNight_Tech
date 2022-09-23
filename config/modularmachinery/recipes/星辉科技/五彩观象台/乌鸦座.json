@@ -1,0 +1,73 @@
+{
+    "machine": "Iridescentobservatory",
+    "registryName": "Iridescentobservatory_4",
+    "recipeTime": 4800,
+    "requirements": [
+        {
+			"type": "gugu-utils:environment",
+			"io-type": "input",
+			"subType": "time",
+			"begin": 13000,
+			"end": 23999
+		},
+		{
+		"type": "gugu-utils:environment",
+		"io-type": "input",
+		"subType": "moonphase",
+		"moonphases": [
+				4
+			]
+		},
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 6400
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "draconicevolution:draconium_block",
+            "amount": 64
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:emerald_block",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:paper",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:basicblock",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:manaresource@4",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "custommc:item833",
+			"nbt":{
+                "display":{
+					"Name":"§7乌鸦座§f星图",
+					"Lore": [
+                        "§f只在§b新月§f时才可被观测到的§7乌鸦座",
+                        "§f贪婪的§7乌鸦§f窥探着世间一切的§b珍宝。",
+                        "§b星能吸收间§f需此星图从§a大地§f中汲取§b矿物。"
+                    ]
+				}
+			},
+            "amount": 1
+        }
+    ]
+}

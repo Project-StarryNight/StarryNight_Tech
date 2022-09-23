@@ -1,0 +1,65 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_Phaseinsolator",
+    "recipeTime": 320,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 6400
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "harvestcraft:groundtrap",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "harvestcraft:apiary",
+            "amount": 16
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "thermalexpansion:machine@4",
+            "amount": 8
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "thermalfoundation:upgrade@35",
+            "amount": 8
+        },
+		{
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "extrabotany:material@7",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:obsidian",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:quartz_block",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularmachinery:blockcasing",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:phaseinsolator_controller"
+        }
+    ]
+}

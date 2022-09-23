@@ -1,0 +1,19 @@
+{
+    "machine": "alppm",
+    "registryName": "phocore_2_alppm",
+    "recipeTime": 10000,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "additions:novaextended-phocore_2",
+            "amount": 1,
+            "chance": 0.5
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 60000000000
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "machine": "energy_conversion_station",
+    "registryName": "energy_conversion_station_f",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "liquid_energy",
+            "amount": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:programming_circuit_f",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 50000000000
+        }
+    ]
+}

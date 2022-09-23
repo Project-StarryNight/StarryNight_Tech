@@ -1,0 +1,44 @@
+{
+    "machine": "Mineral_dissolver",
+    "registryName": "dissolver_Iridum",
+    "recipeTime": 40,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 12800
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:oreIridium",
+            "amount": 4
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "sulfuric_acid",
+            "amount": 5000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@71",
+            "amount": 20
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@71",
+            "amount": 4,
+            "chance": 0.5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@71",
+            "amount": 4,
+            "chance": 0.5
+        }
+    ]
+}

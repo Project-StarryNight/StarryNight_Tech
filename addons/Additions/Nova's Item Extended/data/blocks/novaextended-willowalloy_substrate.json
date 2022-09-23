@@ -1,0 +1,17 @@
+{
+  "item_block": {
+    "name": "§6柳钢硅基板",
+    "tooltip": "晶圆制造机的基板,机器可以在上方处理硅",
+    "type": "additions:block_simple"
+  },
+  "name": "§6柳钢硅基板",
+  "material": "minecraft:stone",
+  "hardness": 3.0,
+  "resistance": 20.0,
+  "harvest_level": 2,
+  "harvest_tool": "pickaxe",
+  "light_opacity": 14,
+  "can_pistons_push": false,
+  "bounding_box_max_y": 0.25,
+  "type": "additions:simple"
+}

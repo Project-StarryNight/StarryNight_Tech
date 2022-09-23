@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/image",
+    "image": "customloadingscreen:image/paperbox/memory_base.png",
+    "position_type": "TOP_LEFT",
+    "offset_pos": "TOP_LEFT",
+    "position": {
+        "x": 10,
+        "y": 3,
+        "width": "screen_width - 20",
+        "height": 8
+    },
+    "texture": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+    }
+}

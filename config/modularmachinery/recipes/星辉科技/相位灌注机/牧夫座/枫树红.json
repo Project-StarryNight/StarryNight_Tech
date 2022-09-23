@@ -1,0 +1,67 @@
+{
+    "machine": "Phaseinsolator",
+    "registryName": "Phaseinsolator_Mapler",
+    "recipeTime": 40,
+    "requirements": [
+        {
+			"type": "gugu-utils:environment",
+			"io-type": "input",
+			"subType": "time",
+			"begin": 13000,          
+			"end": 23999
+		},
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 3200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item833",
+			"nbt":{
+                "display":{
+					"Name":"§a牧夫座§f星图",
+					"Lore": [
+                        "§f只在§b残月§f和§b峨眉月§f时可被观测到的§a牧夫座",
+                        "§f天上的§a牧人§f不知疲倦的照料着芸芸众生。",
+                        "§b相位灌注机§f需此星图以§a滋养动物与植物。"
+                    ]
+				}
+			},
+            "amount": 2,
+			"chance": 0
+        },
+		{
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "water",
+            "amount": 1000
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "sakura:maple_sapling_red",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "sakura:maple_log",
+            "amount": 16
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "sakura:maple_log_sap",
+            "amount": 4,
+			"chance": 0.5
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "sakura:maple_sapling_red",
+            "amount": 1
+        }
+    ]
+}

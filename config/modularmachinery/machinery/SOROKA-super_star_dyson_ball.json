@@ -1,0 +1,6408 @@
+{
+    "registryname": "super_star_dyson_ball",
+    "localizedname": "§5超微缩§c恒星§9戴森球",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "modifiers": [
+        {
+            "elements": "tconevo:metal_block@2",
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "description": "将机械控制器上方的中间一个龙块更换成§e混沌金属块§r以提高§c25%§r能量产出",
+            "modifier": {
+                "io": "output",
+                "target": "energy",
+                "operation": 1,
+                "multiplier": 1.25
+            }
+        },
+        {
+            "elements": "enderio:block_alloy_endergy@3",
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "description": "将机械控制器上方的中间一个龙块更换成§e恒星合金块§r以提高§c10%§r能量产出",
+            "modifier": {
+                "io": "output",
+                "target": "energy",
+                "operation": 1,
+                "multiplier": 1.1
+            }
+        },
+        {
+            "elements": "avaritia:block_resource@1",
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "description": "将机械控制器上方的中间一个龙块更换成§e无尽块§r以提高§c100%§r能量产出",
+            "modifier": {
+                "io": "output",
+                "target": "energy",
+                "operation": 1,
+                "multiplier": 2
+            }
+        }
+    ],
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": -9,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "casings_energy"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "casings_energy"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 14,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 14,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": -9,
+            "elements": [
+                "botania:quartztypemana@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 15,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 15,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": -9,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 16,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 15,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 15,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 15,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 16,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 15,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 19,
+            "z": -5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 15,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 19,
+            "z": -5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 15,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 14,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 17,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "z": -5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 17,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 14,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 18,
+            "z": -5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 14,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 14,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 18,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 15,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 12,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 12,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "z": -5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 11,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": -7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 11,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 15,
+            "z": -5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "z": -5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": -7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 14,
+            "z": -5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 13,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "z": -5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 15,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 19,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 19,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": -1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "z": -1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": -1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 12,
+            "z": -5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 15,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 11,
+            "z": -5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 11,
+            "z": -5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 15,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@4"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "botania:quartztypemana@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "z": -3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "botania:quartztypemana@3"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "botania:quartztypemana@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "draconicevolution:energy_storage_core"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 14,
+            "z": -3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "botania:quartztypemana@3"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "botania:quartztypemana@3"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "botania:quartztypemana@3"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "minecraft:end_rod@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 14,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 14,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 13,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 14,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "z": -3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 15,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 15,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": -5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": -5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 12,
+            "z": -3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 15,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 15,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 16,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 16,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": -5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": -5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 11,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 16,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 15,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 16,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 17,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": 2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 17,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 14,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 18,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 18,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 18,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 18,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 13,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 19,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 19,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 19,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 19,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 12,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": -3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": -3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 20,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 11,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 21,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 0,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 21,
+            "z": 0,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 22,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 22,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 23,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 11,
+            "elements": [
+                "minecraft:end_rod@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 24,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": -3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": -3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 9,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 9,
+            "elements": [
+                "botania:quartztypemana@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 9,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "botania:quartztypemana@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 11,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 11,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 12,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 12,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:end_rod@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 14,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 14,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": -10,
+            "elements": [
+                "botania:quartztypemana@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 14,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 15,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 15,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 15,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 15,
+            "z": 7,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 15,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 15,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 15,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 15,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 16,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 15,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 15,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "z": 7,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 14,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 14,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 14,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 18,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 14,
+            "z": 5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": -8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": -8,
+            "elements": [
+                "botania:quartztypemana@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": -8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 17,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 17,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "z": 5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 15,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": -8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 16,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": -4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": -4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": -8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 19,
+            "z": -4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 19,
+            "z": -4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 15,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 15,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 14,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 14,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 14,
+            "z": 3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 13,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 18,
+            "z": 5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "z": 5,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 13,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "z": 3,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 12,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 15,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 19,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 19,
+            "z": 5,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": -2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 12,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": -2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 12,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 11,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "z": -4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 11,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 11,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 11,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 15,
+            "z": -4,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "z": -4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 14,
+            "z": -4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 14,
+            "z": 1,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": -6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 13,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "z": 1,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "z": -4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 15,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": -6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 12,
+            "z": -4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 15,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "z": -4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 15,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": 3,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 11,
+            "z": -4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 15,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "z": -2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 14,
+            "z": -2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 13,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "z": -2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:quartzstairsmana@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "botania:quartzstairsmana@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 12,
+            "z": -2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "casings_energy"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": -4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": -4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 20,
+            "z": 1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "z": 1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 20,
+            "z": 1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 11,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 21,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 21,
+            "z": 1,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "botania:quartztypemana@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconium_block"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 10,
+            "elements": [
+                "botania:quartztypemana@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "botania:quartzstairsmana@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairsmana@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairsmana@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 8,
+            "elements": [
+                "botania:quartztypemana@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:stained_glass@11"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairsmana@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairsmana@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": -11,
+            "elements": [
+                "minecraft:end_rod@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 14,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 14,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 14,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "z": 8,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 15,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 15,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 15,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 15,
+            "z": 8,
+            "elements": [
+                "botania:quartzslabmanahalf@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "botania:quartzslabmanahalf@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairsmana@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:end_rod@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "minecraft:concrete@0"
+            ]
+        }
+    ]}

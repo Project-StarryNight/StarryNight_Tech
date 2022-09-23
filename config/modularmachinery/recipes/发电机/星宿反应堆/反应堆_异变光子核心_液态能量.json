@@ -1,0 +1,38 @@
+{
+    "machine": "starburst_reactor",
+    "registryName": "star_phocore_liquid",
+    "recipeTime": 20000,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "additions:novaextended-phocore_2",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:programming_circuit_b",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "infinity_metal",
+            "amount": 8
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "cryotheum",
+            "amount": 960000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "liquid_energy",
+            "amount": 560000
+        }
+    ]
+}

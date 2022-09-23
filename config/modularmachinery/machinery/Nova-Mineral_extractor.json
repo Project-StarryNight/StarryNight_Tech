@@ -1,0 +1,4207 @@
+{
+    "registryname": "Mineral_extractor",
+	"localizedname": "§6矿物提取机",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:purpur_pillar@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:purpur_pillar@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:purpur_pillar@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:purpur_pillar@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:purpur_pillar@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:purpur_pillar@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "minecraft:purpur_pillar@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "minecraft:purpur_pillar@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "minecraft:purpur_stairs@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 13,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:purpur_stairs@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 12,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 12,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 12,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 11,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 11,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 11,
+            "elements": [
+                "minecraft:purpur_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_pillar@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_pillar@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "minecraft:purpur_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_pillar@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@14"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_pillar@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@14"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_pillar@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@14"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_pillar@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@14"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:coal_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:magenta_glazed_terracotta@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_pillar@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@14"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_pillar@8"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_slab@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "plustic:plustic.molten_refinedglowstone@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:purpur_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_stairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "minecraft:purpur_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "minecraft:purpur_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:purpur_stairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:nether_brick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:purpur_slab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:purpur_stairs@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:purpur_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:purpur_stairs@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        }
+    ]}

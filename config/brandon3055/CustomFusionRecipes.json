@@ -1,0 +1,41 @@
+
+[
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_pick"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaos_crystal_stable",
+        "catalyst": "draconicevolution:chaos_shard"
+    },
+    {
+        "mode": "ADD",
+        "result": "additions:novaextended-fallen_star_alloy",
+        "catalyst": "additions:novaextended-terraalloy",
+        "energy": 80000000,
+        "tier": 3,
+        "ingredients": [
+            "ore:ingotBlueAlloy",
+            "ore:ingotBlueAlloy",
+            "ore:dustSkyStone",
+            "ore:dustSkyStone",
+            "ore:dustSkyStone",
+            "ore:dustSkyStone",
+            "ore:dustSkyStone",
+            "ore:dustSkyStone"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "additions:novaextended-terraalloy",
+        "catalyst": "tconevo:material",
+        "energy": 4000000,
+        "tier": 2,
+        "ingredients": [
+            "ore:ingotTerrasteel",
+            "ore:ingotOrichalcos"
+        ]
+    }
+]

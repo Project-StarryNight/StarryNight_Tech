@@ -1,0 +1,6904 @@
+{
+    "registryname": "starburst_reactor",
+	"localizedname": "§5星宿§6反应堆",
+    "failure-action": "still",
+    "color": "87CEEB",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -5,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 11,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -10,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 7,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": -4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": -2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "chisel:futura@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "chisel:futura@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -17,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "tconevo:metal_block@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": -13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -15,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -15,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -15,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": -11,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -10,
+            "z": -11,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 14,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -11,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": -11,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": -11,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": -13,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": -13,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": 14,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": 14,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": -13,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": 14,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": -13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 14,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 12,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@8"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": 12,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": 12,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": 12,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@8"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@8"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 12,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "gugu-utils:environmenthatch@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 14,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -11,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -11,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 14,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -11,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "gugu-utils:environmenthatch@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": -7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "modularcontroller:ark_auxiliary_warehouse_controller"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "modularcontroller:ark_auxiliary_warehouse_controller"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -10,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@8"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -7,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -10,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@8"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@8"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": -12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": -12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": -12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 15,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 15,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -12,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 15,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": -12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": -12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": -12,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": -14,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": -14,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": -14,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": -14,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -14,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -14,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -14,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -14,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -14,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -10,
+            "z": -10,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -10,
+            "z": -10,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": -12,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": -12,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": -12,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": 13,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 13,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": -12,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": 13,
+            "elements": [
+                "appliedenergistics2:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -12,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 11,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": -8,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "tconevo:metal_block@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -10,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 13,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 9,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        }
+    ]}

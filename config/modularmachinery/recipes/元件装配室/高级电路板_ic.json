@@ -1,0 +1,42 @@
+{
+    "machine": "Board_assembly_room",
+    "registryName": "ic2:crafting@2_0",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 6400
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ic2:crafting@1",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemLapis",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustGlowstone",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:crafting@2",
+            "amount": 8
+        }
+    ]
+}

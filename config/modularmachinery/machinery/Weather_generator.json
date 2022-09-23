@@ -1,0 +1,1880 @@
+{
+    "registryname": "Weather_generator",
+    "localizedname": "§b天气§a发电机",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "color": "FFFFFF",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_trapdoor@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_trapdoor@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -3,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": -2,
+            "elements": [
+                "minecraft:iron_trapdoor@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": -2,
+            "elements": [
+                "minecraft:iron_trapdoor@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "gugu-utils:environmenthatch@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "gugu-utils:environmenthatch@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "gugu-utils:environmenthatch@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": -1,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": -1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": -1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": -1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_trapdoor@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_trapdoor@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "casings_energy"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "gugu-utils:environmenthatch@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "casings_energy"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "casings_energy"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_trapdoor@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_trapdoor@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        }
+    ]}

@@ -1,0 +1,42 @@
+{
+    "machine": "Board_assembly_room",
+    "registryName": "mets:super_circuit_0",
+    "recipeTime": 40,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 7200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ic2:crafting@2",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@134",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:diamond",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mets:superconducting_cable",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mets:super_circuit",
+            "amount": 12
+        }
+    ]
+}

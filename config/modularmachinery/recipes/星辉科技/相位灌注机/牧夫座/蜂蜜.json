@@ -1,0 +1,55 @@
+{
+    "machine": "Phaseinsolator",
+    "registryName": "Phaseinsolator_bee",
+    "recipeTime": 500,
+    "requirements": [
+        {
+			"type": "gugu-utils:environment",
+			"io-type": "input",
+			"subType": "time",
+			"begin": 13000,          
+			"end": 23999
+		},
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1600
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item833",
+			"nbt":{
+                "display":{
+					"Name":"§a牧夫座§f星图",
+					"Lore": [
+                        "§f只在§b残月§f和§b峨眉月§f时可被观测到的§a牧夫座",
+                        "§f天上的§a牧人§f不知疲倦的照料着芸芸众生。",
+                        "§b相位灌注机§f需此星图以§a滋养动物与植物。"
+                    ]
+				}
+			},
+            "amount": 2,
+			"chance": 0
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "harvestcraft:queenbeeitem",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "harvestcraft:honeycombitem",
+            "amount": 16,
+			"chance": 0.75
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "harvestcraft:queenbeeitem",
+            "amount": 1
+        }
+    ]
+}

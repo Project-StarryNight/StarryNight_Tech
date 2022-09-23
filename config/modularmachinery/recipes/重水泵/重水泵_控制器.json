@@ -1,0 +1,47 @@
+{
+    "machine": "mach_crafter",
+    "registryName": "blueprints_beng",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 1200
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@2",
+            "amount": 30
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:super_circuit",
+            "amount": 20
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:basicblock@8",
+            "amount": 40
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ic2:resource@13",
+            "amount": 20
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularmachinery:blockcasing",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:beng_controller"
+        }
+    ]
+}

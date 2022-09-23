@@ -1,0 +1,5015 @@
+{
+    "registryname": "Neutron_star_energy_extractor",
+    "localizedname": "§7中子星能量提取器",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:fluix_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "minecraft:end_stone@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:diamond_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "minecraft:purpur_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        }
+    ]}

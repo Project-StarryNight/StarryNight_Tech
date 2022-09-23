@@ -1,0 +1,16 @@
+{
+  "item_block": {
+    "name": "§6柳钢矿石",
+    "ore_dict": "oreWillowalloy",
+    "type": "additions:block_simple"
+  },
+  "name": "§6柳钢矿石",
+  "material": "minecraft:stone",
+  "hardness": 30.0,
+  "resistance": 2000.0,
+  "harvest_level": 5,
+  "harvest_tool": "pickaxe",
+  "light_level": 3,
+  "can_pistons_push": false,
+  "type": "additions:simple"
+}

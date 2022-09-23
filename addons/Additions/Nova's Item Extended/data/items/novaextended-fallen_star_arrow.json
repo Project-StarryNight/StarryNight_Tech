@@ -1,0 +1,41 @@
+{
+  "name": "§d落星核箭",
+  "shines": true,
+  "tooltip": [
+    "§e基础伤害倍率: 30",
+    "§d额外魔法伤害: 60",
+    "§c爆炸伤害: 1~120",
+    "§c额外药水伤害加成: 500"
+  ],
+  "damage": 30.0,
+  "punch": 0.5,
+  "gravity": 0.01,
+  "works_in_water": true,
+  "sticks_in_ground": true,
+  "pierces_entities": true,
+  "hit_sound": "minecraft:entity.arrow.hit",
+  "hit_effects": [
+    {
+      "command": "additions.explode @s 4 false false",
+      "command_sender_name": "@s",
+      "type": "additions:command"
+    },
+    {
+      "command": "additions.damage @s magic 60",
+      "command_sender_name": "@s",
+      "type": "additions:command"
+    },
+    {
+      "potion": {
+        "name": "minecraft:instant_damage",
+        "duration": 1,
+        "amplifier": 7,
+        "ambient": false,
+        "show_particles": false
+      },
+      "reapplication_delay": 10,
+      "type": "additions:potion"
+    }
+  ],
+  "type": "additions:arrow"
+}

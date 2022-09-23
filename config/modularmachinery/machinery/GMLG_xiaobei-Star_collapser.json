@@ -1,0 +1,5591 @@
+{
+    "registryname": "Star_collapser",
+    "localizedname": "§d霍金恒星坍缩机",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "draconicevolution:crafting_injector@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "draconicevolution:crafting_injector@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:crafting_injector@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 12,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:fusion_crafting_core@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:crafting_injector@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 11,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 10,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "draconicevolution:crafting_injector@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:crafting_injector@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 13,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@0"
+            ]
+        }
+    ]}

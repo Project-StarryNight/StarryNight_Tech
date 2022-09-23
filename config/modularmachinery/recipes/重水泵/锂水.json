@@ -1,0 +1,25 @@
+{
+    "machine": "beng",
+    "registryName": "LI",
+    "recipeTime": 20,
+    "priority": 3,
+    "requirements":[
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 600000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "brine",
+            "amount": 330000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "liquidlithium",
+            "amount": 33000
+        }
+    ]
+}

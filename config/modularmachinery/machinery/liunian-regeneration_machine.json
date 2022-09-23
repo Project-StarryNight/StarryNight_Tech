@@ -1,0 +1,2071 @@
+{
+    "registryname": "regeneration_machine",
+    "localizedname": "§b永恒§6再生§e机",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcontroller@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 0,
+          
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 0,
+           
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:end_rod@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+          
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:end_rod@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:end_rod@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+         
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:end_rod@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+          
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "ic2:fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+           
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 10,
+          
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 10,
+         
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        }
+    ]}

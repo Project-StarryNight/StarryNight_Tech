@@ -1,0 +1,65 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_ECO_Y6",
+    "recipeTime": 3200,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 320000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 40
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@3",
+            "amount": 50
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:super_circuit",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:super_circuit",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:resource@1",
+            "amount": 30
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ic2:te@61",
+            "amount": 50
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ic2:resource@13",
+            "amount": 40
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ic2uu_matter",
+            "amount": 100000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:eco_y6_controller"
+        }
+    ]
+}

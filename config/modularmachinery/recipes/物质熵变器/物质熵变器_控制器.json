@@ -1,0 +1,46 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_Material_entropy_converter",
+    "recipeTime": 2400,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 100000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularcontroller:ion_generator_controller"
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:block_resource@2",
+            "amount": 2
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotAlloyT1",
+            "amount": 6
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularmachinery:blockcasing",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:material_entropy_converter_controller"
+        }
+    ]
+}

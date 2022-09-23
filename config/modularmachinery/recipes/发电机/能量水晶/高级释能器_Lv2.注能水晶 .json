@@ -1,0 +1,24 @@
+{
+    "machine": "advanced_interpreter",
+    "registryName": "crystal_lv2_2",
+    "recipeTime": 9,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "custommc:item514",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "cryotheum",
+            "amount": 180000
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 5000000000000
+        }
+    ]
+}

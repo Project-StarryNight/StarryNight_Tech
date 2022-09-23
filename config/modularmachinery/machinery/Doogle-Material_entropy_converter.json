@@ -1,0 +1,3079 @@
+{
+    "registryname": "Material_entropy_converter",
+    "localizedname": "§e物§6质§c熵§e变§6器",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "enderio:block_dark_iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "enderio:block_dark_iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "tconstruct:seared_slab@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "tconstruct:seared_slab@11"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_slab@11"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_slab@11"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "enderio:block_dark_iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "enderio:block_dark_iron_bars@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "enderio:block_dark_iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "enderio:block_dark_iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:fluid_redstone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:fluid_ender@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "enderio:block_dark_iron_bars@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "tconstruct:seared_stairs_brick@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "enderio:block_dark_iron_bars@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:stone@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_glass_pane@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "botania:blazeblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_slab@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "tconstruct:seared_stairs_brick@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "tconstruct:seared_stairs_brick@4"
+            ]
+        }
+    ]}

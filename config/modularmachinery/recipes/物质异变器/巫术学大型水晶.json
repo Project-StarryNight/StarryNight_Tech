@@ -1,0 +1,24 @@
+{
+    "machine": "material_isomers",
+    "registryName": "Ebw_crystal_2",
+    "recipeTime": 400,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 51200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item794",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ebwizardry:grand_crystal",
+            "amount": 2
+        }
+    ]
+}

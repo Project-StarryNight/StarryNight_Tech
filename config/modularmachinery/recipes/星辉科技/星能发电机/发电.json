@@ -1,0 +1,36 @@
+{
+    "machine": "Stellargenerator",
+    "registryName": "Stellargenerator_0",
+    "recipeTime": 2400,
+    "requirements": [
+		{
+			"type": "gugu-utils:environment",
+			"io-type": "input",
+			"subType": "time",
+			"begin": 13000,
+			"end": 23999
+		},
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item833",
+			"nbt":{
+                "display":{
+					"Name":"§e天雷座§f星图",
+					"Lore": [
+                        "§f只在§b满月§f出现的§e天雷座",
+                        "§f传说神王§e宙斯§f的力量就藏在其中。",
+                        "§b星能发电机§f需以此星图定位§e天雷座。"
+                    ]
+				}
+			},
+            "amount": 2,
+			"chance": 0
+        },
+		{
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 60000000
+        }
+    ]
+}

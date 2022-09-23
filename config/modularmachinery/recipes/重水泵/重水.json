@@ -1,0 +1,25 @@
+{
+    "machine": "beng",
+    "registryName": "choushui",
+    "recipeTime": 40,
+    "priority": 2,
+    "requirements":[
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 750000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:filterupgrade",
+            "chance": 0
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "heavywater",
+            "amount": 18000
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "machine": "energy_liquefier",
+    "registryName": "energy_liquefier_a",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 5000000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:programming_circuit_a",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "liquid_energy",
+            "amount": 1
+        }
+    ]
+}

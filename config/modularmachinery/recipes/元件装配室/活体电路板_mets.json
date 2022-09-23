@@ -1,0 +1,42 @@
+{
+    "machine": "Board_assembly_room",
+    "registryName": "mets:living_circuit_0",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 9600
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mets:super_circuit",
+            "amount": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mets:super_iridium_compress_plate",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mets:nano_living_metal",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mets:superconducting_cable",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mets:living_circuit",
+            "amount": 12
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "Ava_endest_pearl",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1000000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "avaritia:endest_pearl",
+            "amount": 5
+        }
+    ]
+}

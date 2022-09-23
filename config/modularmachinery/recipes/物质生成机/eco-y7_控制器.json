@@ -1,0 +1,65 @@
+{
+    "machine": "acar",
+    "registryName": "blueprints_ECO_Y7",
+    "recipeTime": 3200,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 480000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 55
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@3",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:living_circuit",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:resource@1",
+            "amount": 40
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ic2:resource@13",
+            "amount": 50
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "eternalsingularity:eternal_singularity",
+            "amount": 10
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularcontroller:eco_y6_controller",
+            "amount": 4
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ic2uu_matter",
+            "amount": 450000000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:eco_y7_controller"
+        }
+    ]
+}

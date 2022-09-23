@@ -1,0 +1,32 @@
+{
+    "casings_all": [
+        "modularmachinery:blockcasing",
+        "modularmachinery:blockinputbus",
+        "modularmachinery:blockenergyinputhatch",
+        "modularmachinery:blockfluidinputhatch",
+        "modularmachinery:blockoutputbus",
+        "modularmachinery:blockenergyoutputhatch",
+        "modularmachinery:blockfluidoutputhatch"
+    ],
+    "casings_decorative": [
+        "modularmachinery:blockcasing"
+    ],
+    "casings_fluid": [
+        "modularmachinery:blockfluidinputhatch",
+        "modularmachinery:blockfluidoutputhatch"
+    ],
+    "casings_energy": [
+        "modularmachinery:blockenergyoutputhatch@0",
+        "modularmachinery:blockenergyoutputhatch@1",
+        "modularmachinery:blockenergyoutputhatch@2",
+        "modularmachinery:blockenergyoutputhatch@3",
+        "modularmachinery:blockenergyoutputhatch@4",
+        "modularmachinery:blockenergyoutputhatch@5",
+        "modularmachinery:blockenergyoutputhatch@6",
+        "gugu-utils:energyoutputport"
+    ],
+    "casings_item": [
+        "modularmachinery:blockinputbus",
+        "modularmachinery:blockoutputbus"
+    ]
+}

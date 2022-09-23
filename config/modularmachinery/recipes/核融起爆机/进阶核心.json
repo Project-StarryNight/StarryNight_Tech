@@ -1,0 +1,201 @@
+{
+    "machine": "Nuclear_melt_detonator",
+    "registryName": "jinjiehexin_1",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 30000000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "hydrogen",
+            "amount": 128000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "nuclearcraft:upgrade",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "nuclearcraft:upgrade@1",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@129",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@720",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@704",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@130",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@673",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@448",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@401",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@704",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@688",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_extract_speed_upgrade",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:speedupgrade",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:energyupgrade",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:filterupgrade",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:gasupgrade",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_dark_steel_upgrade@1",
+            "nbt":{
+                "enderio:dsu": "enderio:tnt4"
+            },
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_dark_steel_upgrade@1",
+            "nbt":{
+                "enderio:dsu": "enderio:jumpboost3"
+            },
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "draconicevolution:tool_upgrade@1",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "draconicevolution:tool_upgrade@4",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalexpansion:augment@433",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:upgrade@3",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ic2:upgrade@4",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ic2:upgrade@6",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_dark_steel_upgrade@1",
+            "nbt":{
+                "enderio:dsu": "enderio:inv2"
+            },
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ic2:upgrade",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ic2:upgrade",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ic2:upgrade",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "custommc:item380",
+            "amount": 1
+        }
+    ]
+}

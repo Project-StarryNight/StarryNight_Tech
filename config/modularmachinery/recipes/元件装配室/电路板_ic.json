@@ -1,0 +1,36 @@
+{
+    "machine": "Board_assembly_room",
+    "registryName": "ic2:crafting@1_0",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 3200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotIron",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotCopper",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:crafting@1",
+            "amount": 8
+        }
+    ]
+}

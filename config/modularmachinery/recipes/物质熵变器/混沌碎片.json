@@ -1,0 +1,36 @@
+{
+    "machine": "Material_entropy_converter",
+    "registryName": "chaos_shard_1",
+    "recipeTime": 7200,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 512000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "draconicevolution:dragon_heart",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:skull@5",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:netherStar",
+            "amount": 10
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "draconicevolution:chaos_shard",
+            "amount": 5
+        }
+    ]
+}

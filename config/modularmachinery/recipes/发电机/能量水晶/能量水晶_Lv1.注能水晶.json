@@ -1,0 +1,37 @@
+{
+    "machine": "energy_crystal_2",
+    "registryName": "crystal_lv1",
+    "recipeTime": 1200,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "custommc:item535",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "contenttweaker:programming_circuit_a",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "cryotheum",
+            "amount": 60000
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 1500000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "plasma",
+            "amount": 3000
+        }
+    ]
+}

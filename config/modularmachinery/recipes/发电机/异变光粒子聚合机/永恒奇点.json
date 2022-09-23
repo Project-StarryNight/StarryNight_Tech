@@ -1,0 +1,18 @@
+{
+    "machine": "alppm",
+    "registryName": "ES_alppm",
+    "recipeTime": 1000,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "eternalsingularity:eternal_singularity",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 350000000000
+        }
+    ]
+}

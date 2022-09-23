@@ -1,0 +1,36 @@
+{
+    "machine": "Crystal_injection",
+    "registryName": "Lv2.Cry",
+    "recipeTime": 1600,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 300000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritia:resource@1",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item535",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "plasma",
+            "amount": 30000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "custommc:item514",
+            "amount": 1
+        }
+    ]
+}

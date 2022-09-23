@@ -1,0 +1,30 @@
+{
+    "machine": "Board_assembly_room",
+    "registryName": "enricied_alloy_0",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 32000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotIron",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:compressedredstone",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ore:itemEnrichedAlloy",
+            "amount": 16
+        }
+    ]
+}

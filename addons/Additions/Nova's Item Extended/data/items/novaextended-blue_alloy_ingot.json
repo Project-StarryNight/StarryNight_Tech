@@ -1,0 +1,6 @@
+{
+  "name": "§b蓝晶合金锭",
+  "tooltip": "§c由铂和晶化合金和高级合金催化剂组成的合金",
+  "ore_dict": "ingotBlueAlloy",
+  "type": "additions:simple"
+}

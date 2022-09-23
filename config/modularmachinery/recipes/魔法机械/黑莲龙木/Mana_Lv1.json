@@ -1,0 +1,45 @@
+{
+    "machine": "black_dragon_lotus",
+    "registryName": "lotus_mana_lv1",
+    "recipeTime": 900,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "custommc:item929",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item794",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:chorus_flower",
+            "amount": 8
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "botania:blacklotus@1",
+            "amount": 12
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "botania:blacklotus@1",
+            "amount": 6,
+            "chance": 0.5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "botania:blacklotus@1",
+            "amount": 6,
+            "chance": 0.25
+        }
+    ]
+}

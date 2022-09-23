@@ -1,0 +1,66 @@
+{
+    "machine": "acar",
+    "registryName": "orichalcos_drill_controller>",
+    "recipeTime": 3600,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 480000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularcontroller:mana_ore_drill_controller"
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:terrapick",
+            "nbt": {
+                "mana": ">100000000"
+            }
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:manaresource",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:manaresource@7",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:manaresource@4",
+            "amount": 32
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "additions:novaextended-extremecircuit",
+            "amount": 4
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 10
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularmachinery:blockcasing",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:orichalcos_drill_controller"
+        }
+    ]
+}

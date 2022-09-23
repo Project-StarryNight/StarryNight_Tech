@@ -1,0 +1,4 @@
+{
+    "machine": "energy_conversion_station",
+    "adapter": "modularmachinery:energy_converter"
+}

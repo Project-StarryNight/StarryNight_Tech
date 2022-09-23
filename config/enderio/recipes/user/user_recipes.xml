@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+    <recipe name="BlueAlloyIngot" required="false">
+        <alloying energy="14000" exp="0">
+            <input name="ingotPlatinum" amount="12"/>
+            <input name="ingotCrystallineAlloy" amount="8" />
+            <input name="ingotAlloyT1"/>
+            <output name="additions:novaextended-blue_alloy_ingot" />
+        </alloying>
+    </recipe>
+
+    <recipe name="PsiAlloy" required="false">
+        <alloying energy="22000" exp="0">
+            <input name="ingotPsi" amount="8"/>
+            <input name="ingotPlatinum" amount="8"/>
+            <output name="additions:novaextended-psi_alloy" />
+        </alloying>
+    </recipe>
+
+    <recipe name="Modularium" required="false">
+        <alloying energy="12000" exp="0">
+            <input name="ingotTinSilver" amount="4"/>
+            <input name="ingotBoron" amount="2"/>
+            <input name="dustRedstone" amount="8"/>
+            <output name="modularmachinery:itemmodularium" amount="6"/>
+        </alloying>
+    </recipe>
+
+    <recipe name="BlackIron" required="false">
+        <alloying energy="8000" exp="0">
+            <input name="ingotIron" amount="1"/>
+            <input name="ingotObsidiorite" amount="1"/>
+            <output name="extendedcrafting:material" amount="2"/>
+        </alloying>
+    </recipe>
+
+    <recipe name="EnderPart" required="false">
+        <alloying energy="8000" exp="0">
+            <input name="ingotVibrantAlloy" amount="1"/>
+            <input name="itemPulsatingPowder" amount="1"/>
+            <output name="enderutilities:enderpart" amount="1"/>
+        </alloying>
+    </recipe>
+
+    <recipe name="EnderPart:1" required="false">
+        <alloying energy="16000" exp="0">
+            <input name="ingotEnderium" amount="1"/>
+            <input name="dustWillowalloy" amount="1"/>
+            <output name="enderutilities:enderpart:1" amount="2"/>
+        </alloying>
+    </recipe>
+
+    <recipe name="EnderPart:2" required="false">
+        <alloying energy="64000" exp="0">
+            <input name="extendedcrafting:material:48" amount="1"/>
+            <input name="deepmoblearning:pristine_matter_enderman" amount="1"/>
+            <output name="enderutilities:enderpart:2" amount="1"/>
+        </alloying>
+    </recipe>
+
+    <grindingball name="Flint" grinding="1.2" chance="1.25" power="0.85" durability="24000">
+        <item name="itemFlint"/>
+    </grindingball>
+
+    <grindingball name="Dark Steel Ball" grinding="1.35" chance="2.00" power="0.7" durability="125000" >
+        <item name="ballDarkSteel"/>
+    </grindingball>
+
+    <grindingball name="Electrical Steel Ball" grinding="1.2" chance="1.65" power="0.8" durability="40000" >
+        <item name="ballElectricalSteel"/>
+    </grindingball>
+
+    <grindingball name="Energetic Alloy Ball" grinding="1.6" chance="1.1" power="1.1" durability="80000" >
+        <item name="ballEnergeticAlloy"/>
+    </grindingball>
+
+    <grindingball name="Vibrant Alloy Ball" grinding="1.75" chance="1.35" power="1.35" durability="80000" >
+        <item name="ballVibrantAlloy"/>
+    </grindingball>
+
+    <grindingball name="Redstone Alloy Ball" grinding="1.00" chance="1.00" power="0.35" durability="30000" >
+        <item name="ballRedstoneAlloy"/>
+    </grindingball>
+
+    <grindingball name="Conductive Iron Ball" grinding="1.35" chance="1.00" power="1.0" durability="40000" >
+        <item name="ballConductiveIron"/>
+    </grindingball>
+
+    <grindingball name="Pulsating Iron Ball" grinding="1.0" chance="1.85" power="1.0" durability="100000" >
+        <item name="ballPulsatingIron"/>
+    </grindingball>
+
+    <grindingball name="Soularium Ball" grinding="1.2" chance="2.0" power="0.9" durability="80000" >
+        <item name="ballSoularium"/>
+    </grindingball>
+
+    <grindingball name="End Steel Ball" grinding="1.1" chance="2.5" power="0.65" durability="75000" >
+        <item name="ballEndSteel"/>
+    </grindingball>
+
+    <grindingball name="Construction Alloy Ball" grinding="1.0" chance="0.33" power="0.25" durability="12000" >
+        <item name="CONSTRUCTION_ALLOY_BALL"/>
+    </grindingball>
+
+<!-- Thermal Grinding Balls -->
+    <grindingball name="Signalum Ball" grinding="1.5" chance="1.25" power="0.25" durability="100000" >
+        <item name="SIGNALUM_BALL"/>
+    </grindingball>
+
+    <grindingball name="Enderium Ball" grinding="2.0" chance="2.0" power="1.0" durability="120000" >
+        <item name="ENDERIUM_BALL"/>
+    </grindingball>
+
+    <grindingball name="Lumium Ball" grinding="1.0" chance="2.5" power="0.9" durability="75000" >
+        <item name="LUMIUM_BALL"/>
+    </grindingball>
+
+    <grindingball name="Crude Steel Ball" grinding="1.2" chance="1.25" power="0.85" durability="24000" >
+        <item name="ballCrudeSteel"/>
+    </grindingball>
+
+    <grindingball name="Crystalline Alloy Ball" grinding="1.8" chance="1.4" power="1.45" durability="80000" >
+        <item name="ballCrystallineAlloy"/>
+    </grindingball>
+
+    <grindingball name="Melodic Alloy Ball" grinding="1.0" chance="3.0" power="1.25" durability="80000" >
+        <item name="ballMelodicAlloy"/>
+    </grindingball>
+
+    <grindingball name="Stellar Alloy Ball" grinding="3.0" chance="1.0" power="1.5" durability="320000" >
+        <item name="ballStellarAlloy"/>
+    </grindingball>
+
+    <grindingball name="Energetic Sliver Ball" grinding="1.6" chance="1.1" power="1.1" durability="80000" >
+        <item name="ballEnergeticSilver"/>
+    </grindingball>
+
+    <grindingball name="Vivid Alloy Ball" grinding="1.75" chance="1.35" power="1.35" durability="80000" >
+        <item name="ballVividAlloy"/>
+    </grindingball>
+
+</enderio:recipes>

@@ -1,0 +1,24 @@
+{
+    "machine": "Material_entropy_converter",
+    "registryName": "blizz_rod",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:rodBlaze",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@2048",
+            "amount": 4
+        }
+    ]
+}

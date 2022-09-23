@@ -1,0 +1,12 @@
+{
+  "name": "§e§l异世界水晶",
+  "shines": true,
+  "tooltip": [
+    "§b使用水晶注能器对其注入能量和魔力以及UU物质后",
+    "§b这些水晶碎片组成了一种极其特殊的水晶",
+    "§b这颗水晶似乎有着强大的力量",
+    "§c§l这或许可以用于制作异世界机械的精密元件"
+  ],
+  "ore_dict": "gemCrystalRGP",
+  "type": "additions:simple"
+}

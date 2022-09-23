@@ -1,0 +1,36 @@
+{
+    "machine": "Board_assembly_room",
+    "registryName": "appliedenergistics2:material@22_0",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 4000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:itemSilicon",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotGold",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "appliedenergistics2:material@22",
+            "amount": 4
+        }
+    ]
+}

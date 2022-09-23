@@ -1,0 +1,17 @@
+{
+    "machine": "battery_tier_3",
+    "registryName": "battery_tier_3",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 20000000000
+        },
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 20000000000
+        }
+    ]
+}

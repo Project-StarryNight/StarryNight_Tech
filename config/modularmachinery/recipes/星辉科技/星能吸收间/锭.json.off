@@ -1,0 +1,167 @@
+{
+    "machine": "Stellarassimilator",
+    "registryName": "Stellarassimilator_0",
+    "recipeTime": 1200,
+    "requirements": [
+		{
+			"type": "gugu-utils:environment",
+			"io-type": "input",
+			"subType": "time",
+			"begin": 13000,          
+			"end": 23999
+		},
+		{
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 80000
+        },
+        {
+			"type": "gugu-utils:ember",
+			"io-type": "input",
+			"ember": 12000
+		},
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item833",
+			"nbt":{
+                "display":{
+					"Name":"§7乌鸦座§f星图",
+					"Lore": [
+                        "§f只在§b新月§f时才可被观测到的§7乌鸦座",
+                        "§f贪婪的§7乌鸦§f窥探着世间一切的§b珍宝。",
+                        "§b星能吸收间§f需此星图从§a大地§f中汲取§b矿物。"
+                    ]
+				}
+			},
+            "amount": 2,
+			"chance": 0
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:gold_ingot",
+            "amount": 32,
+            "chance": 0.40
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:iron_ingot",
+            "amount": 32,
+            "chance": 0.50
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:coal",
+            "amount": 32,
+            "chance": 0.50
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:dye@4", 
+            "amount": 64,
+            "chance": 0.30
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:diamond",
+            "amount": 8,
+            "chance": 0.20
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:redstone",
+            "amount": 64,
+            "chance": 0.50
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:emerald",
+            "amount": 8,
+            "chance": 0.10
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:ingot@2", 
+            "amount": 16,
+            "chance": 0.5
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:ingot@3", 
+            "amount": 16,
+            "chance": 0.5
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:ingot@4", 
+            "amount": 16,
+            "chance": 0.40
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:ingot@6", 
+            "amount": 16,
+            "chance": 0.5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@133", 
+            "amount": 16,
+            "chance": 0.35
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "appliedenergistics2:material@0", 
+            "amount": 32,
+            "chance": 0.40
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:quartz",
+            "amount": 32,
+            "chance": 0.40
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "nuclearcraft:ingot@3",
+            "amount": 16,
+            "chance": 0.35
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "nuclearcraft:ingot@5", 
+            "amount": 16,
+            "chance": 0.35
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "nuclearcraft:ingot@7", 
+            "amount": 16,
+            "chance": 0.35
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "mekanism:ingot@1", 
+            "amount": 32,
+            "chance": 0.5
+        }
+    ]
+}

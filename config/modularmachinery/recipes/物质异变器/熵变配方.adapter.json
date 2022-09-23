@@ -1,0 +1,18 @@
+{
+    "machine": "material_isomers",
+    "adapter": "modularmachinery:material_entropy_converter",
+    "modifiers": [
+        {
+            "io": "input",
+            "target": "duration",
+            "operation": 1,
+            "multiplier": 0.2
+        },
+        {
+            "io": "input",
+            "target": "energy",
+            "operation": 1,
+            "multiplier": 2
+        }
+    ]
+}

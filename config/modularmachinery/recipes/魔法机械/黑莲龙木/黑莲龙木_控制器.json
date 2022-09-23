@@ -1,0 +1,58 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_Black_Dragon_Lotus",
+    "recipeTime": 3600,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 120000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularcontroller:mana_collector_controller"
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:manaresource@9",
+            "amount": 40
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:skull@5",
+            "amount": 2
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:storage@1",
+            "amount": 3
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "botania:manaresource@4",
+            "amount": 5
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "extrabotany:material@1",
+            "amount": 2
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularmachinery:blockcasing",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:black_dragon_lotus_controller"
+        }
+    ]
+}

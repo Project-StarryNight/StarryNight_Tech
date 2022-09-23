@@ -1,0 +1,62 @@
+{
+    "machine": "Light-speed_material_accelerator",
+    "registryName": "32k",
+    "recipeTime": 180000,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 6000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ic2uu_matter",
+            "amount": 2147483647
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:diamond_sword"
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotAlloyT3",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemCrystalRGP",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritiatweaks:enhancement_crystal",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:diamond_sword",
+            "nbt": {"ench":[
+                {"id":"16s","lvl":"32767s"},
+                {"id":"19s","lvl":"10s"},
+                {"id":"20s","lvl":"32767s"},
+                {"id":"21s","lvl":"10s"},
+                {"id":"22s","lvl":"3s"},
+                {"id":"34s","lvl":"32767s"},
+                {"id":"70s","lvl":"1s"},
+                {"id":"71s","lvl":"1s"}],
+                "display":{
+                    "Lore": [
+                    "§9§l难度: §4§l10+"],
+                    "Name":
+                    "Alpha's Stacked 32k 's"},
+                    "Unbreakable":"1b"},
+            "amount": 1
+        }
+    ]
+}

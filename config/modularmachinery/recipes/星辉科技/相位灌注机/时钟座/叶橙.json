@@ -1,0 +1,77 @@
+{
+    "machine": "Phaseinsolator",
+    "registryName": "Phaseinsolator_leavesom0",
+    "recipeTime": 40,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item129",
+			"nbt":{
+                "display":{
+					"Name":"§e时钟座§6星图",
+					"Lore": [
+                        "§f诡异的§e时钟座§f隐藏在时间的各个角落中，无法§b以普通形式§f观测",
+                        "§f利用五大星座的星图作为线索，你成功观测到了§e时钟座。",
+                        "§f吸纳了§5奥力哈钢§f的§e时钟座§6星图§f有着超越时间的力量，任何以它指引的星能机器将§b不分昼夜的运行。"
+                    ]
+				}
+			},
+            "amount": 1,
+			"chance": 0
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 3200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item833",
+			"nbt":{
+                "display":{
+					"Name":"§a牧夫座§f星图",
+					"Lore": [
+                        "§f只在§b残月§f和§b峨眉月§f时可被观测到的§a牧夫座",
+                        "§f天上的§a牧人§f不知疲倦的照料着芸芸众生。",
+                        "§b相位灌注机§f需此星图以§a滋养动物与植物。"
+                    ]
+				}
+			},
+            "amount": 1,
+			"chance": 0
+        },
+		{
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "water",
+            "amount": 1000
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:shears",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "sakura:maple_sapling_orange",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "sakura:maple_leaves_orange",
+            "amount": 238
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "sakura:maple_sapling_orange",
+            "amount": 1
+        }
+		
+    ]
+}

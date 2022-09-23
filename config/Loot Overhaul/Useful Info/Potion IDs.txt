@@ -1,0 +1,1066 @@
+## Potion IDs                                                          ##
+#########################################################################
+## In the form:                                                        ##
+## <potion name>                                                       ##
+##    - Id: <potion id>                                                ##
+##    - Color: <potion color>                                          ##
+##    - Is Instant: <true if an instant potion (like health)>          ##
+##    - Is Bad: <true if considered a 'bad' potion>                    ##
+##    - Is Beneficial: <true if considered 'beneficial' (client only)> ##
+#########################################################################
+ic2:radiation
+   - Id: 0
+   - Color: 5149489
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:speed
+   - Id: 1
+   - Color: 8171462
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:slowness
+   - Id: 2
+   - Color: 5926017
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:haste
+   - Id: 3
+   - Color: 14270531
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:mining_fatigue
+   - Id: 4
+   - Color: 4866583
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:strength
+   - Id: 5
+   - Color: 9643043
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:instant_health
+   - Id: 6
+   - Color: 16262179
+   - Is Instant: true
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:instant_damage
+   - Id: 7
+   - Color: 4393481
+   - Is Instant: true
+   - Is Bad: true
+	- Is Beneficial: true
+
+
+minecraft:jump_boost
+   - Id: 8
+   - Color: 2293580
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:nausea
+   - Id: 9
+   - Color: 5578058
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:regeneration
+   - Id: 10
+   - Color: 13458603
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:resistance
+   - Id: 11
+   - Color: 10044730
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:fire_resistance
+   - Id: 12
+   - Color: 14981690
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:water_breathing
+   - Id: 13
+   - Color: 3035801
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:invisibility
+   - Id: 14
+   - Color: 8356754
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:blindness
+   - Id: 15
+   - Color: 2039587
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:night_vision
+   - Id: 16
+   - Color: 2039713
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:hunger
+   - Id: 17
+   - Color: 5797459
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:weakness
+   - Id: 18
+   - Color: 4738376
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:poison
+   - Id: 19
+   - Color: 5149489
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:wither
+   - Id: 20
+   - Color: 3484199
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:health_boost
+   - Id: 21
+   - Color: 16284963
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:absorption
+   - Id: 22
+   - Color: 2445989
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:saturation
+   - Id: 23
+   - Color: 16262179
+   - Is Instant: true
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:glowing
+   - Id: 24
+   - Color: 9740385
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+minecraft:levitation
+   - Id: 25
+   - Color: 13565951
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+minecraft:luck
+   - Id: 26
+   - Color: 3381504
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+minecraft:unluck
+   - Id: 27
+   - Color: 12624973
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+sakura:exp_up
+   - Id: 28
+   - Color: 16711935
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+sakura:cannon
+   - Id: 29
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+sakura:golden_heart
+   - Id: 30
+   - Color: 16768256
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+sakura:poisom
+   - Id: 31
+   - Color: 3059749
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+sakura:scorpion
+   - Id: 32
+   - Color: 2953789
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+sakura:fire_blade
+   - Id: 33
+   - Color: 16720418
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+teastory:agility
+   - Id: 34
+   - Color: 8553090
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+teastory:life_drain
+   - Id: 35
+   - Color: 8323072
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+teastory:photosynthesis
+   - Id: 36
+   - Color: 16750848
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+teastory:defence
+   - Id: 37
+   - Color: 9804454
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+teastory:excitement
+   - Id: 38
+   - Color: 16763493
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+rpsideas:psishock
+   - Id: 39
+   - Color: 16731410
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+rpsideas:psipulse
+   - Id: 40
+   - Color: 1295871
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+rpsideas:unseeing
+   - Id: 41
+   - Color: 9546968
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+rpsideas:flash
+   - Id: 42
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+rpsideas:burnout
+   - Id: 43
+   - Color: 14884388
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+rpsideas:affinity
+   - Id: 44
+   - Color: 1928606
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+botania:soulcross
+   - Id: 45
+   - Color: 4670781
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+botania:featherfeet
+   - Id: 46
+   - Color: 2534911
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+botania:emptiness
+   - Id: 47
+   - Color: 16437247
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+botania:bloodthirst
+   - Id: 48
+   - Color: 12779520
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+botania:allure
+   - Id: 49
+   - Color: 13540
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+botania:clear
+   - Id: 50
+   - Color: 16777215
+   - Is Instant: true
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+tconstruct:carry
+   - Id: 51
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+tconstruct:enderference
+   - Id: 52
+   - Color: 2201695
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+tconstruct:insatiable
+   - Id: 53
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+tconstruct:magnetic
+   - Id: 54
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+tconstruct:momentum
+   - Id: 55
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+tconstruct:dot
+   - Id: 56
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+tconstruct:splinter
+   - Id: 57
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+bloodmagic:boost
+   - Id: 58
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:whirlwind
+   - Id: 59
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:planar_binding
+   - Id: 60
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:soul_snare
+   - Id: 61
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:soul_fray
+   - Id: 62
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+bloodmagic:fire_fuse
+   - Id: 63
+   - Color: 16724787
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+bloodmagic:constrict
+   - Id: 64
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+bloodmagic:plant_leech
+   - Id: 65
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+bloodmagic:deafness
+   - Id: 66
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+bloodmagic:bounce
+   - Id: 67
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:cling
+   - Id: 68
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:sacrificial_lamb
+   - Id: 69
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:flight
+   - Id: 70
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:grounded
+   - Id: 71
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+bloodmagic:suspended
+   - Id: 72
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+bloodmagic:heavy_heart
+   - Id: 73
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+bloodmagic:feathered
+   - Id: 74
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+zettai_psi:magic_shielding
+   - Id: 75
+   - Color: -16711681
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+zettai_psi:heating
+   - Id: 76
+   - Color: -65536
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+zettai_psi:freezing
+   - Id: 77
+   - Color: -16711681
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+zettai_psi:slowfall
+   - Id: 78
+   - Color: -16711681
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+conarm:superhotpotion
+   - Id: 79
+   - Color: 16777215
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+ebwizardry:frost
+   - Id: 80
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:transience
+   - Id: 81
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:fireskin
+   - Id: 82
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:ice_shroud
+   - Id: 83
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:static_aura
+   - Id: 84
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:decay
+   - Id: 85
+   - Color: 3932268
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:sixth_sense
+   - Id: 86
+   - Color: 13041409
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:arcane_jammer
+   - Id: 87
+   - Color: 13585058
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:mind_trick
+   - Id: 88
+   - Color: 6297219
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:mind_control
+   - Id: 89
+   - Color: 3279684
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:font_of_mana
+   - Id: 90
+   - Color: 16770491
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:fear
+   - Id: 91
+   - Color: 12386560
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:curse_of_soulbinding
+   - Id: 92
+   - Color: 983055
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:paralysis
+   - Id: 93
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:muffle
+   - Id: 94
+   - Color: 4482265
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:ward
+   - Id: 95
+   - Color: 13210064
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:slow_time
+   - Id: 96
+   - Color: 6022075
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:empowerment
+   - Id: 97
+   - Color: 8611773
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:curse_of_enfeeblement
+   - Id: 98
+   - Color: 3538955
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:curse_of_undeath
+   - Id: 99
+   - Color: 6839296
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:containment
+   - Id: 100
+   - Color: 7964876
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:frost_step
+   - Id: 101
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+ebwizardry:mark_of_sacrifice
+   - Id: 102
+   - Color: 15273544
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+ebwizardry:mirage
+   - Id: 103
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+champions:jailed
+   - Id: 104
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+champions:plague
+   - Id: 105
+   - Color: 2046740
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+champions:injured
+   - Id: 106
+   - Color: 9240631
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+extrabotany:mindcrack
+   - Id: 107
+   - Color: 9109643
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: true
+
+
+extrabotany:eternity
+   - Id: 108
+   - Color: 14329120
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+extrabotany:reflect
+   - Id: 109
+   - Color: 4286945
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+extrabotany:constantpain
+   - Id: 110
+   - Color: 8421504
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+extrabotany:divinejustice
+   - Id: 111
+   - Color: 16744272
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+extrabotany:blacksabbath
+   - Id: 112
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+extrabotany:bloodtemptation
+   - Id: 113
+   - Color: 14423100
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+extrabotany:temptation
+   - Id: 114
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+extrabotany:witchcurse
+   - Id: 115
+   - Color: 0
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+extrabotany:vegetable
+   - Id: 116
+   - Color: 64154
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+extrabotany:healreverse
+   - Id: 117
+   - Color: 4915330
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: true
+
+
+techguns:radiation
+   - Id: 118
+   - Color: -805765376
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+techguns:radresistance
+   - Id: 119
+   - Color: -6706131
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+techguns:radregeneration
+   - Id: 120
+   - Color: 268050432
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+tconevo:immortality
+   - Id: 121
+   - Color: 15450243
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+tconevo:mortal_wounds
+   - Id: 122
+   - Color: 6249870
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+tconevo:damage_reduction
+   - Id: 123
+   - Color: 5899674
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+tconevo:damage_boost
+   - Id: 124
+   - Color: 16259128
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+astralsorcery:potioncheatdeath
+   - Id: 125
+   - Color: 16733969
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+astralsorcery:potionbleed
+   - Id: 126
+   - Color: 7672320
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+astralsorcery:potionspellplague
+   - Id: 127
+   - Color: 6816144
+   - Is Instant: false
+   - Is Bad: true
+	- Is Beneficial: false
+
+
+astralsorcery:potiondropmodifier
+   - Id: 128
+   - Color: 16765204
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+astralsorcery:potiontimefreeze
+   - Id: 129
+   - Color: 12098303
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: true
+
+
+resize:shrinking
+   - Id: 130
+   - Color: 65480
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+
+resize:growth
+   - Id: 131
+   - Color: 16750080
+   - Is Instant: false
+   - Is Bad: false
+	- Is Beneficial: false
+
+

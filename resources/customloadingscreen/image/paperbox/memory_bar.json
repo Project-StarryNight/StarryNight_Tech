@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/image",
+    "image": "customloadingscreen:image/paperbox/memory_bar.png",
+    "position_type": "TOP_LEFT",
+    "offset_pos": "TOP_LEFT",
+    "position": {
+        "x": 10,
+        "y": 3,
+        "width": "(screen_width - 20) * mem_percent",
+        "height": 8
+    },
+    "texture": {
+        "x": 0,
+        "y": 0,
+        "width": "mem_percent",
+        "height": 1
+    }
+}

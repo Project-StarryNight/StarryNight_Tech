@@ -1,0 +1,25 @@
+{
+    "machine": "energy_converter",
+    "registryName": "energy_converter_c",
+    "recipeTime": 10,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "liquid_energy",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:programming_circuit_c",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 500000000
+        }
+    ]
+}

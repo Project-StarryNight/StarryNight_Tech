@@ -1,0 +1,6480 @@
+{
+    "registryname": "ECO_Y7",
+    "localizedname": "§bECO-§dY7 §e物质生成机",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "modifiers": [
+        {
+            "elements": "modularmachinery:blockenergyinputhatch@5",
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "description": "将机器的能量输入仓换为巨型能源输入仓以降低10%能量消耗",
+            "modifier": {
+                "io": "input",
+                "target": "energy",
+                "operation": 1,
+                "multiplier": 0.9
+            }
+        },
+        {
+            "elements": "modularmachinery:blockenergyinputhatch@6",
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "description": "将机器的能量输入仓换为超级能源输入仓以提高50%流体产出，但是能量消耗提高40%",
+            "modifier": [
+                {
+                    "io": "input",
+                    "target": "energy",
+                    "operation": 1,
+                    "multiplier": 1.5
+                },
+                {
+                    "io": "output",
+                    "target": "fluid",
+                    "operation": 1,
+                    "multiplier": 1.5
+                }
+            ]
+        },
+        {
+            "elements": "modularmachinery:blockenergyinputhatch@7",
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "description": "将机器的能量输入仓换为终极能源输入仓以提高100%流体产出，但是能量消耗提高75%",
+            "modifier": [
+                {
+                    "io": "input",
+                    "target": "energy",
+                    "operation": 1,
+                    "multiplier": 1.75
+                },
+                {
+                    "io": "output",
+                    "target": "fluid",
+                    "operation": 1,
+                    "multiplier": 2
+                }
+            ]
+        }
+    ],
+    "parts": [
+        {
+            "x": 3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "rpsideas:bright_plate@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "rpsideas:bright_plate@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "ic2:uu_matter@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "ic2:uu_matter@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -7,
+            "elements": [
+                "minecraft:iron_trapdoor@12"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": -7,
+            "elements": [
+                "minecraft:iron_trapdoor@12"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "minecraft:iron_trapdoor@13"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "minecraft:iron_trapdoor@13"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -3,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "ic2:uu_matter@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_trapdoor@13"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "minecraft:iron_trapdoor@13"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_trapdoor@12"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_trapdoor@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "rpsideas:bright_plate@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "rpsideas:bright_plate@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "ic2:uu_matter@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "rpsideas:bright_plate@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "rpsideas:bright_plate@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "rpsideas:bright_plate@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:machine_hull@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:factory1@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -6,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": -6,
+            "elements": [
+                "extendedcrafting:lamp@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": -6,
+            "elements": [
+                "extendedcrafting:lamp@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_trapdoor@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_trapdoor@14"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_trapdoor@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_trapdoor@14"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@9"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@9"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:factory@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_trapdoor@14"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_trapdoor@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_trapdoor@14"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_trapdoor@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "extendedcrafting:lamp@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "extendedcrafting:lamp@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "minecraft:sea_lantern@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "chisel:blockcobalt@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:factory1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:technicalnew@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:fluix_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.tritanium_plate_stripe@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "ic2:resource@13"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "chisel:technical@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "chisel:technical@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "chisel:factory@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.stripes@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:factory@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@3"
+            ]
+        }
+    ]}

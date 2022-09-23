@@ -1,0 +1,5487 @@
+{
+    "registryname": "battery_tier_3",
+    "localizedname": "§d终极锂电池组",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:ingot_block@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:glowstone@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:ingot_block@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "psi:psi_decorative@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy@2"
+            ]
+        }
+    ]}

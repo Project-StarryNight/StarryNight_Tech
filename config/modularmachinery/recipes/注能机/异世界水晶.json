@@ -1,0 +1,47 @@
+{
+    "machine": "Crystal_injection",
+    "registryName": "CryInj_Exotic_crystal",
+    "recipeTime": 3600,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 175000000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ic2uu_matter",
+            "amount": 1250000000
+        },
+        {
+            "type": "gugu-utils:mana",
+            "io-type": "input",
+            "mana": 1000000
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemCrystalRed",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemCrystalPurple",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemCrystalGreen",
+            "amount": 6
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "additions:novaextended-crystal4",
+            "amount": 1
+        }
+    ]
+}

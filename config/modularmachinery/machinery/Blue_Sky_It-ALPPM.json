@@ -1,0 +1,4319 @@
+{
+    "registryname": "ALPPM",
+    "localizedname": "§a异变光粒子聚合机",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "tconevo:metal_block@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 6,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_double_slab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_double_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 7,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 6,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 8,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": -8,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": -8,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": -8,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -8,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": -8,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": -8,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 3,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 7,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": -8,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -8,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 10,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -8,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": -8,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 10,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 11,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "taiga:solarium_block@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 10,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 12,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_double_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_double_slab@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 11,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 11,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 10,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "mekanism:plasticfence@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_double_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_double_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "botania:storage@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_double_slab@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_double_slab@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "draconicevolution:draconic_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 10,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:chiseled_quartz_slab@0"
+            ]
+        }
+    ]}

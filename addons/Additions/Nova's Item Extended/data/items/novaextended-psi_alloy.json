@@ -1,0 +1,6 @@
+{
+  "name": "§d高级PSI合金锭",
+  "tooltip": "§b由PSI金属锭和铂锭制成的合金",
+  "ore_dict": "ingotPsiAlloy",
+  "type": "additions:simple"
+}

@@ -1,0 +1,48 @@
+{
+    "machine": "Ultimate_Combiner",
+    "registryName": "Ultimate_Combiner_qian_1",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 25600
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustLead",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustLead",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustLead",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dustLead",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:cobblestone",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ic2:resource@2",
+            "amount": 32
+        }
+    ]
+}

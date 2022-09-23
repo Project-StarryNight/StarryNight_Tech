@@ -1,0 +1,35 @@
+{
+    "machine": "Crystal_injection",
+    "registryName": "Lv3.manaCry",
+    "recipeTime": 1600,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 150000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item798",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:manaresource@4",
+            "amount": 1
+        },
+        {
+            "type": "gugu-utils:mana",
+            "io-type": "input",
+            "mana": 1000000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "custommc:item75",
+            "amount": 1
+        }
+    ]
+}

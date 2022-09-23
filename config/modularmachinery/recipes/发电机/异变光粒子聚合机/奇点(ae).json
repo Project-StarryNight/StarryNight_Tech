@@ -1,0 +1,18 @@
+{
+    "machine": "alppm",
+    "registryName": "AE_alppm",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "appliedenergistics2:material@47",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 600000000
+        }
+    ]
+}

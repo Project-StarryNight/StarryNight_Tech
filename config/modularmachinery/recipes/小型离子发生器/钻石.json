@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "Diamond",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 5000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:coal",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:diamond",
+            "amount": 5
+        }
+    ]
+}

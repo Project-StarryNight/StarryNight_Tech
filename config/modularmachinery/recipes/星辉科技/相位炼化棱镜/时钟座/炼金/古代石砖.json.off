@@ -1,0 +1,86 @@
+{
+    "machine": "Phaselense",
+    "registryName": "Phaselense_archaic0",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item129",
+			"nbt":{
+                "display":{
+					"Name":"§e时钟座§6星图",
+					"Lore": [
+                        "§f诡异的§e时钟座§f隐藏在时间的各个角落中，无法§b以普通形式§f观测",
+                        "§f利用五大星座的星图作为线索，你成功观测到了§e时钟座。",
+                        "§f吸纳了§5奥力哈钢§f的§e时钟座§6星图§f有着超越时间的力量，任何以它指引的星能机器将§b不分昼夜的运行。"
+                    ]
+				}
+			},
+            "amount": 1,
+			"chance": 0
+        },
+		{
+			"type": "gugu-utils:ember",
+			"io-type": "input",
+			"ember": 200
+		},
+
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item833",
+			"nbt":{
+                "display":{
+					"Name":"§6天炉座§f星图",
+					"Lore": [
+                        "§f只在§b亏凸月§f和§b盈凸月§f时可被观测到的§6天炉座",
+                        "§f在月亮背后绽放着§6烈火§f般的璀璨光彩。",
+                        "§b相位炼化棱镜§f需此星图方能利用§6天炉座§f的炽热高温。"
+                    ]
+				}
+			},
+            "amount": 1,
+			"chance": 0
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "embers:aspectus_dawnstone",
+            "amount": 1,
+			"chance": 0
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "embers:dust_ash",
+            "amount": 4,
+			"chance": 0
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "embers:archaic_brick",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:soul_sand",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:clay_ball",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "embers:archaic_brick",
+            "amount": 5
+        }
+		
+    ]
+}

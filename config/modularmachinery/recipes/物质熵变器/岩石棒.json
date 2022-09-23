@@ -1,0 +1,24 @@
+{
+    "machine": "Material_entropy_converter",
+    "registryName": "basalz_rod_1",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:rodBlizz",
+            "amount": 4
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@2052",
+            "amount": 4
+        }
+    ]
+}

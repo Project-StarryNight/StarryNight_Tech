@@ -1,0 +1,30 @@
+{
+    "machine": "purpur_furance",
+    "adapter": "minecraft:furnace",
+    "modifiers": [
+        {
+            "io": "input",
+            "target": "item",
+            "operation": 1,
+            "multiplier": 4
+        },
+        {
+            "io": "input",
+            "target": "duration",
+            "operation": 1,
+            "multiplier": 0.05
+        },
+        {
+            "io": "input",
+            "target": "energy",
+            "operation": 1,
+            "multiplier": 1.5
+        },
+        {
+            "io": "output",
+            "target": "item",
+            "operation": 1,
+            "multiplier": 4
+        }
+    ]
+}

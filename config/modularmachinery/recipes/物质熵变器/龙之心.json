@@ -1,0 +1,24 @@
+{
+    "machine": "Material_entropy_converter",
+    "registryName": "dragon_heart_1",
+    "recipeTime": 2400,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 800000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "draconicevolution:chaos_shard",
+            "amount": 10
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "draconicevolution:dragon_heart",
+            "amount": 1
+        }
+    ]
+}

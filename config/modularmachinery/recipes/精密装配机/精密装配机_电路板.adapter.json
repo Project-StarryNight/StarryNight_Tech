@@ -1,0 +1,30 @@
+{
+    "machine": "crafter_tier_2",
+    "adapter": "modularmachinery:Board_assembly_room",
+    "modifiers": [
+        {
+            "io": "input",
+            "target": "item",
+            "operation": 1,
+            "multiplier": 4
+        },
+        {
+            "io": "output",
+            "target": "item",
+            "operation": 1,
+            "multiplier": 4
+        },
+        {
+            "io": "input",
+            "target": "duration",
+            "operation": 1,
+            "multiplier": 0.5
+        },
+        {
+            "io": "input",
+            "target": "energy",
+            "operation": 1,
+            "multiplier": 6
+        }
+    ]
+}

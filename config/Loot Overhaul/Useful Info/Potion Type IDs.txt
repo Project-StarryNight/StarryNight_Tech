@@ -1,0 +1,643 @@
+## Potion Type IDs                                                        ##
+############################################################################
+## In the form:                                                           ##
+## <potion type name>                                                     ##
+##    - Effects: <List of potion effects>                                 ##
+##        <name> - <duration> - <amplifier> - <ambient> - <showParticles> ##
+##        etc...                                                          ##
+############################################################################
+minecraft:empty
+   - Effects: 
+
+
+minecraft:water
+   - Effects: 
+
+
+minecraft:mundane
+   - Effects: 
+
+
+minecraft:thick
+   - Effects: 
+
+
+minecraft:awkward
+   - Effects: 
+
+
+minecraft:night_vision
+   - Effects: 
+       minecraft:night_vision - 3600 - 0 - false - true
+
+
+minecraft:long_night_vision
+   - Effects: 
+       minecraft:night_vision - 9600 - 0 - false - true
+
+
+minecraft:invisibility
+   - Effects: 
+       minecraft:invisibility - 3600 - 0 - false - true
+
+
+minecraft:long_invisibility
+   - Effects: 
+       minecraft:invisibility - 9600 - 0 - false - true
+
+
+minecraft:leaping
+   - Effects: 
+       minecraft:jump_boost - 3600 - 0 - false - true
+
+
+minecraft:long_leaping
+   - Effects: 
+       minecraft:jump_boost - 9600 - 0 - false - true
+
+
+minecraft:strong_leaping
+   - Effects: 
+       minecraft:jump_boost - 1800 - 1 - false - true
+
+
+minecraft:fire_resistance
+   - Effects: 
+       minecraft:fire_resistance - 3600 - 0 - false - true
+
+
+minecraft:long_fire_resistance
+   - Effects: 
+       minecraft:fire_resistance - 9600 - 0 - false - true
+
+
+minecraft:swiftness
+   - Effects: 
+       minecraft:speed - 3600 - 0 - false - true
+
+
+minecraft:long_swiftness
+   - Effects: 
+       minecraft:speed - 9600 - 0 - false - true
+
+
+minecraft:strong_swiftness
+   - Effects: 
+       minecraft:speed - 1800 - 1 - false - true
+
+
+minecraft:slowness
+   - Effects: 
+       minecraft:slowness - 1800 - 0 - false - true
+
+
+minecraft:long_slowness
+   - Effects: 
+       minecraft:slowness - 4800 - 0 - false - true
+
+
+minecraft:water_breathing
+   - Effects: 
+       minecraft:water_breathing - 3600 - 0 - false - true
+
+
+minecraft:long_water_breathing
+   - Effects: 
+       minecraft:water_breathing - 9600 - 0 - false - true
+
+
+minecraft:healing
+   - Effects: 
+       minecraft:instant_health - 1 - 0 - false - true
+
+
+minecraft:strong_healing
+   - Effects: 
+       minecraft:instant_health - 1 - 1 - false - true
+
+
+minecraft:harming
+   - Effects: 
+       minecraft:instant_damage - 1 - 0 - false - true
+
+
+minecraft:strong_harming
+   - Effects: 
+       minecraft:instant_damage - 1 - 1 - false - true
+
+
+minecraft:poison
+   - Effects: 
+       minecraft:poison - 900 - 0 - false - true
+
+
+minecraft:long_poison
+   - Effects: 
+       minecraft:poison - 1800 - 0 - false - true
+
+
+minecraft:strong_poison
+   - Effects: 
+       minecraft:poison - 432 - 1 - false - true
+
+
+minecraft:regeneration
+   - Effects: 
+       minecraft:regeneration - 900 - 0 - false - true
+
+
+minecraft:long_regeneration
+   - Effects: 
+       minecraft:regeneration - 1800 - 0 - false - true
+
+
+minecraft:strong_regeneration
+   - Effects: 
+       minecraft:regeneration - 450 - 1 - false - true
+
+
+minecraft:strength
+   - Effects: 
+       minecraft:strength - 3600 - 0 - false - true
+
+
+minecraft:long_strength
+   - Effects: 
+       minecraft:strength - 9600 - 0 - false - true
+
+
+minecraft:strong_strength
+   - Effects: 
+       minecraft:strength - 1800 - 1 - false - true
+
+
+minecraft:weakness
+   - Effects: 
+       minecraft:weakness - 1800 - 0 - false - true
+
+
+minecraft:long_weakness
+   - Effects: 
+       minecraft:weakness - 4800 - 0 - false - true
+
+
+minecraft:luck
+   - Effects: 
+       minecraft:luck - 6000 - 0 - false - true
+
+
+rpsideas:psishock
+   - Effects: 
+       rpsideas:psishock - 160 - 0 - false - true
+
+
+rpsideas:psishock_long
+   - Effects: 
+       rpsideas:psishock - 240 - 0 - false - true
+
+
+rpsideas:psishock_strong
+   - Effects: 
+       rpsideas:psishock - 125 - 1 - false - true
+
+
+rpsideas:psipulse
+   - Effects: 
+       rpsideas:psipulse - 400 - 0 - false - true
+
+
+rpsideas:psipulse_strong
+   - Effects: 
+       rpsideas:psipulse - 250 - 1 - false - true
+
+
+rpsideas:psipulse_long
+   - Effects: 
+       rpsideas:psipulse - 600 - 0 - false - true
+
+
+enderio:confusion
+   - Effects: 
+       minecraft:nausea - 900 - 0 - false - true
+
+
+enderio:long_confusion
+   - Effects: 
+       minecraft:nausea - 2400 - 0 - false - true
+
+
+enderio:withering
+   - Effects: 
+       minecraft:wither - 900 - 0 - false - true
+
+
+enderio:long_withering
+   - Effects: 
+       minecraft:wither - 2400 - 0 - false - true
+
+
+enderio:floating
+   - Effects: 
+       minecraft:levitation - 140 - 0 - false - true
+
+
+enderio:strong_floating
+   - Effects: 
+       minecraft:levitation - 140 - 2 - false - true
+
+
+enderio:long_floating
+   - Effects: 
+       minecraft:levitation - 560 - 0 - false - true
+
+
+techguns:radpotion
+   - Effects: 
+       techguns:radiation - 300 - 4 - false - true
+
+
+techguns:radpotion_severe
+   - Effects: 
+       techguns:radiation - 300 - 24 - false - true
+
+
+techguns:radregenerationpotion
+   - Effects: 
+       techguns:radregeneration - 400 - 9 - false - true
+
+
+techguns:radresistancepotion
+   - Effects: 
+       techguns:radresistance - 900 - 1 - false - true
+
+
+resize:shrinking
+   - Effects: 
+       resize:shrinking - 4800 - 0 - false - true
+
+
+resize:long_shrinking
+   - Effects: 
+       resize:shrinking - 9600 - 0 - false - true
+
+
+resize:strong_shrinking
+   - Effects: 
+       resize:shrinking - 3600 - 1 - false - true
+
+
+resize:growth
+   - Effects: 
+       resize:growth - 4800 - 0 - false - true
+
+
+resize:long_growth
+   - Effects: 
+       resize:growth - 9600 - 0 - false - true
+
+
+resize:strong_growth
+   - Effects: 
+       resize:growth - 3600 - 1 - false - true
+
+
+cofhcore:haste
+   - Effects: 
+       minecraft:haste - 3600 - 0 - false - true
+
+
+cofhcore:haste+
+   - Effects: 
+       minecraft:haste - 9600 - 0 - false - true
+
+
+cofhcore:haste2
+   - Effects: 
+       minecraft:haste - 1800 - 1 - false - true
+
+
+cofhcore:resistance
+   - Effects: 
+       minecraft:resistance - 3600 - 0 - false - true
+
+
+cofhcore:resistance+
+   - Effects: 
+       minecraft:resistance - 9600 - 0 - false - true
+
+
+cofhcore:resistance2
+   - Effects: 
+       minecraft:resistance - 1800 - 1 - false - true
+
+
+cofhcore:levitation
+   - Effects: 
+       minecraft:levitation - 3600 - 0 - false - true
+
+
+cofhcore:levitation+
+   - Effects: 
+       minecraft:levitation - 9600 - 0 - false - true
+
+
+cofhcore:absorption
+   - Effects: 
+       minecraft:absorption - 3600 - 0 - false - true
+
+
+cofhcore:absorption+
+   - Effects: 
+       minecraft:absorption - 9600 - 0 - false - true
+
+
+cofhcore:absorption2
+   - Effects: 
+       minecraft:absorption - 1800 - 1 - false - true
+
+
+cofhcore:luck
+   - Effects: 
+       minecraft:luck - 3600 - 0 - false - true
+
+
+cofhcore:luck+
+   - Effects: 
+       minecraft:luck - 9600 - 0 - false - true
+
+
+cofhcore:luck2
+   - Effects: 
+       minecraft:luck - 1800 - 1 - false - true
+
+
+cofhcore:unluck
+   - Effects: 
+       minecraft:unluck - 1800 - 0 - false - true
+
+
+cofhcore:unluck+
+   - Effects: 
+       minecraft:unluck - 4800 - 0 - false - true
+
+
+cofhcore:unluck2
+   - Effects: 
+       minecraft:unluck - 900 - 1 - false - true
+
+
+cofhcore:wither
+   - Effects: 
+       minecraft:wither - 900 - 0 - false - true
+
+
+cofhcore:wither+
+   - Effects: 
+       minecraft:wither - 1800 - 0 - false - true
+
+
+cofhcore:wither2
+   - Effects: 
+       minecraft:wither - 450 - 1 - false - true
+
+
+cofhcore:leaping3
+   - Effects: 
+       minecraft:jump_boost - 900 - 2 - false - true
+
+
+cofhcore:leaping4
+   - Effects: 
+       minecraft:jump_boost - 720 - 3 - false - true
+
+
+cofhcore:swiftness3
+   - Effects: 
+       minecraft:speed - 900 - 2 - false - true
+
+
+cofhcore:swiftness4
+   - Effects: 
+       minecraft:speed - 720 - 3 - false - true
+
+
+cofhcore:healing3
+   - Effects: 
+       minecraft:instant_health - 1 - 2 - false - true
+
+
+cofhcore:healing4
+   - Effects: 
+       minecraft:instant_health - 1 - 3 - false - true
+
+
+cofhcore:harming3
+   - Effects: 
+       minecraft:instant_damage - 1 - 2 - false - true
+
+
+cofhcore:harming4
+   - Effects: 
+       minecraft:instant_damage - 1 - 3 - false - true
+
+
+cofhcore:poison3
+   - Effects: 
+       minecraft:poison - 225 - 2 - false - true
+
+
+cofhcore:poison4
+   - Effects: 
+       minecraft:poison - 180 - 3 - false - true
+
+
+cofhcore:regeneration3
+   - Effects: 
+       minecraft:regeneration - 225 - 2 - false - true
+
+
+cofhcore:regeneration4
+   - Effects: 
+       minecraft:regeneration - 180 - 3 - false - true
+
+
+cofhcore:strength3
+   - Effects: 
+       minecraft:strength - 900 - 2 - false - true
+
+
+cofhcore:strength4
+   - Effects: 
+       minecraft:strength - 720 - 3 - false - true
+
+
+cofhcore:haste3
+   - Effects: 
+       minecraft:haste - 900 - 2 - false - true
+
+
+cofhcore:haste4
+   - Effects: 
+       minecraft:haste - 720 - 3 - false - true
+
+
+cofhcore:resistance3
+   - Effects: 
+       minecraft:resistance - 900 - 2 - false - true
+
+
+cofhcore:resistance4
+   - Effects: 
+       minecraft:resistance - 720 - 3 - false - true
+
+
+cofhcore:absorption3
+   - Effects: 
+       minecraft:absorption - 900 - 2 - false - true
+
+
+cofhcore:absorption4
+   - Effects: 
+       minecraft:absorption - 720 - 3 - false - true
+
+
+cofhcore:luck3
+   - Effects: 
+       minecraft:luck - 900 - 2 - false - true
+
+
+cofhcore:luck4
+   - Effects: 
+       minecraft:luck - 720 - 3 - false - true
+
+
+cofhcore:unluck3
+   - Effects: 
+       minecraft:unluck - 450 - 2 - false - true
+
+
+cofhcore:unluck4
+   - Effects: 
+       minecraft:unluck - 360 - 3 - false - true
+
+
+cofhcore:wither3
+   - Effects: 
+       minecraft:wither - 225 - 2 - false - true
+
+
+cofhcore:wither4
+   - Effects: 
+       minecraft:wither - 180 - 3 - false - true
+
+
+cofhcore:leaping2+
+   - Effects: 
+       minecraft:jump_boost - 3200 - 1 - false - true
+
+
+cofhcore:leaping3+
+   - Effects: 
+       minecraft:jump_boost - 2400 - 2 - false - true
+
+
+cofhcore:swiftness2+
+   - Effects: 
+       minecraft:speed - 3200 - 1 - false - true
+
+
+cofhcore:swiftness3+
+   - Effects: 
+       minecraft:speed - 2400 - 2 - false - true
+
+
+cofhcore:poison2+
+   - Effects: 
+       minecraft:poison - 600 - 1 - false - true
+
+
+cofhcore:poison3+
+   - Effects: 
+       minecraft:poison - 450 - 2 - false - true
+
+
+cofhcore:regeneration2+
+   - Effects: 
+       minecraft:regeneration - 600 - 1 - false - true
+
+
+cofhcore:regeneration3+
+   - Effects: 
+       minecraft:regeneration - 450 - 2 - false - true
+
+
+cofhcore:strength2+
+   - Effects: 
+       minecraft:strength - 3200 - 1 - false - true
+
+
+cofhcore:strength3+
+   - Effects: 
+       minecraft:strength - 2400 - 2 - false - true
+
+
+cofhcore:haste2+
+   - Effects: 
+       minecraft:haste - 3200 - 1 - false - true
+
+
+cofhcore:haste3+
+   - Effects: 
+       minecraft:haste - 2400 - 2 - false - true
+
+
+cofhcore:resistance2+
+   - Effects: 
+       minecraft:resistance - 3200 - 1 - false - true
+
+
+cofhcore:resistance3+
+   - Effects: 
+       minecraft:resistance - 2400 - 2 - false - true
+
+
+cofhcore:absorption2+
+   - Effects: 
+       minecraft:absorption - 3200 - 1 - false - true
+
+
+cofhcore:absorption3+
+   - Effects: 
+       minecraft:absorption - 2400 - 2 - false - true
+
+
+cofhcore:luck2+
+   - Effects: 
+       minecraft:luck - 3200 - 1 - false - true
+
+
+cofhcore:luck3+
+   - Effects: 
+       minecraft:luck - 2400 - 2 - false - true
+
+
+cofhcore:unluck2+
+   - Effects: 
+       minecraft:unluck - 1600 - 1 - false - true
+
+
+cofhcore:unluck3+
+   - Effects: 
+       minecraft:unluck - 1200 - 2 - false - true
+
+
+cofhcore:wither2+
+   - Effects: 
+       minecraft:wither - 600 - 1 - false - true
+
+
+cofhcore:wither3+
+   - Effects: 
+       minecraft:wither - 450 - 2 - false - true
+
+

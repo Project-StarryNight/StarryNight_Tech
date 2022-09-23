@@ -1,0 +1,41 @@
+{
+    "machine": "Stellaformer",
+    "registryName": "Stellaformer_silver0",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item129",
+			"nbt":{
+                "display":{
+					"Name":"§e时钟座§6星图",
+					"Lore": [
+                        "§f诡异的§e时钟座§f隐藏在时间的各个角落中，无法§b以普通形式§f观测",
+                        "§f利用五大星座的星图作为线索，你成功观测到了§e时钟座。",
+                        "§f吸纳了§5奥力哈钢§f的§e时钟座§6星图§f有着超越时间的力量，任何以它指引的星能机器将§b不分昼夜的运行。"
+                    ]
+				}
+			},
+            "amount": 1,
+			"chance": 0
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 6400000
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:blockTin",
+            "amount": 32
+        },
+		{
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:storage@2",
+            "amount": 32
+        }
+    ]
+}

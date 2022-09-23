@@ -1,0 +1,5471 @@
+{
+    "registryname": "CNRC",
+    "localizedname": "§5复合型§6中子复制压缩机",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -2,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "botania:pylon@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "botania:pylon@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "botania:pylon@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": -6,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -5,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -8,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -8,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -8,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": -5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": -6,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -7,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": -6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": -5,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": -5,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -7,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -7,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -7,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": -5,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -4,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": -5,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": -3,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": -5,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": -5,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": -3,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": -2,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "tconevo:metal_block@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "minecraft:redstone_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": -4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": -4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": -1,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "tconevo:metal_block@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_stairs@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "tconevo:metal_block@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "tconevo:metal_block@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "extrabotany:blockorichalcos@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:lapis_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_stairs@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "draconicevolution:infused_obsidian@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "mekanism:plasticfence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "mekanism:reinforcedplasticblock@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_stairs@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "minecraft:gold_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "appliedenergistics2:quartz_slab@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "contenttweaker:extrememachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        }
+    ]}

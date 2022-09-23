@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "EnderEye",
+    "recipeTime": 5,
+    "requirements":[
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 100000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:ender_pearl",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:ender_eye",
+            "amount": 5
+        }
+    ]
+}

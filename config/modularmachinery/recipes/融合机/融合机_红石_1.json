@@ -1,0 +1,48 @@
+{
+    "machine": "Ultimate_Combiner",
+    "registryName": "Ultimate_Combiner_hongshi",
+    "recipeTime": 30,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 6400
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:cobblestone",
+            "amount": 16
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:redstone_ore",
+            "amount": 16
+        }
+    ]
+}

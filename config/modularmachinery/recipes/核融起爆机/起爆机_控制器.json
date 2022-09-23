@@ -1,0 +1,59 @@
+{
+    "machine": "crafter_tier_2",
+    "registryName": "blueprints_Nuclear_melt_detonator",
+    "recipeTime": 2400,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 80000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanismgenerators:reactor",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:machineblock2@13",
+            "amount": 4
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mekanism:machineblock2@14",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "mets:field_generator",
+            "amount": 20
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ic2:resource@11",
+            "amount": 30
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotAlloyT2",
+            "amount": 6
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "modularmachinery:blockcasing",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:nuclear_melt_detonator_controller"
+        }
+    ]
+}

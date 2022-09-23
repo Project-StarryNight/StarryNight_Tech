@@ -1,0 +1,59 @@
+{
+    "machine": "acar",
+    "registryName": "blueprints_regeneration_machine",
+    "recipeTime": 9600,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ore:circuitUltimate",
+            "amount": 50
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 1000000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ic2:te@63",
+            "amount": 24
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:neutronium_compressor",
+            "amount": 30
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:block_resource@1",
+            "amount": 5
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "extrabotany:blockorichalcos",
+            "amount": 12
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ore:ingotArk",
+            "amount": 6
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "draconicevolution:draconic_block",
+            "amount": 24
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "modularcontroller:regeneration_machine_controller"
+        }
+    ]
+}

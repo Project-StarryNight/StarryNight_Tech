@@ -1,0 +1,26 @@
+{
+    "machine": "super_star_dyson_ball",
+    "registryName": "InfintyBlockx64",
+    "recipeTime": 400,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "contenttweaker:programming_circuit_a",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "avaritia:block_resource@1",
+            "amount": 64,
+            "chance": 0
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 20000000000
+        }
+    ]
+}

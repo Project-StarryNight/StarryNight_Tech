@@ -1,0 +1,25 @@
+{
+    "machine": "beng",
+    "registryName": "yanshui",
+    "recipeTime": 20,
+    "priority": 1,
+    "requirements":[
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "water",
+            "amount": 3300000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "brine",
+            "amount": 330000
+        }
+    ]
+}

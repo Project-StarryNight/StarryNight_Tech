@@ -1,0 +1,43 @@
+{
+    "machine": "starburst_reactor",
+    "registryName": "star_crystal_lv2",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "custommc:item514",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:programming_circuit_a",
+            "amount": 1,
+            "chance": 0
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "crystalloid",
+            "amount": 60
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "cryotheum",
+            "amount": 240000
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 180000000000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "draconicevolution:chaos_shard@1",
+            "amount": 3
+        }
+    ]
+}

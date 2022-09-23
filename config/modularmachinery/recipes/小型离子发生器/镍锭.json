@@ -1,0 +1,24 @@
+{
+    "machine": "ion_generator",
+    "registryName": "TE:material@133",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotCopper",
+            "amount": 5
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@133",
+            "amount": 5
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "machine": "ECO_Y7",
+    "registryName": "crystalloid_a",
+    "recipeTime": 250,
+    "requirements":[
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "custommc:item796",
+            "amount": 1,
+            "chance": 0.02
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 27500000
+        },
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "crystalloid",
+            "amount": 1
+        }
+    ]
+}

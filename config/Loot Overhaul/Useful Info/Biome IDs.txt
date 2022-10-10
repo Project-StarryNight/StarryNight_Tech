@@ -33,7 +33,7 @@ minecraft:desert
    - Height Variation: 0.05
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: DRY HOT SANDY 
+   - Forge Biome Types: HOT SANDY DRY 
 
 
 minecraft:extreme_hills
@@ -87,7 +87,7 @@ minecraft:hell
    - Height Variation: 0.2
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: DRY HOT NETHER 
+   - Forge Biome Types: HOT DRY NETHER 
 
 
 minecraft:sky
@@ -105,7 +105,7 @@ minecraft:frozen_ocean
    - Height Variation: 0.1
    - Humidity: 0.5
    - Temperature: 0.0
-   - Forge Biome Types: COLD OCEAN SNOWY WATER 
+   - Forge Biome Types: OCEAN WATER COLD SNOWY 
 
 
 minecraft:frozen_river
@@ -114,7 +114,7 @@ minecraft:frozen_river
    - Height Variation: 0.0
    - Humidity: 0.5
    - Temperature: 0.0
-   - Forge Biome Types: RIVER COLD SNOWY WATER 
+   - Forge Biome Types: RIVER WATER COLD SNOWY 
 
 
 minecraft:ice_flats
@@ -123,7 +123,7 @@ minecraft:ice_flats
    - Height Variation: 0.05
    - Humidity: 0.5
    - Temperature: 0.0
-   - Forge Biome Types: COLD WASTELAND SNOWY 
+   - Forge Biome Types: WASTELAND COLD SNOWY 
 
 
 minecraft:ice_mountains
@@ -132,7 +132,7 @@ minecraft:ice_mountains
    - Height Variation: 0.3
    - Humidity: 0.5
    - Temperature: 0.0
-   - Forge Biome Types: MOUNTAIN COLD SNOWY 
+   - Forge Biome Types: COLD SNOWY MOUNTAIN 
 
 
 minecraft:mushroom_island
@@ -141,7 +141,7 @@ minecraft:mushroom_island
    - Height Variation: 0.3
    - Humidity: 1.0
    - Temperature: 0.9
-   - Forge Biome Types: RARE MUSHROOM 
+   - Forge Biome Types: MUSHROOM RARE 
 
 
 minecraft:mushroom_island_shore
@@ -150,7 +150,7 @@ minecraft:mushroom_island_shore
    - Height Variation: 0.025
    - Humidity: 1.0
    - Temperature: 0.9
-   - Forge Biome Types: RARE BEACH MUSHROOM 
+   - Forge Biome Types: MUSHROOM RARE BEACH 
 
 
 minecraft:beaches
@@ -168,7 +168,7 @@ minecraft:desert_hills
    - Height Variation: 0.3
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: HILLS DRY HOT SANDY 
+   - Forge Biome Types: HOT HILLS SANDY DRY 
 
 
 minecraft:forest_hills
@@ -204,7 +204,7 @@ minecraft:jungle
    - Height Variation: 0.2
    - Humidity: 0.9
    - Temperature: 0.95
-   - Forge Biome Types: DENSE JUNGLE WET HOT 
+   - Forge Biome Types: HOT WET JUNGLE DENSE 
 
 
 minecraft:jungle_hills
@@ -213,7 +213,7 @@ minecraft:jungle_hills
    - Height Variation: 0.3
    - Humidity: 0.9
    - Temperature: 0.95
-   - Forge Biome Types: DENSE HILLS JUNGLE WET HOT 
+   - Forge Biome Types: HOT WET JUNGLE HILLS DENSE 
 
 
 minecraft:jungle_edge
@@ -222,7 +222,7 @@ minecraft:jungle_edge
    - Height Variation: 0.2
    - Humidity: 0.8
    - Temperature: 0.95
-   - Forge Biome Types: RARE JUNGLE WET HOT FOREST 
+   - Forge Biome Types: HOT WET JUNGLE FOREST RARE 
 
 
 minecraft:deep_ocean
@@ -249,7 +249,7 @@ minecraft:cold_beach
    - Height Variation: 0.025
    - Humidity: 0.3
    - Temperature: 0.05
-   - Forge Biome Types: BEACH COLD SNOWY 
+   - Forge Biome Types: COLD BEACH SNOWY 
 
 
 minecraft:birch_forest
@@ -276,7 +276,7 @@ minecraft:roofed_forest
    - Height Variation: 0.2
    - Humidity: 0.8
    - Temperature: 0.7
-   - Forge Biome Types: DENSE SPOOKY FOREST 
+   - Forge Biome Types: FOREST DENSE SPOOKY 
 
 
 minecraft:taiga_cold
@@ -321,7 +321,7 @@ minecraft:extreme_hills_with_trees
    - Height Variation: 0.5
    - Humidity: 0.3
    - Temperature: 0.2
-   - Forge Biome Types: MOUNTAIN FOREST SPARSE 
+   - Forge Biome Types: SPARSE FOREST MOUNTAIN 
 
 
 minecraft:savanna
@@ -330,7 +330,7 @@ minecraft:savanna
    - Height Variation: 0.05
    - Humidity: 0.0
    - Temperature: 1.2
-   - Forge Biome Types: PLAINS HOT SAVANNA SPARSE 
+   - Forge Biome Types: HOT SPARSE SAVANNA PLAINS 
 
 
 minecraft:savanna_rock
@@ -339,7 +339,7 @@ minecraft:savanna_rock
    - Height Variation: 0.025
    - Humidity: 0.0
    - Temperature: 1.0
-   - Forge Biome Types: PLAINS RARE HOT SAVANNA SPARSE 
+   - Forge Biome Types: HOT SPARSE SAVANNA RARE PLAINS 
 
 
 minecraft:mesa
@@ -348,7 +348,7 @@ minecraft:mesa
    - Height Variation: 0.2
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: DRY MESA SANDY 
+   - Forge Biome Types: SANDY DRY MESA 
 
 
 minecraft:mesa_rock
@@ -357,7 +357,7 @@ minecraft:mesa_rock
    - Height Variation: 0.025
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: DRY MESA SANDY SPARSE 
+   - Forge Biome Types: SPARSE SANDY DRY MESA 
 
 
 minecraft:mesa_clear_rock
@@ -366,7 +366,7 @@ minecraft:mesa_clear_rock
    - Height Variation: 0.025
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: DRY MESA SANDY 
+   - Forge Biome Types: SANDY DRY MESA 
 
 
 jeid:error_biome
@@ -384,7 +384,7 @@ appliedenergistics2:storage_biome
    - Height Variation: 0.2
    - Humidity: 0.5
    - Temperature: -100.0
-   - Forge Biome Types: PLAINS COLD 
+   - Forge Biome Types: COLD PLAINS 
 
 
 nuclearcraft:nuclear_wasteland
@@ -393,7 +393,7 @@ nuclearcraft:nuclear_wasteland
    - Height Variation: 0.02
    - Humidity: 0.5
    - Temperature: 2.0
-   - Forge Biome Types: PLAINS DRY DEAD HOT SAVANNA SPARSE WASTELAND 
+   - Forge Biome Types: HOT WASTELAND SPARSE DRY SAVANNA DEAD PLAINS 
 
 
 sakura:bamboo_forest
@@ -402,7 +402,7 @@ sakura:bamboo_forest
    - Height Variation: 0.2
    - Humidity: 0.9
    - Temperature: 0.95
-   - Forge Biome Types: DENSE JUNGLE WET HOT 
+   - Forge Biome Types: HOT WET JUNGLE DENSE 
 
 
 sakura:maple_forest
@@ -438,7 +438,7 @@ traverse:mini_jungle
    - Height Variation: 0.5
    - Humidity: 0.9
    - Temperature: 0.95
-   - Forge Biome Types: DENSE JUNGLE WET HOT 
+   - Forge Biome Types: JUNGLE HOT WET DENSE 
 
 
 traverse:meadow
@@ -447,7 +447,7 @@ traverse:meadow
    - Height Variation: 0.0
    - Humidity: 0.7
    - Temperature: 0.8
-   - Forge Biome Types: PLAINS WET LUSH 
+   - Forge Biome Types: WET LUSH PLAINS 
 
 
 traverse:green_swamp
@@ -456,7 +456,7 @@ traverse:green_swamp
    - Height Variation: 0.1
    - Humidity: 0.5
    - Temperature: 0.8
-   - Forge Biome Types: WET LUSH SWAMP 
+   - Forge Biome Types: WET SWAMP LUSH 
 
 
 traverse:red_desert
@@ -465,7 +465,7 @@ traverse:red_desert
    - Height Variation: 0.05
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: DRY HOT SANDY 
+   - Forge Biome Types: HOT SANDY DRY 
 
 
 traverse:temperate_rainforest
@@ -483,7 +483,7 @@ traverse:badlands
    - Height Variation: 0.55
    - Humidity: 0.1
    - Temperature: 0.6
-   - Forge Biome Types: PLAINS DRY HOT SPARSE 
+   - Forge Biome Types: HOT SPARSE DRY PLAINS 
 
 
 traverse:mountainous_desert
@@ -492,7 +492,7 @@ traverse:mountainous_desert
    - Height Variation: 1.1
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: MOUNTAIN DRY HOT SANDY 
+   - Forge Biome Types: HOT SANDY DRY MOUNTAIN 
 
 
 traverse:rocky_plateau
@@ -501,7 +501,7 @@ traverse:rocky_plateau
    - Height Variation: 0.0
    - Humidity: 0.2
    - Temperature: 0.8
-   - Forge Biome Types: MOUNTAIN HOT 
+   - Forge Biome Types: HOT MOUNTAIN 
 
 
 traverse:forested_hills
@@ -537,7 +537,7 @@ traverse:cliffs
    - Height Variation: 0.5
    - Humidity: 1.2
    - Temperature: 0.4
-   - Forge Biome Types: HILLS MOUNTAIN COLD 
+   - Forge Biome Types: HILLS COLD MOUNTAIN 
 
 
 traverse:glacier
@@ -546,7 +546,7 @@ traverse:glacier
    - Height Variation: 0.5
    - Humidity: 0.5
    - Temperature: 0.0
-   - Forge Biome Types: MOUNTAIN COLD SNOWY 
+   - Forge Biome Types: COLD SNOWY MOUNTAIN 
 
 
 traverse:glacier_spikes
@@ -555,7 +555,7 @@ traverse:glacier_spikes
    - Height Variation: 0.5
    - Humidity: 0.5
    - Temperature: 0.0
-   - Forge Biome Types: MOUNTAIN COLD SNOWY 
+   - Forge Biome Types: COLD SNOWY MOUNTAIN 
 
 
 traverse:snowy_coniferous_forest
@@ -582,7 +582,7 @@ traverse:desert_shrubland
    - Height Variation: 0.05
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: DRY DEAD HOT SANDY 
+   - Forge Biome Types: HOT SANDY DRY DEAD 
 
 
 traverse:thicket
@@ -591,7 +591,7 @@ traverse:thicket
    - Height Variation: 0.3
    - Humidity: 0.3
    - Temperature: 0.8
-   - Forge Biome Types: DENSE FOREST 
+   - Forge Biome Types: FOREST DENSE 
 
 
 traverse:arid_highland
@@ -600,7 +600,7 @@ traverse:arid_highland
    - Height Variation: 0.4
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: HILLS MOUNTAIN DRY HOT SPARSE 
+   - Forge Biome Types: HOT HILLS SPARSE DRY MOUNTAIN 
 
 
 traverse:rocky_plains
@@ -609,7 +609,7 @@ traverse:rocky_plains
    - Height Variation: 0.15
    - Humidity: 0.7
    - Temperature: 0.9
-   - Forge Biome Types: HILLS PLAINS SPARSE 
+   - Forge Biome Types: HILLS SPARSE PLAINS 
 
 
 advancedrocketry:moon
@@ -618,7 +618,7 @@ advancedrocketry:moon
    - Height Variation: 0.2
    - Humidity: 0.0
    - Temperature: 0.3
-   - Forge Biome Types: DRY WASTELAND COLD 
+   - Forge Biome Types: WASTELAND DRY COLD 
 
 
 advancedrocketry:alien_forest
@@ -627,7 +627,7 @@ advancedrocketry:alien_forest
    - Height Variation: 0.2
    - Humidity: 0.5
    - Temperature: 0.5
-   - Forge Biome Types: MAGICAL FOREST 
+   - Forge Biome Types: FOREST MAGICAL 
 
 
 advancedrocketry:hotdryrock
@@ -636,7 +636,7 @@ advancedrocketry:hotdryrock
    - Height Variation: 0.01
    - Humidity: 0.0
    - Temperature: 0.9
-   - Forge Biome Types: DRY HOT WASTELAND 
+   - Forge Biome Types: HOT WASTELAND DRY 
 
 
 advancedrocketry:space
@@ -699,7 +699,7 @@ advancedrocketry:moondark
    - Height Variation: 0.01
    - Humidity: 0.0
    - Temperature: 0.3
-   - Forge Biome Types: DRY WASTELAND COLD 
+   - Forge Biome Types: WASTELAND DRY COLD 
 
 
 advancedrocketry:volcanic
@@ -708,7 +708,7 @@ advancedrocketry:volcanic
    - Height Variation: 0.9
    - Humidity: 0.0
    - Temperature: 1.0
-   - Forge Biome Types: MOUNTAIN DRY HOT WASTELAND 
+   - Forge Biome Types: HOT WASTELAND DRY MOUNTAIN 
 
 
 advancedrocketry:volcanicbarren
@@ -717,7 +717,7 @@ advancedrocketry:volcanicbarren
    - Height Variation: 0.9
    - Humidity: 0.0
    - Temperature: 1.0
-   - Forge Biome Types: MOUNTAIN DRY HOT WASTELAND 
+   - Forge Biome Types: HOT WASTELAND DRY MOUNTAIN 
 
 
 minecraft:void
@@ -735,7 +735,7 @@ minecraft:mutated_plains
    - Height Variation: 0.05
    - Humidity: 0.4
    - Temperature: 0.8
-   - Forge Biome Types: PLAINS RARE 
+   - Forge Biome Types: RARE PLAINS 
 
 
 minecraft:mutated_desert
@@ -744,7 +744,7 @@ minecraft:mutated_desert
    - Height Variation: 0.25
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: RARE DRY HOT SANDY 
+   - Forge Biome Types: HOT SANDY DRY RARE 
 
 
 minecraft:mutated_extreme_hills
@@ -753,7 +753,7 @@ minecraft:mutated_extreme_hills
    - Height Variation: 0.5
    - Humidity: 0.3
    - Temperature: 0.2
-   - Forge Biome Types: RARE MOUNTAIN SPARSE 
+   - Forge Biome Types: SPARSE RARE MOUNTAIN 
 
 
 minecraft:mutated_forest
@@ -762,7 +762,7 @@ minecraft:mutated_forest
    - Height Variation: 0.4
    - Humidity: 0.8
    - Temperature: 0.7
-   - Forge Biome Types: HILLS RARE FOREST 
+   - Forge Biome Types: HILLS FOREST RARE 
 
 
 minecraft:mutated_taiga
@@ -771,7 +771,7 @@ minecraft:mutated_taiga
    - Height Variation: 0.4
    - Humidity: 0.8
    - Temperature: 0.25
-   - Forge Biome Types: RARE MOUNTAIN CONIFEROUS FOREST COLD 
+   - Forge Biome Types: CONIFEROUS FOREST COLD RARE MOUNTAIN 
 
 
 minecraft:mutated_swampland
@@ -780,7 +780,7 @@ minecraft:mutated_swampland
    - Height Variation: 0.3
    - Humidity: 0.9
    - Temperature: 0.8
-   - Forge Biome Types: HILLS RARE WET SWAMP 
+   - Forge Biome Types: WET HILLS SWAMP RARE 
 
 
 minecraft:mutated_ice_flats
@@ -789,7 +789,7 @@ minecraft:mutated_ice_flats
    - Height Variation: 0.45000002
    - Humidity: 0.5
    - Temperature: 0.0
-   - Forge Biome Types: HILLS RARE COLD SNOWY 
+   - Forge Biome Types: HILLS COLD RARE SNOWY 
 
 
 minecraft:mutated_jungle
@@ -798,7 +798,7 @@ minecraft:mutated_jungle
    - Height Variation: 0.4
    - Humidity: 0.9
    - Temperature: 0.95
-   - Forge Biome Types: DENSE RARE MOUNTAIN JUNGLE WET HOT 
+   - Forge Biome Types: HOT WET JUNGLE DENSE RARE MOUNTAIN 
 
 
 minecraft:mutated_jungle_edge
@@ -807,7 +807,7 @@ minecraft:mutated_jungle_edge
    - Height Variation: 0.4
    - Humidity: 0.8
    - Temperature: 0.95
-   - Forge Biome Types: HILLS RARE JUNGLE HOT SPARSE 
+   - Forge Biome Types: HOT JUNGLE HILLS SPARSE RARE 
 
 
 minecraft:mutated_birch_forest
@@ -816,7 +816,7 @@ minecraft:mutated_birch_forest
    - Height Variation: 0.4
    - Humidity: 0.6
    - Temperature: 0.6
-   - Forge Biome Types: DENSE HILLS RARE FOREST 
+   - Forge Biome Types: HILLS FOREST DENSE RARE 
 
 
 minecraft:mutated_birch_forest_hills
@@ -825,7 +825,7 @@ minecraft:mutated_birch_forest_hills
    - Height Variation: 0.5
    - Humidity: 0.6
    - Temperature: 0.6
-   - Forge Biome Types: DENSE RARE MOUNTAIN FOREST 
+   - Forge Biome Types: FOREST DENSE RARE MOUNTAIN 
 
 
 minecraft:mutated_roofed_forest
@@ -834,7 +834,7 @@ minecraft:mutated_roofed_forest
    - Height Variation: 0.4
    - Humidity: 0.8
    - Temperature: 0.7
-   - Forge Biome Types: DENSE RARE MOUNTAIN SPOOKY FOREST 
+   - Forge Biome Types: FOREST DENSE SPOOKY RARE MOUNTAIN 
 
 
 minecraft:mutated_taiga_cold
@@ -843,7 +843,7 @@ minecraft:mutated_taiga_cold
    - Height Variation: 0.4
    - Humidity: 0.4
    - Temperature: -0.5
-   - Forge Biome Types: RARE MOUNTAIN CONIFEROUS FOREST COLD SNOWY 
+   - Forge Biome Types: CONIFEROUS FOREST COLD RARE SNOWY MOUNTAIN 
 
 
 minecraft:mutated_redwood_taiga
@@ -852,7 +852,7 @@ minecraft:mutated_redwood_taiga
    - Height Variation: 0.2
    - Humidity: 0.8
    - Temperature: 0.25
-   - Forge Biome Types: DENSE RARE FOREST 
+   - Forge Biome Types: FOREST DENSE RARE 
 
 
 minecraft:mutated_redwood_taiga_hills
@@ -861,7 +861,7 @@ minecraft:mutated_redwood_taiga_hills
    - Height Variation: 0.2
    - Humidity: 0.8
    - Temperature: 0.25
-   - Forge Biome Types: DENSE HILLS RARE FOREST 
+   - Forge Biome Types: HILLS FOREST DENSE RARE 
 
 
 minecraft:mutated_extreme_hills_with_trees
@@ -870,7 +870,7 @@ minecraft:mutated_extreme_hills_with_trees
    - Height Variation: 0.5
    - Humidity: 0.3
    - Temperature: 0.2
-   - Forge Biome Types: RARE MOUNTAIN SPARSE 
+   - Forge Biome Types: SPARSE RARE MOUNTAIN 
 
 
 minecraft:mutated_savanna
@@ -879,7 +879,7 @@ minecraft:mutated_savanna
    - Height Variation: 1.225
    - Humidity: 0.0
    - Temperature: 1.1
-   - Forge Biome Types: RARE MOUNTAIN DRY HOT SPARSE SAVANNA 
+   - Forge Biome Types: HOT SPARSE DRY SAVANNA RARE MOUNTAIN 
 
 
 minecraft:mutated_savanna_rock
@@ -888,7 +888,7 @@ minecraft:mutated_savanna_rock
    - Height Variation: 1.2125001
    - Humidity: 0.0
    - Temperature: 1.0
-   - Forge Biome Types: HILLS RARE DRY HOT SPARSE SAVANNA 
+   - Forge Biome Types: HOT HILLS SPARSE DRY SAVANNA RARE 
 
 
 minecraft:mutated_mesa
@@ -897,7 +897,7 @@ minecraft:mutated_mesa
    - Height Variation: 0.2
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: RARE MOUNTAIN DRY HOT SPARSE 
+   - Forge Biome Types: HOT SPARSE DRY RARE MOUNTAIN 
 
 
 minecraft:mutated_mesa_rock
@@ -906,7 +906,7 @@ minecraft:mutated_mesa_rock
    - Height Variation: 0.3
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: HILLS RARE DRY HOT SPARSE 
+   - Forge Biome Types: HOT HILLS SPARSE DRY RARE 
 
 
 minecraft:mutated_mesa_clear_rock
@@ -915,6 +915,6 @@ minecraft:mutated_mesa_clear_rock
    - Height Variation: 0.3
    - Humidity: 0.0
    - Temperature: 2.0
-   - Forge Biome Types: RARE MOUNTAIN DRY HOT SPARSE 
+   - Forge Biome Types: HOT SPARSE DRY RARE MOUNTAIN 
 
 

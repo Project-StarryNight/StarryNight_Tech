@@ -440,6 +440,38 @@ astralsorcery:enchantment.as.smelting
    - Max Level: 1
 
 
+variedcommodities:vc_damage
+   - Id: 54
+   - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 5
+
+
+variedcommodities:vc_poison
+   - Id: 55
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 2
+
+
+variedcommodities:vc_confusion
+   - Id: 56
+   - Rarity: RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 2
+
+
+variedcommodities:vc_infinite
+   - Id: 57
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
 minecraft:luck_of_the_sea
    - Id: 61
    - Rarity: RARE

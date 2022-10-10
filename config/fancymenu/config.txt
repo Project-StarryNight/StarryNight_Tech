@@ -55,7 +55,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = '纸箱工艺 Rebirth 1.2 by Hikari_Nova';
+S:customwindowtitle = 'StarryNight Tech 1.0 by Hikari_Nova';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

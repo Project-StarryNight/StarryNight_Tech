@@ -250,7 +250,7 @@ customization {
   action = addbutton
   y = -36
   backgroundnormal = resources\mainmenu\paperbox.png
-  value = play.paperboxmc.cn
+  value = doublestack.kasuminova.cn
   height = 30
 }
 
@@ -267,7 +267,7 @@ customization {
   action = addbutton
   y = -1
   backgroundnormal = resources\mainmenu\qqgroup.png
-  value = 点击链接加入群聊【纸箱工艺丨格雷魔法】：https://jq.qq.com/?_wv=1027&k=SbOcAkIP
+  value = https://jq.qq.com/?_wv=1027&k=SbOcAkIP
   height = 30
 }
 

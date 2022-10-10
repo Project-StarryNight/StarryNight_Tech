@@ -251,26 +251,6 @@ enderio:long_floating
        minecraft:levitation - 560 - 0 - false - true
 
 
-techguns:radpotion
-   - Effects: 
-       techguns:radiation - 300 - 4 - false - true
-
-
-techguns:radpotion_severe
-   - Effects: 
-       techguns:radiation - 300 - 24 - false - true
-
-
-techguns:radregenerationpotion
-   - Effects: 
-       techguns:radregeneration - 400 - 9 - false - true
-
-
-techguns:radresistancepotion
-   - Effects: 
-       techguns:radresistance - 900 - 1 - false - true
-
-
 resize:shrinking
    - Effects: 
        resize:shrinking - 4800 - 0 - false - true

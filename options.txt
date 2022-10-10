@@ -1,7 +1,7 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.25
 gamma:1.0
 saturation:0.0
 renderDistance:8
@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:2
 renderClouds:true
@@ -194,17 +194,13 @@ key_key.plustic_toggle_tool.desc:51:ALT
 key_key.plustic_fruit_salad.desc:12:ALT
 key_key.plustic_mots.desc:13:ALT
 key_key.taiga.alt_action:29
+key_Options Gui:23
 key_key.infinity_armor.noclip:40
 key_keys.armourers_workshop.undo:44:CONTROL
 key_keys.armourers_workshop.open-wardrobe:25
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
 key_key.sakura.sheath_in:47
-key_techguns.key.toggleNightvision:49
-key_techguns.key.toggleSafemode:48
-key_techguns.key.toggleStepassist:47
-key_techguns.key.forceReload:19
-key_techguns.key.toggleJetpack:36
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_key.itemzoom.toggle:44:SHIFT
@@ -262,7 +258,7 @@ key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

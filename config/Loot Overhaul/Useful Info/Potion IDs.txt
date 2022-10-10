@@ -952,30 +952,6 @@ extrabotany:healreverse
 	- Is Beneficial: true
 
 
-techguns:radiation
-   - Id: 118
-   - Color: -805765376
-   - Is Instant: false
-   - Is Bad: true
-	- Is Beneficial: false
-
-
-techguns:radresistance
-   - Id: 119
-   - Color: -6706131
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: true
-
-
-techguns:radregeneration
-   - Id: 120
-   - Color: 268050432
-   - Is Instant: false
-   - Is Bad: false
-	- Is Beneficial: false
-
-
 tconevo:immortality
    - Id: 121
    - Color: 15450243

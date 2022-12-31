@@ -9,13 +9,13 @@
             "energyPerTick": 100000
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item794",
             "amount": 1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "botania:manaresource@4",
             "amount": 1
@@ -26,7 +26,7 @@
             "mana": 500000
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "custommc:item798",
             "amount": 1

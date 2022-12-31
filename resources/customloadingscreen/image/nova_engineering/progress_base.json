@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/image",
+    "image": "customloadingscreen:image/nova_engineering/progress_base.png",
+    "position_type": "CENTER",
+    "offset_pos": "CENTER",
+    "position": {
+        "x": "0",
+        "y": "screen_height * 0.15",
+        "width": "screen_width * 0.7",
+        "height": "21"
+    },
+    "texture": {
+        "x": "0",
+        "y": "0",
+        "width": "1",
+        "height": "1"
+    }
+}

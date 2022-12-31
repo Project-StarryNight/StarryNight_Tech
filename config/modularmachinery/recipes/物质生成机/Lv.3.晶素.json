@@ -4,26 +4,26 @@
     "recipeTime": 100,
     "requirements":[
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item885",
             "amount": 2,
             "chance": 0
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "contenttweaker:programming_circuit_a",
             "amount": 1,
             "chance": 0
         },
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 350000000
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "output",
             "fluid": "crystalloid",
             "amount": 5

@@ -4,36 +4,36 @@
     "recipeTime": 100,
     "requirements": [
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 9600
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "mets:super_circuit",
             "amount": 10
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "mets:super_iridium_compress_plate",
             "amount": 8
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "mets:nano_living_metal",
             "amount": 16
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "mets:superconducting_cable",
             "amount": 16
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "mets:living_circuit",
             "amount": 12

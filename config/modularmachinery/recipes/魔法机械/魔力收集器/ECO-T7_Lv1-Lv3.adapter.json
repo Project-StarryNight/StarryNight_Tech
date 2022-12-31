@@ -10,20 +10,20 @@
         },
         {
             "io": "input",
-            "target": "duration",
+            "target": "modularmachinery:duration",
             "operation": 1,
             "multiplier": 1.50
         },
         {
             "io": "input",
-            "target": "item",
+            "target": "modularmachinery:item",
             "operation": 1,
             "multiplier": 0.75,
             "affectChance": true
         },
         {
             "io": "input",
-            "target": "energy",
+            "target": "modularmachinery:energy",
             "operation": 1,
             "multiplier": 1.5
         }

@@ -5,7 +5,7 @@
     "priority": 2,
     "requirements":[
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 750000
         },
@@ -16,7 +16,7 @@
             "chance": 0
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "output",
             "fluid": "heavywater",
             "amount": 18000

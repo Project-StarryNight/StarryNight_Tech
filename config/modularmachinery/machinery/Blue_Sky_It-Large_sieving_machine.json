@@ -9,20 +9,20 @@
             "x": 0,
             "y": 6,
             "z": 0,
-            "description": "将机器的能源输入仓换为§e大型能源输入仓§r以提高§b30%§r效率,但会提高§c100%§r能耗",
+            "description": "将机器的能源输入仓换为§e大型能源输入仓§r以减少§b30%§r耗时,但会提高§c100%§r能耗",
             "modifier": [
-            {
-                "io": "input",
-                "target": "energy",
-                "operation": 1,
-                "multiplier": 2
-            },
-            {
-                "io":"input",
-                "target": "duration",
-                "operation": 1,
-                "multiplier": 0.7
-            }
+                {
+                    "io": "input",
+                    "target": "modularmachinery:energy",
+                    "operation": 1,
+                    "multiplier": 2
+                },
+                {
+                    "io": "input",
+                    "target": "modularmachinery:duration",
+                    "operation": 1,
+                    "multiplier": 0.7
+                }
             ]
         },
         {
@@ -30,41 +30,41 @@
             "x": 0,
             "y": 6,
             "z": 0,
-            "description": "将机器的能源输入仓换为§e巨型能源输入仓以提高§b50%§r效率,但会提高§c250%§r能耗",
+            "description": "将机器的能源输入仓换为§e巨型能源输入仓§r以减少§b50%§r耗时,但会提高§c250%§r能耗",
             "modifier": [
-            {
-                "io": "input",
-                "target": "energy",
-                "operation": 1,
-                "multiplier": 3.5
-            },
-            {
-                "io":"input",
-                "target": "duration",
-                "operation": 1,
-                "multiplier": 0.5
-            }
+                {
+                    "io": "input",
+                    "target": "modularmachinery:energy",
+                    "operation": 1,
+                    "multiplier": 3.5
+                },
+                {
+                    "io": "input",
+                    "target": "modularmachinery:duration",
+                    "operation": 1,
+                    "multiplier": 0.5
+                }
             ]
         },
         {
-            "elements": "modularmachinery:blockenergyinputhatch@4",
+            "elements": "modularmachinery:blockenergyinputhatch@6",
             "x": 0,
             "y": 6,
             "z": 0,
-            "description": "将机器的能源输入仓换为§e超级能源输入仓§r以提高§b80%§r效率,但会提高§c750%§r能耗",
+            "description": "将机器的能源输入仓换为§e超级能源输入仓§r以减少§b80%§r耗时,但会提高§c750%§r能耗",
             "modifier": [
-            {
-                "io": "input",
-                "target": "energy",
-                "operation": 1,
-                "multiplier": 8.5
-            },
-            {
-                "io":"input",
-                "target": "duration",
-                "operation": 1,
-                "multiplier": 0.2
-            }
+                {
+                    "io": "input",
+                    "target": "modularmachinery:energy",
+                    "operation": 1,
+                    "multiplier": 8.5
+                },
+                {
+                    "io": "input",
+                    "target": "modularmachinery:duration",
+                    "operation": 1,
+                    "multiplier": 0.2
+                }
             ]
         }
     ],
@@ -1629,4 +1629,5 @@
                 "cfm:castle_netting@0"
             ]
         }
-    ]}
+    ]
+}

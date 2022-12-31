@@ -1,6 +1,6 @@
 {
     "registryname": "starburst_reactor",
-	"localizedname": "§5星宿§6反应堆",
+    "localizedname": "§5星宿§6反应堆",
     "failure-action": "still",
     "color": "87CEEB",
     "requires-blueprint": false,
@@ -6901,4 +6901,5 @@
                 "thermalfoundation:storage_alloy@6"
             ]
         }
-    ]}
+    ]
+}

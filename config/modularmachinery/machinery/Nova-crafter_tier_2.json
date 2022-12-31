@@ -1,6 +1,6 @@
 {
     "registryname": "crafter_tier_2",
-	"localizedname": "§b精密装配机",
+    "localizedname": "§b精密装配机",
     "failure-action": "still",
     "requires-blueprint": false,
     "color": "C0C0C0",
@@ -13,7 +13,7 @@
             "description": "将机器的能量输入仓换为巨型能源输入仓以降低10%能量消耗",
             "modifier": {
                 "io": "input",
-                "target": "energy",
+                "target": "modularmachinery:energy",
                 "operation": 1,
                 "multiplier": 0.9
             }
@@ -24,21 +24,23 @@
             "y": 4,
             "z": 0,
             "description": "将机器的能量输入仓换为超级能源输入仓以提升40%处理速度,但是会提升60%能量消耗",
-            "modifier": [{
-                "io": "input",
-                "target": "energy",
-                "operation": 1,
-                "multiplier": 1.6
-            },
-            {
-                "io":"input",
-                "target": "duration",
-                "operation": 1,
-                "multiplier": 0.6
-            }
-        ]}
+            "modifier": [
+                {
+                    "io": "input",
+                    "target": "modularmachinery:energy",
+                    "operation": 1,
+                    "multiplier": 1.6
+                },
+                {
+                    "io": "input",
+                    "target": "modularmachinery:duration",
+                    "operation": 1,
+                    "multiplier": 0.6
+                }
+            ]
+        }
     ],
-	"parts": [
+    "parts": [
         {
             "x": -1,
             "y": 0,
@@ -2135,4 +2137,5 @@
                 "mekanism:plasticfence@8"
             ]
         }
-    ]}
+    ]
+}

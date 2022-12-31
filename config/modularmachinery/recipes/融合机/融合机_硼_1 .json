@@ -4,42 +4,42 @@
     "recipeTime": 30,
     "requirements": [
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 12800
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "nuclearcraft:dust@5",
             "amount": 64
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "nuclearcraft:dust@5",
             "amount": 64
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "nuclearcraft:dust@5",
             "amount": 64
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "nuclearcraft:dust@5",
             "amount": 64
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "minecraft:cobblestone",
             "amount": 32
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "nuclearcraft:ore@5",
             "amount": 32

@@ -4,41 +4,41 @@
     "recipeTime": 360000,
     "requirements": [
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 6000000
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "ic2uu_matter",
             "amount": 2147483647
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "avaritia:infinity_bow"
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "ore:ingotAlloyT3",
             "amount": 4
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "ore:gemCrystalRGP",
             "amount": 64
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "avaritiatweaks:enhancement_crystal",
             "amount": 8
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "tconstruct:longbow",
             "nbt": {

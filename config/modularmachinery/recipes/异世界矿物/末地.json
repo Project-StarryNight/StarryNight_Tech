@@ -4,61 +4,61 @@
     "recipeTime": 1200,
     "requirements":[
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 20000
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "minecraft:end_stone",
             "amount": 1,
             "chance": 0
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "taiga:palladium_ore",
             "amount": 12,
             "chance": 0.1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "taiga:abyssum_ore",
             "amount": 12,
             "chance": 0.1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "taiga:uru_ore",
             "amount": 8,
             "chance": 0.1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "thermalfoundation:ore_fluid@4",
             "amount": 12,
             "chance": 0.1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "rftools:dimensional_shard_ore@2",
             "amount": 8,
             "chance": 0.1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "taiga:aurorium_ore",
             "amount": 8,
             "chance": 0.1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "draconicevolution:draconium_ore@2",
             "amount": 12,

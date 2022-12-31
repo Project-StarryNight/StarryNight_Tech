@@ -26,7 +26,7 @@
             "amount": 10
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "ore:ingotAlloyT1",
             "amount": 6

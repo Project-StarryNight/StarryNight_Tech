@@ -12,7 +12,7 @@
             "description": "将机械控制器上方的中间一个龙块更换成§e混沌金属块§r以提高§c25%§r能量产出",
             "modifier": {
                 "io": "output",
-                "target": "energy",
+                "target": "modularmachinery:energy",
                 "operation": 1,
                 "multiplier": 1.25
             }
@@ -25,7 +25,7 @@
             "description": "将机械控制器上方的中间一个龙块更换成§e恒星合金块§r以提高§c10%§r能量产出",
             "modifier": {
                 "io": "output",
-                "target": "energy",
+                "target": "modularmachinery:energy",
                 "operation": 1,
                 "multiplier": 1.1
             }
@@ -38,7 +38,7 @@
             "description": "将机械控制器上方的中间一个龙块更换成§e无尽块§r以提高§c100%§r能量产出",
             "modifier": {
                 "io": "output",
-                "target": "energy",
+                "target": "modularmachinery:energy",
                 "operation": 1,
                 "multiplier": 2
             }
@@ -6405,4 +6405,5 @@
                 "minecraft:concrete@0"
             ]
         }
-    ]}
+    ]
+}

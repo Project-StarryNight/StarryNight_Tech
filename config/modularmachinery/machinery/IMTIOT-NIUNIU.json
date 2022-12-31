@@ -3,7 +3,7 @@
     "localizedname": "§e牛牛机",
     "failure-action": "still",
     "requires-blueprint": false,
-    "color":"FFAA33",
+    "color": "FFAA33",
     "parts": [
         {
             "x": -1,
@@ -2925,4 +2925,5 @@
                 "mekanism:glowplasticblock@14"
             ]
         }
-    ]}
+    ]
+}

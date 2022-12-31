@@ -4,18 +4,18 @@
     "recipeTime": 20,
     "requirements":[
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "ic2uu_matter",
             "amount": 500
         },
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 500000000
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "output",
             "fluid": "neutron",
             "amount": 1000

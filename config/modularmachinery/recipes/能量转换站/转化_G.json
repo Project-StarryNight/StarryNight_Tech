@@ -4,20 +4,20 @@
     "recipeTime": 1,
     "requirements": [
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "liquid_energy",
             "amount": 50
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "contenttweaker:programming_circuit_g",
             "amount": 1,
             "chance": 0
         },
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "output",
             "energyPerTick": 250000000000
         }

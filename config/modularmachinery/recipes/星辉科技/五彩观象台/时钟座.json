@@ -11,12 +11,12 @@
 			"end": 23999
 		},
 		{
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 6400
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -33,7 +33,7 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -50,7 +50,7 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -67,7 +67,7 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -84,7 +84,7 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -101,19 +101,19 @@
 			"chance": 0
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "extrabotany:material@1",
             "amount": 1
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "minecraft:paper",
             "amount": 1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "custommc:item129",
 			"nbt":{

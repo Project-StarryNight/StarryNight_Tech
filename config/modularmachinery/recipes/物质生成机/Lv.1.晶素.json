@@ -4,19 +4,19 @@
     "recipeTime": 250,
     "requirements":[
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item796",
             "amount": 1,
             "chance": 0.02
         },
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 27500000
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "output",
             "fluid": "crystalloid",
             "amount": 1

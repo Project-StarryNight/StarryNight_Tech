@@ -4,41 +4,41 @@
     "recipeTime": 180000,
     "requirements": [
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 6000000
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "ic2uu_matter",
             "amount": 2147483647
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "minecraft:diamond_sword"
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "ore:ingotAlloyT3",
             "amount": 1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "ore:gemCrystalRGP",
             "amount": 16
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "avaritiatweaks:enhancement_crystal",
             "amount": 2
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "minecraft:diamond_sword",
             "nbt": {"ench":[

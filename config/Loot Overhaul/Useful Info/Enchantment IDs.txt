@@ -104,16 +104,8 @@ draconicevolution:enchant_reaper
    - Max Level: 5
 
 
-advancedrocketry:spacebreathing
-   - Id: 12
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
 endercore:xpboost
-   - Id: 13
+   - Id: 12
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -121,7 +113,7 @@ endercore:xpboost
 
 
 endercore:autosmelt
-   - Id: 14
+   - Id: 13
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -129,11 +121,19 @@ endercore:autosmelt
 
 
 enderio:repellent
-   - Id: 15
+   - Id: 14
    - Rarity: VERY_RARE
    - Treasure: false
    - Min Level: 1
    - Max Level: 4
+
+
+enderio:witherweapon
+   - Id: 15
+   - Rarity: UNCOMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
 
 
 minecraft:sharpness
@@ -192,16 +192,8 @@ minecraft:sweeping
    - Max Level: 3
 
 
-enderio:witherarrow
-   - Id: 23
-   - Rarity: UNCOMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
 enderio:soulbound
-   - Id: 24
+   - Id: 23
    - Rarity: VERY_RARE
    - Treasure: false
    - Min Level: 1
@@ -209,15 +201,15 @@ enderio:soulbound
 
 
 enderio:shimmer
-   - Id: 25
+   - Id: 24
    - Rarity: VERY_RARE
    - Treasure: true
    - Min Level: 1
    - Max Level: 1
 
 
-enderio:witherweapon
-   - Id: 26
+enderio:witherarrow
+   - Id: 25
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -225,7 +217,7 @@ enderio:witherweapon
 
 
 mets:efficient_energy_cost
-   - Id: 27
+   - Id: 26
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -233,7 +225,7 @@ mets:efficient_energy_cost
 
 
 ebwizardry:magic_sword
-   - Id: 28
+   - Id: 27
    - Rarity: COMMON
    - Treasure: false
    - Min Level: 1
@@ -241,7 +233,7 @@ ebwizardry:magic_sword
 
 
 ebwizardry:magic_bow
-   - Id: 29
+   - Id: 28
    - Rarity: COMMON
    - Treasure: false
    - Min Level: 1
@@ -249,7 +241,7 @@ ebwizardry:magic_bow
 
 
 ebwizardry:flaming_weapon
-   - Id: 30
+   - Id: 29
    - Rarity: COMMON
    - Treasure: false
    - Min Level: 1
@@ -257,8 +249,16 @@ ebwizardry:flaming_weapon
 
 
 ebwizardry:freezing_weapon
-   - Id: 31
+   - Id: 30
    - Rarity: COMMON
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 4
+
+
+ebwizardry:magic_protection
+   - Id: 31
+   - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
    - Max Level: 4
@@ -296,16 +296,8 @@ minecraft:fortune
    - Max Level: 3
 
 
-ebwizardry:magic_protection
-   - Id: 36
-   - Rarity: UNCOMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
 ebwizardry:frost_protection
-   - Id: 37
+   - Id: 36
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -313,23 +305,15 @@ ebwizardry:frost_protection
 
 
 ebwizardry:shock_protection
-   - Id: 38
+   - Id: 37
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
    - Max Level: 4
 
 
-matteroverdrive:overclock
-   - Id: 39
-   - Rarity: COMMON
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 4
-
-
 cofhcore:holding
-   - Id: 40
+   - Id: 38
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -337,7 +321,7 @@ cofhcore:holding
 
 
 cofhcore:insight
-   - Id: 41
+   - Id: 39
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -345,7 +329,7 @@ cofhcore:insight
 
 
 cofhcore:leech
-   - Id: 42
+   - Id: 40
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -353,7 +337,7 @@ cofhcore:leech
 
 
 cofhcore:multishot
-   - Id: 43
+   - Id: 41
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -361,7 +345,7 @@ cofhcore:multishot
 
 
 cofhcore:smashing
-   - Id: 44
+   - Id: 42
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -369,7 +353,7 @@ cofhcore:smashing
 
 
 cofhcore:smelting
-   - Id: 45
+   - Id: 43
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -377,7 +361,7 @@ cofhcore:smelting
 
 
 cofhcore:soulbound
-   - Id: 46
+   - Id: 44
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -385,11 +369,27 @@ cofhcore:soulbound
 
 
 cofhcore:vorpal
-   - Id: 47
+   - Id: 45
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
    - Max Level: 3
+
+
+astralsorcery:enchantment.as.nightvision
+   - Id: 46
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
+
+
+astralsorcery:enchantment.as.smelting
+   - Id: 47
+   - Rarity: VERY_RARE
+   - Treasure: false
+   - Min Level: 1
+   - Max Level: 1
 
 
 minecraft:power
@@ -424,24 +424,8 @@ minecraft:infinity
    - Max Level: 1
 
 
-astralsorcery:enchantment.as.nightvision
-   - Id: 52
-   - Rarity: VERY_RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
-astralsorcery:enchantment.as.smelting
-   - Id: 53
-   - Rarity: VERY_RARE
-   - Treasure: false
-   - Min Level: 1
-   - Max Level: 1
-
-
 variedcommodities:vc_damage
-   - Id: 54
+   - Id: 52
    - Rarity: COMMON
    - Treasure: false
    - Min Level: 1
@@ -449,7 +433,7 @@ variedcommodities:vc_damage
 
 
 variedcommodities:vc_poison
-   - Id: 55
+   - Id: 53
    - Rarity: UNCOMMON
    - Treasure: false
    - Min Level: 1
@@ -457,7 +441,7 @@ variedcommodities:vc_poison
 
 
 variedcommodities:vc_confusion
-   - Id: 56
+   - Id: 54
    - Rarity: RARE
    - Treasure: false
    - Min Level: 1
@@ -465,7 +449,7 @@ variedcommodities:vc_confusion
 
 
 variedcommodities:vc_infinite
-   - Id: 57
+   - Id: 55
    - Rarity: VERY_RARE
    - Treasure: false
    - Min Level: 1

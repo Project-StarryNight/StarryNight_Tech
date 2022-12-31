@@ -23,7 +23,7 @@ var recipeItems as IItemStack[] = [
     <super_solar_panels:crafting:50>,
     <super_solar_panels:crafting:44>,
     <avaritia:extreme_crafting_table>,
-    <betterp2p:better_memory_card>,
+    <betterp2p:advanced_memory_card>,
     <super_solar_panels:machines:48>,
     <super_solar_panels:machines:34>,
     <super_solar_panels:machines:33>,
@@ -333,10 +333,16 @@ var recipeItems as IItemStack[] = [
     <draconicevolution:draconic_spawner>,
     <super_solar_panels:crafting:30>,
     <super_solar_panels:crafting:31>,
-    <wct:magnet_card>
+    <wct:magnet_card>,
+    <rftools:storage_scanner>,
+    <mekanism:machineblock2:11>.withTag({tier: 0}),
+    <mekanism:machineblock2:11>.withTag({tier: 1}),
+    <mekanism:machineblock2:11>.withTag({tier: 2}),
+    <mekanism:machineblock2:11>.withTag({tier: 3}),
+    <mekanism:machineblock2>
 ];
 
-for i, recipeItem in recipeItems {
+for recipeItem in recipeItems {
     recipes.remove(recipeItem);
 }
 
@@ -390,7 +396,11 @@ var jeiItems as IItemStack[] = [
     <mets:te:30>,
     <mets:te:31>,
     <mets:plasma_air_cannon>,
-    <mets:electric_rocket_launcher>
+    <mets:electric_rocket_launcher>,
+    <rftools:storage_scanner>,
+    <cookingforblockheads:fridge>,
+    <bloodmagic:teleposer>,
+    <mekanism:machineblock:13>
 ];
 
 for jeiItem in jeiItems {

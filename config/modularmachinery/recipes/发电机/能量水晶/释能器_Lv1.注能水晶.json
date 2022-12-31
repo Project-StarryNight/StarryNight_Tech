@@ -10,7 +10,7 @@
             "amount": 1
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "cryotheum",
             "amount": 40000

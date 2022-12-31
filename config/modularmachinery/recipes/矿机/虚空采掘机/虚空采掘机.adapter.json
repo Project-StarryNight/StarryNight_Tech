@@ -4,19 +4,19 @@
     "modifiers": [
         {
             "io": "input",
-            "target": "energy",
+            "target": "modularmachinery:energy",
             "operation": 1,
             "multiplier": 0.5
         },
         {
             "io": "input",
-            "target": "duration",
+            "target": "modularmachinery:duration",
             "operation": 1,
             "multiplier": 2
         },
         {
             "io": "output",
-            "target": "item",
+            "target": "modularmachinery:item",
             "operation": 1,
             "multiplier": 0.5
         }

@@ -17,19 +17,19 @@
             "chance": 0
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "cryotheum",
             "amount": 60000
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "output",
             "fluid": "liquid_energy",
             "amount": 360
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "output",
             "fluid": "plasma",
             "amount": 3000

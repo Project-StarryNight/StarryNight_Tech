@@ -39,7 +39,7 @@
             "amount": 30
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "ore:ingotAlloyT2",
             "amount": 6

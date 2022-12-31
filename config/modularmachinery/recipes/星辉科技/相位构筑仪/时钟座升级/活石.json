@@ -4,7 +4,7 @@
     "recipeTime": 20,
     "requirements":[
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item129",
 			"nbt":{
@@ -21,13 +21,13 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "minecraft:stone",
 			"amount": 5
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "botania:livingrock",
             "amount": 5

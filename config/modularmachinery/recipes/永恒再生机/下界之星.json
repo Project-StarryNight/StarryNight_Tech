@@ -4,31 +4,31 @@
     "recipeTime": 200,
     "requirements":[
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 125000000
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item14",
             "amount": 1,
             "chance": 0
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "minecraft:skull@1",
             "amount": 32
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "minecraft:nether_star",
             "amount": 32
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "minecraft:nether_star",
             "amount": 16,

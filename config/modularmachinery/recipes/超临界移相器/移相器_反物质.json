@@ -18,7 +18,7 @@
         {
             "type": "modularmachinery:energy",
             "io-type": "input",
-            "energyPerTick": 2147483647
+            "energyPerTick": 2000000000
         }
     ]
 }

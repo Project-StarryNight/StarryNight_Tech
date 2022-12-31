@@ -1,6 +1,7 @@
 {
     "registryname": "ark_auxiliary_warehouse",
-	"localizedname": "§9方舟§6辅助仓",
+    "localizedname": "§9方舟§6辅助仓",
+    "failure-action": "still",
     "color": "87CEEB",
     "requires-blueprint": false,
     "parts": [
@@ -356,4 +357,5 @@
                 "appliedenergistics2:quartz_slab@8"
             ]
         }
-    ]}
+    ]
+}

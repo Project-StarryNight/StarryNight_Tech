@@ -51,7 +51,7 @@
             "amount": 4
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "ic2uu_matter",
             "amount": 450000000

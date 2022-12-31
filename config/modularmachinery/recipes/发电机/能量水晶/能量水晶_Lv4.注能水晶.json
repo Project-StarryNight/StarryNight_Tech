@@ -17,7 +17,7 @@
             "chance": 0
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "cryotheum",
             "amount": 3840000

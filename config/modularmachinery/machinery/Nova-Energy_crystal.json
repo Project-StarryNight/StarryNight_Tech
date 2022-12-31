@@ -1,6 +1,6 @@
 {
     "registryname": "Energy_crystal",
-	"localizedname": "§e能量转换§d核晶 α型",
+    "localizedname": "§e能量转换§d核晶 α型",
     "failure-action": "still",
     "color": "FFFFFF",
     "requires-blueprint": false,
@@ -13,7 +13,7 @@
             "description": "将机器左方的流体输入仓换为§e真空流体输入仓§r以降低§a10%§r流体消耗",
             "modifier": {
                 "io": "input",
-                "target": "fluid",
+                "target": "modularmachinery:fluid",
                 "operation": 1,
                 "multiplier": 0.9
             }
@@ -25,18 +25,18 @@
             "z": 4,
             "description": "将机器右方的流体输入仓换为§e真空流体输入仓§r以提高§c10%§r能量输出,但是会提高§435%§r流体消耗",
             "modifier": [
-            {
-                "io": "input",
-                "target": "fluid",
-                "operation": 1,
-                "multiplier": 1.35
-            },
-            {
-                "io": "output",
-                "target": "energy",
-                "operation": 1,
-                "multiplier": 1.1
-            }
+                {
+                    "io": "input",
+                    "target": "modularmachinery:fluid",
+                    "operation": 1,
+                    "multiplier": 1.35
+                },
+                {
+                    "io": "output",
+                    "target": "modularmachinery:energy",
+                    "operation": 1,
+                    "multiplier": 1.1
+                }
             ]
         },
         {
@@ -46,19 +46,19 @@
             "z": 1,
             "description": "将机器控制器后方的物品输入仓换为超级物品输入仓会有5%概率不消耗水晶,但是会降低10%发电量",
             "modifier": [
-            {
-                "io": "input",
-                "target": "item",
-                "operation": 0,
-                "multiplier": -0.05,
-                "affectChance": true
-            },
-            {
-                "io": "output",
-                "target": "energy",
-                "operation": 1,
-                "multiplier": 0.9
-            }
+                {
+                    "io": "input",
+                    "target": "modularmachinery:item",
+                    "operation": 0,
+                    "multiplier": -0.05,
+                    "affectChance": true
+                },
+                {
+                    "io": "output",
+                    "target": "modularmachinery:energy",
+                    "operation": 1,
+                    "multiplier": 0.9
+                }
             ]
         }
     ],
@@ -967,7 +967,6 @@
                 "appliedenergistics2:chiseled_quartz_stairs@0"
             ]
         },
-
         {
             "x": -2,
             "y": 12,
@@ -2616,7 +2615,6 @@
                 "appliedenergistics2:chiseled_quartz_stairs@4"
             ]
         },
-
         {
             "x": 8,
             "y": 3,
@@ -3881,4 +3879,5 @@
                 "thermalfoundation:glass_alloy@6"
             ]
         }
-    ]}
+    ]
+}

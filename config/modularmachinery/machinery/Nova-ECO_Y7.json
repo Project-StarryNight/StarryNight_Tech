@@ -12,7 +12,7 @@
             "description": "将机器的能量输入仓换为巨型能源输入仓以降低10%能量消耗",
             "modifier": {
                 "io": "input",
-                "target": "energy",
+                "target": "modularmachinery:energy",
                 "operation": 1,
                 "multiplier": 0.9
             }
@@ -26,13 +26,13 @@
             "modifier": [
                 {
                     "io": "input",
-                    "target": "energy",
+                    "target": "modularmachinery:energy",
                     "operation": 1,
                     "multiplier": 1.5
                 },
                 {
                     "io": "output",
-                    "target": "fluid",
+                    "target": "modularmachinery:fluid",
                     "operation": 1,
                     "multiplier": 1.5
                 }
@@ -47,13 +47,13 @@
             "modifier": [
                 {
                     "io": "input",
-                    "target": "energy",
+                    "target": "modularmachinery:energy",
                     "operation": 1,
                     "multiplier": 1.75
                 },
                 {
                     "io": "output",
-                    "target": "fluid",
+                    "target": "modularmachinery:fluid",
                     "operation": 1,
                     "multiplier": 2
                 }
@@ -6477,4 +6477,5 @@
                 "thermalfoundation:glass@3"
             ]
         }
-    ]}
+    ]
+}

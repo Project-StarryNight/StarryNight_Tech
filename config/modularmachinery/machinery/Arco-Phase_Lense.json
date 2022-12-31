@@ -3,8 +3,8 @@
     "localizedname": "§6相位§f炼化棱镜",
     "failure-action": "still",
     "requires-blueprint": false,
-	"color": "f2efed",
-	"parts": [
+    "color": "f2efed",
+    "parts": [
         {
             "x": -4,
             "y": 0,
@@ -65,7 +65,6 @@
             "x": 5,
             "y": 6,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -146,7 +145,6 @@
             "x": -4,
             "y": 7,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -267,7 +265,6 @@
             "x": 4,
             "y": 7,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -316,7 +313,6 @@
             "x": -4,
             "y": 8,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -333,7 +329,6 @@
             "x": -3,
             "y": 8,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -398,7 +393,6 @@
             "x": 3,
             "y": 8,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -415,7 +409,6 @@
             "x": 4,
             "y": 8,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -448,7 +441,6 @@
             "x": -2,
             "y": 0,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -457,7 +449,6 @@
             "x": -1,
             "y": 0,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -474,7 +465,6 @@
             "x": 1,
             "y": 0,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -483,7 +473,6 @@
             "x": 2,
             "y": 0,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -508,7 +497,6 @@
             "x": -3,
             "y": 9,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -517,7 +505,6 @@
             "x": -2,
             "y": 9,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -558,7 +545,6 @@
             "x": 2,
             "y": 9,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -575,7 +561,6 @@
             "x": 3,
             "y": 9,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -592,7 +577,6 @@
             "x": -3,
             "y": 1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -609,7 +593,6 @@
             "x": -2,
             "y": 1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -658,7 +641,6 @@
             "x": 2,
             "y": 1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -667,7 +649,6 @@
             "x": 3,
             "y": 1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -676,7 +657,6 @@
             "x": -1,
             "y": 10,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -685,7 +665,6 @@
             "x": 0,
             "y": 10,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -694,7 +673,6 @@
             "x": 1,
             "y": 10,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -719,7 +697,6 @@
             "x": -4,
             "y": 2,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -736,7 +713,6 @@
             "x": -3,
             "y": 2,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -849,7 +825,6 @@
             "x": 3,
             "y": 2,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -874,7 +849,6 @@
             "x": 4,
             "y": 2,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -971,7 +945,6 @@
             "x": -4,
             "y": 3,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -1092,7 +1065,6 @@
             "x": 4,
             "y": 3,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -1101,7 +1073,6 @@
             "x": -5,
             "y": 4,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -1270,7 +1241,6 @@
             "x": 5,
             "y": 4,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -1327,7 +1297,6 @@
             "x": -5,
             "y": 5,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -1408,7 +1377,6 @@
             "x": 5,
             "y": 5,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -1417,7 +1385,6 @@
             "x": -5,
             "y": 6,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -1494,4 +1461,5 @@
                 "thermalfoundation:glass_alloy@6"
             ]
         }
-    ]}
+    ]
+}

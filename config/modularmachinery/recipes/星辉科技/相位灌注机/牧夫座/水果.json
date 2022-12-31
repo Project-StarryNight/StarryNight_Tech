@@ -11,12 +11,12 @@
 			"end": 23999
 		},
 		{
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 1600
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -33,34 +33,34 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "harvestcraft:fruitbaititem",
             "amount": 64
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "minecraft:chicken",
             "amount": 16,
 			"chance": 0.50
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "harvestcraft:duckrawitem",
             "amount": 16,
 			"chance": 0.50
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "minecraft:rabbit",
             "amount": 16,
 			"chance": 0.75
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "minecraft:rabbit_foot",
             "amount": 16,

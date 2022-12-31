@@ -3,8 +3,8 @@
     "localizedname": "§c五§6彩§e观§a象§b台",
     "failure-action": "still",
     "requires-blueprint": false,
-	"color": "f2efed",
-	"parts": [
+    "color": "f2efed",
+    "parts": [
         {
             "x": -1,
             "y": 0,
@@ -2161,7 +2161,6 @@
             "x": 2,
             "y": -1,
             "z": -4,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -2170,7 +2169,6 @@
             "x": -3,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2179,7 +2177,6 @@
             "x": 3,
             "y": 3,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2188,7 +2185,6 @@
             "x": 2,
             "y": 1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2197,7 +2193,6 @@
             "x": 1,
             "y": -1,
             "z": -4,
-
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -2206,7 +2201,6 @@
             "x": 0,
             "y": -1,
             "z": -4,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -2215,7 +2209,6 @@
             "x": -2,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2232,7 +2225,6 @@
             "x": 2,
             "y": 3,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2249,7 +2241,6 @@
             "x": -1,
             "y": -1,
             "z": -4,
-
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -2258,7 +2249,6 @@
             "x": -1,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2267,7 +2257,6 @@
             "x": 0,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2276,7 +2265,6 @@
             "x": -2,
             "y": -1,
             "z": -4,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -2293,7 +2281,6 @@
             "x": -2,
             "y": 1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2302,7 +2289,6 @@
             "x": 3,
             "y": 3,
             "z": 5,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2311,7 +2297,6 @@
             "x": 1,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2328,7 +2313,6 @@
             "x": -2,
             "y": 3,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2337,7 +2321,6 @@
             "x": 4,
             "y": 3,
             "z": 5,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2346,7 +2329,6 @@
             "x": 2,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2363,7 +2345,6 @@
             "x": -4,
             "y": 1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2372,7 +2353,6 @@
             "x": -3,
             "y": 3,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2389,7 +2369,6 @@
             "x": 3,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2398,7 +2377,6 @@
             "x": -4,
             "y": 3,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2415,7 +2393,6 @@
             "x": 4,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -2424,7 +2401,6 @@
             "x": 5,
             "y": -1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -2505,7 +2481,6 @@
             "x": -3,
             "y": 4,
             "z": 5,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2514,7 +2489,6 @@
             "x": 4,
             "y": 0,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2531,7 +2505,6 @@
             "x": -4,
             "y": 0,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2540,7 +2513,6 @@
             "x": -2,
             "y": 4,
             "z": 5,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2549,7 +2521,6 @@
             "x": 4,
             "y": 4,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2558,7 +2529,6 @@
             "x": 2,
             "y": 0,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2591,7 +2561,6 @@
             "x": 2,
             "y": 4,
             "z": 5,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2616,7 +2585,6 @@
             "x": -2,
             "y": 0,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2625,7 +2593,6 @@
             "x": 3,
             "y": 4,
             "z": 5,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2658,7 +2625,6 @@
             "x": -4,
             "y": 0,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2691,7 +2657,6 @@
             "x": 4,
             "y": 0,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2708,7 +2673,6 @@
             "x": -4,
             "y": 4,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2765,7 +2729,6 @@
             "x": -4,
             "y": 3,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2774,7 +2737,6 @@
             "x": 4,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2783,7 +2745,6 @@
             "x": -5,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -2792,7 +2753,6 @@
             "x": -4,
             "y": 1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2801,7 +2761,6 @@
             "x": -3,
             "y": 3,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2810,7 +2769,6 @@
             "x": 3,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -2819,7 +2777,6 @@
             "x": -4,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2828,7 +2785,6 @@
             "x": -2,
             "y": 3,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2837,7 +2793,6 @@
             "x": 2,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -2846,7 +2801,6 @@
             "x": -3,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2855,7 +2809,6 @@
             "x": 3,
             "y": 3,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2864,7 +2817,6 @@
             "x": 1,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2873,7 +2825,6 @@
             "x": 0,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2882,7 +2833,6 @@
             "x": -2,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2891,7 +2841,6 @@
             "x": -1,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2900,7 +2849,6 @@
             "x": -1,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2909,7 +2857,6 @@
             "x": 0,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2918,7 +2865,6 @@
             "x": -2,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -2927,7 +2873,6 @@
             "x": 2,
             "y": 3,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2936,7 +2881,6 @@
             "x": -3,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -2945,7 +2889,6 @@
             "x": 3,
             "y": 3,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2954,7 +2897,6 @@
             "x": 1,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2963,7 +2905,6 @@
             "x": -4,
             "y": -1,
             "z": -3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2972,7 +2913,6 @@
             "x": 4,
             "y": 3,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -2981,7 +2921,6 @@
             "x": 2,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -2998,7 +2937,6 @@
             "x": -3,
             "y": 3,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3007,7 +2945,6 @@
             "x": 4,
             "y": 1,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3016,7 +2953,6 @@
             "x": 3,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3025,7 +2961,6 @@
             "x": 4,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3034,7 +2969,6 @@
             "x": 5,
             "y": -1,
             "z": 2,
-
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -3099,7 +3033,6 @@
             "x": -4,
             "y": 4,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3116,7 +3049,6 @@
             "x": -4,
             "y": 2,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3125,7 +3057,6 @@
             "x": -3,
             "y": 4,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3142,7 +3073,6 @@
             "x": 4,
             "y": 2,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3191,7 +3121,6 @@
             "x": 3,
             "y": 4,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3208,7 +3137,6 @@
             "x": 4,
             "y": 4,
             "z": 4,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3225,7 +3153,6 @@
             "x": 4,
             "y": 2,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3242,7 +3169,6 @@
             "x": -4,
             "y": 2,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3307,7 +3233,6 @@
             "x": 4,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -3316,7 +3241,6 @@
             "x": -5,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -3325,7 +3249,6 @@
             "x": -3,
             "y": 3,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3342,7 +3265,6 @@
             "x": 4,
             "y": 1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3351,7 +3273,6 @@
             "x": 3,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3360,7 +3281,6 @@
             "x": -4,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3369,7 +3289,6 @@
             "x": 2,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3378,7 +3297,6 @@
             "x": -3,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3387,7 +3305,6 @@
             "x": 1,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3396,7 +3313,6 @@
             "x": 0,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3405,7 +3321,6 @@
             "x": -2,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3430,7 +3345,6 @@
             "x": -1,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3439,7 +3353,6 @@
             "x": -1,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3448,7 +3361,6 @@
             "x": 0,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3457,7 +3369,6 @@
             "x": -2,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3474,7 +3385,6 @@
             "x": -3,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3483,7 +3393,6 @@
             "x": 3,
             "y": 3,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3492,7 +3401,6 @@
             "x": 1,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3501,7 +3409,6 @@
             "x": -4,
             "y": -1,
             "z": -2,
-
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -3510,7 +3417,6 @@
             "x": 2,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3527,7 +3433,6 @@
             "x": -4,
             "y": 1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3536,7 +3441,6 @@
             "x": 3,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3545,7 +3449,6 @@
             "x": 4,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3554,7 +3457,6 @@
             "x": 5,
             "y": -1,
             "z": 1,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -3603,7 +3505,6 @@
             "x": -4,
             "y": 4,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3628,7 +3529,6 @@
             "x": 4,
             "y": 0,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3717,7 +3617,6 @@
             "x": 4,
             "y": 4,
             "z": 3,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3734,7 +3633,6 @@
             "x": -4,
             "y": 0,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -3775,7 +3673,6 @@
             "x": 5,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -3792,7 +3689,6 @@
             "x": 4,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -3809,7 +3705,6 @@
             "x": 3,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3818,7 +3713,6 @@
             "x": 2,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3827,7 +3721,6 @@
             "x": 1,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3836,7 +3729,6 @@
             "x": 0,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3861,7 +3753,6 @@
             "x": -1,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3870,7 +3761,6 @@
             "x": -2,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3887,7 +3777,6 @@
             "x": -3,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -3896,7 +3785,6 @@
             "x": -4,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -3905,7 +3793,6 @@
             "x": -5,
             "y": -1,
             "z": -1,
-
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
@@ -4006,4 +3893,5 @@
                 "thermalfoundation:glass_alloy@6"
             ]
         }
-    ]}
+    ]
+}

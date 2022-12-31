@@ -3,16 +3,13 @@
 //Under the permission of the author, you cannot be applied to any server, as well as any changes.
 //通用合金
 <ore:ingotAlloyT1>.add(<contenttweaker:universalalloyt1>);
-<contenttweaker:universalalloyt1>.addTooltip("§7§o这是什么？");
-<contenttweaker:universalalloyt1>.addTooltip("§b可以在纸箱物品商人购买~");
+<contenttweaker:universalalloyt1>.addTooltip("§b高强度合金，在高级工业领域中很常见。");
 
 <ore:ingotAlloyT2>.add(<contenttweaker:universalalloyt2>);
-<contenttweaker:universalalloyt2>.addTooltip("§7§o这是什么？");
-<contenttweaker:universalalloyt2>.addTooltip("§b可以在纸箱物品商人购买~");
+<contenttweaker:universalalloyt2>.addTooltip("§b超高强度合金。");
 
 <ore:ingotAlloyT3>.add(<contenttweaker:universalalloyt3>);
-<contenttweaker:universalalloyt3>.addTooltip("§7§o这是什么？");
-<contenttweaker:universalalloyt3>.addTooltip("§b可以在纸箱物品商人购买~");
+<contenttweaker:universalalloyt3>.addTooltip("§b散发着耀眼的光芒，可以用来制作一些超级物品。");
 
 
 //三色水晶

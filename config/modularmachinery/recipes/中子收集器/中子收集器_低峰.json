@@ -11,7 +11,7 @@
             "end": 64
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "avaritia:resource@4",
             "amount": 10

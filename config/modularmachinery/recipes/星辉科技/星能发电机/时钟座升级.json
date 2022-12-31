@@ -4,7 +4,7 @@
     "recipeTime": 2400,
     "requirements": [
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item129",
 			"nbt":{
@@ -21,7 +21,7 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{

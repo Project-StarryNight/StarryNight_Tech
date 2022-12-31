@@ -4,12 +4,12 @@
     "recipeTime": 100,
     "requirements":[
         {
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 150000
         },
         {
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "output",
             "fluid": "milk",
             "amount": 200

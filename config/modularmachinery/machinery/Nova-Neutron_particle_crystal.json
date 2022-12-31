@@ -1,6 +1,6 @@
 {
     "registryname": "neutron_particle_crystal",
-	"localizedname": "§bECO-§9NE7β §b中子粒子生成水晶",
+    "localizedname": "§bECO-§9NE7β §b中子粒子生成水晶",
     "failure-action": "still",
     "color": "4169E1",
     "requires-blueprint": false,
@@ -4325,4 +4325,5 @@
                 "tconstruct:metal@0"
             ]
         }
-    ]}
+    ]
+}

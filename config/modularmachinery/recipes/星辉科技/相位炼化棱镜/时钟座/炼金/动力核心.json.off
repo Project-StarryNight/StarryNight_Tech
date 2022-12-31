@@ -4,7 +4,7 @@
     "recipeTime": 5,
     "requirements": [
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item129",
 			"nbt":{
@@ -27,7 +27,7 @@
 		},
 
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -44,33 +44,33 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:aspectus_dawnstone",
             "amount": 1,
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:dust_ash",
             "amount": 24,
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:archaic_brick",
             "amount": 4
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:shard_ember",
             "amount": 1
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "embers:ancient_motive_core",
             "amount": 1

@@ -1,6 +1,6 @@
 {
     "registryname": "Atomic_resetter",
-	"localizedname": "§6[ARS] §d原子重构机",
+    "localizedname": "§6[ARS] §d原子重构机",
     "failure-action": "still",
     "requires-blueprint": false,
     "parts": [
@@ -1229,9 +1229,23 @@
             ]
         },
         {
-            "x": [-5,-4,-3,-2,-1,0],
+            "x": [
+                -5,
+                -4,
+                -3,
+                -2,
+                -1,
+                0
+            ],
             "y": 7,
-            "z": [13,12,11,10,9,8],
+            "z": [
+                13,
+                12,
+                11,
+                10,
+                9,
+                8
+            ],
             "elements": [
                 "thermalfoundation:glass@6"
             ]
@@ -3204,4 +3218,5 @@
                 "appliedenergistics2:quartz_pillar@1"
             ]
         }
-    ]}
+    ]
+}

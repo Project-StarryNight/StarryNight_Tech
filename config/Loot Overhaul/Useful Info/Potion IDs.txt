@@ -953,7 +953,7 @@ extrabotany:healreverse
 
 
 tconevo:immortality
-   - Id: 121
+   - Id: 118
    - Color: 15450243
    - Is Instant: false
    - Is Bad: false
@@ -961,7 +961,7 @@ tconevo:immortality
 
 
 tconevo:mortal_wounds
-   - Id: 122
+   - Id: 119
    - Color: 6249870
    - Is Instant: false
    - Is Bad: true
@@ -969,7 +969,7 @@ tconevo:mortal_wounds
 
 
 tconevo:damage_reduction
-   - Id: 123
+   - Id: 120
    - Color: 5899674
    - Is Instant: false
    - Is Bad: false
@@ -977,7 +977,7 @@ tconevo:damage_reduction
 
 
 tconevo:damage_boost
-   - Id: 124
+   - Id: 121
    - Color: 16259128
    - Is Instant: false
    - Is Bad: false
@@ -985,7 +985,7 @@ tconevo:damage_boost
 
 
 astralsorcery:potioncheatdeath
-   - Id: 125
+   - Id: 122
    - Color: 16733969
    - Is Instant: false
    - Is Bad: false
@@ -993,7 +993,7 @@ astralsorcery:potioncheatdeath
 
 
 astralsorcery:potionbleed
-   - Id: 126
+   - Id: 123
    - Color: 7672320
    - Is Instant: false
    - Is Bad: true
@@ -1001,7 +1001,7 @@ astralsorcery:potionbleed
 
 
 astralsorcery:potionspellplague
-   - Id: 127
+   - Id: 124
    - Color: 6816144
    - Is Instant: false
    - Is Bad: true
@@ -1009,7 +1009,7 @@ astralsorcery:potionspellplague
 
 
 astralsorcery:potiondropmodifier
-   - Id: 128
+   - Id: 125
    - Color: 16765204
    - Is Instant: false
    - Is Bad: false
@@ -1017,7 +1017,7 @@ astralsorcery:potiondropmodifier
 
 
 astralsorcery:potiontimefreeze
-   - Id: 129
+   - Id: 126
    - Color: 12098303
    - Is Instant: false
    - Is Bad: false
@@ -1025,7 +1025,7 @@ astralsorcery:potiontimefreeze
 
 
 resize:shrinking
-   - Id: 130
+   - Id: 127
    - Color: 65480
    - Is Instant: false
    - Is Bad: false
@@ -1033,7 +1033,7 @@ resize:shrinking
 
 
 resize:growth
-   - Id: 131
+   - Id: 128
    - Color: 16750080
    - Is Instant: false
    - Is Bad: false

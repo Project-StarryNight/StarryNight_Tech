@@ -11,7 +11,7 @@
 			"end": 23999
 		},
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{

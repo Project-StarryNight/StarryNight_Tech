@@ -11,12 +11,12 @@
 			"end": 23999
 		},
 		{
-            "type": "energy",
+            "type": "modularmachinery:energy",
             "io-type": "input",
             "energyPerTick": 3200
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -33,25 +33,25 @@
 			"chance": 0
         },
 		{
-            "type": "fluid",
+            "type": "modularmachinery:fluid",
             "io-type": "input",
             "fluid": "water",
             "amount": 1000
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "sakura:sakura_sapling",
             "amount": 1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "sakura:sakura_log",
             "amount": 16
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "sakura:sakura_sapling",
             "amount": 1

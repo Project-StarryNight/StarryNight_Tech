@@ -241,7 +241,7 @@ customization {
   orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = joinserver
-  backgroundhovered = resources\mainmenu\paperbox_h.png
+  backgroundhovered = resources\mainmenu\nova_engineering_h.png
   label = 
   loopbackgroundanimations = true
   x = 10
@@ -249,8 +249,8 @@ customization {
   actionid = 84d0dc00-ad50-4971-93a4-4341500a135c1652336772700
   action = addbutton
   y = -36
-  backgroundnormal = resources\mainmenu\paperbox.png
-  value = doublestack.kasuminova.cn
+  backgroundnormal = resources\mainmenu\nova_engineering.png
+  value = 222.187.227.93
   height = 30
 }
 
@@ -267,7 +267,7 @@ customization {
   action = addbutton
   y = -1
   backgroundnormal = resources\mainmenu\qqgroup.png
-  value = https://jq.qq.com/?_wv=1027&k=SbOcAkIP
+  value = https://jq.qq.com/?_wv=1027&k=M2JIXoHB
   height = 30
 }
 
@@ -289,7 +289,7 @@ customization {
 }
 
 customization {
-  path = resources/customloadingscreen/image/paperbox/rebirth.png
+  path = resources/customloadingscreen/image/nova_engineering/rebirth.png
   orientation = bottom-centered
   x = -55
   width = 111

@@ -12,7 +12,7 @@
             "description": "将机器尾部的能量输入仓换为超级能源输入仓以降低7%能量消耗",
             "modifier": {
                 "io": "input",
-                "target": "energy",
+                "target": "modularmachinery:energy",
                 "operation": 1,
                 "multiplier": 0.93
             }
@@ -25,7 +25,7 @@
             "description": "将机器尾部的能量输入仓换为终极能源输入仓以降低18%能量消耗",
             "modifier": {
                 "io": "input",
-                "target": "energy",
+                "target": "modularmachinery:energy",
                 "operation": 1,
                 "multiplier": 0.82
             }
@@ -37,25 +37,25 @@
             "z": 0,
             "description": "将机器控制器上方的物品输入仓换为超级物品输入仓,将会不消耗水晶,但是产出量降低30%,能量消耗提高15%",
             "modifier": [
-            {
-                "io": "input",
-                "target": "item",
-                "operation": 0,
-                "multiplier": -1,
-                "affectChance": true
-            },
-            {
-                "io": "output",
-                "target": "fluid",
-                "operation": 1,
-                "multiplier": 0.7
-            },
-            {
-                "io": "input",
-                "target": "energy",
-                "operation": 1,
-                "multiplier": 1.15
-            }
+                {
+                    "io": "input",
+                    "target": "modularmachinery:item",
+                    "operation": 0,
+                    "multiplier": -1,
+                    "affectChance": true
+                },
+                {
+                    "io": "output",
+                    "target": "modularmachinery:fluid",
+                    "operation": 1,
+                    "multiplier": 0.7
+                },
+                {
+                    "io": "input",
+                    "target": "modularmachinery:energy",
+                    "operation": 1,
+                    "multiplier": 1.15
+                }
             ]
         }
     ],
@@ -2588,4 +2588,5 @@
                 "appliedenergistics2:chiseled_quartz_stairs@6"
             ]
         }
-    ]}
+    ]
+}

@@ -12,7 +12,7 @@
             "description": "使用巨型流体输入仓来降低机器5%的气体消耗",
             "modifier": {
                 "io": "input",
-                "target": "gas",
+                "target": "modularmachinery:gas",
                 "operation": 1,
                 "multiplier": 0.95
             }
@@ -25,7 +25,7 @@
             "description": "使用超级流体输入仓来降低机器10%的气体消耗",
             "modifier": {
                 "io": "input",
-                "target": "gas",
+                "target": "modularmachinery:gas",
                 "operation": 1,
                 "multiplier": 0.9
             }
@@ -38,7 +38,7 @@
             "description": "使用真空流体输入仓来降低机器15%的气体消耗",
             "modifier": {
                 "io": "input",
-                "target": "gas",
+                "target": "modularmachinery:gas",
                 "operation": 1,
                 "multiplier": 0.85
             }
@@ -3725,4 +3725,5 @@
                 "thermalfoundation:glass_alloy@6"
             ]
         }
-    ]}
+    ]
+}

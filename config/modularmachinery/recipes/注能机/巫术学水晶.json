@@ -9,13 +9,13 @@
             "energyPerTick": 25600
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item794",
             "amount": 1
         },
         {
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "ebwizardry:magic_crystal",
             "amount": 8

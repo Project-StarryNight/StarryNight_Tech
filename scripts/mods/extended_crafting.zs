@@ -9,7 +9,9 @@ import mods.extendedcrafting.CombinationCrafting;
 
 //工作台配方
 //终极通用合金
-TableCrafting.addShapeless(4, <extendedcrafting:material:32> * 62, [<extendedcrafting:material:48>, <ore:ingotCrystaltine>, <ore:ingotIron>, <ore:ingotGold>, <ore:ingotElvenElementium>, <ore:ingotManasteel>, <ore:ingotTitaniumAluminide>, <ore:ingotTitaniumIridium>, <ore:ingotDarkSteel>, <ore:ingotPulsatingIron>, <ore:ingotConductiveIron>, <ore:ingotRedstoneAlloy>, <ore:ingotVibrantAlloy>, <ore:ingotEnergeticAlloy>, <ore:ingotElectricalSteel>, <ore:ingotDraconium>, <ore:ingotSoularium>, <ore:ingotEndSteel>, <ore:ingotMelodicAlloy>, <ore:ingotCrystallineAlloy>, <ore:ingotEnergeticSilver>, <ore:ingotVividAlloy>, <ore:ingotBlackIron>, <super_solar_panels:crafting:4>, <mets:niobium_titanium_ingot>, <modularmachinery:itemmodularium>, <ore:ingotRefinedGlowstone>, <ore:ingotOsmium>, <ore:ingotPhotonium>, <ore:ingotShadowium>, <ore:ingotFluixSteel>, <ore:ingotSignalum>, <ore:ingotLumium>, <ore:ingotOsgloglas>, <ore:ingotAlloyT1>, <ore:ingotAlloyT2>, <ore:ingotAlumite>, <ore:ingotOsmiridium>, <ore:ingotPsiAlloy>, <ore:ingotBlueAlloy>, <ore:ingotEnderium>, <ore:ingotWillowalloy>, <ore:ingotNetherite>, <ore:ingotDraconiumAwakened>, <ore:ingotStellarAlloy>, <ore:ingotManyullyn>, <ore:ingotEnergium>, <ore:ingotUUMatter>, <ore:ingotSolarium>, <ore:ingotBoundMetal>, <ore:ingotSentientMetal>, <ore:ingotCosmicNeutronium>, <deepmoblearning:glitch_infused_ingot>, <ore:ingotCrystalMatrix>, <ore:ingotTerrasteel>, <ore:gaiaIngot>, <ore:ingotOrichalcos>, <ore:ingotTerraAlloy>, <ore:ingotFallenStarAlloy>, <ore:ingotWyvernMetal>, <ore:ingotDraconicMetal>, <ore:ingotChaoticMetal>]);
+TableCrafting.addShapeless(4, <extendedcrafting:material:32> * 62, [
+	<extendedcrafting:material:48>, <ore:ingotCrystaltine>, <ore:ingotIron>, <ore:ingotGold>, <ore:ingotElvenElementium>, <ore:ingotManasteel>, <ore:ingotTitaniumAluminide>, <ore:ingotTitaniumIridium>, <ore:ingotDarkSteel>, <ore:ingotPulsatingIron>, <ore:ingotConductiveIron>, <ore:ingotRedstoneAlloy>, <ore:ingotVibrantAlloy>, <ore:ingotEnergeticAlloy>, <ore:ingotElectricalSteel>, <ore:ingotDraconium>, <ore:ingotSoularium>, <ore:ingotEndSteel>, <ore:ingotMelodicAlloy>, <ore:ingotCrystallineAlloy>, <ore:ingotEnergeticSilver>, <ore:ingotVividAlloy>, <ore:ingotBlackIron>, <super_solar_panels:crafting:4>, <mets:niobium_titanium_ingot>, <modularmachinery:itemmodularium>, <ore:ingotRefinedGlowstone>, <ore:ingotOsmium>, <ore:ingotPhotonium>, <ore:ingotShadowium>, <ore:ingotFluixSteel>, <ore:ingotSignalum>, <ore:ingotLumium>, <ore:ingotOsgloglas>, <ore:ingotAlloyT1>, <ore:ingotAlloyT2>, <ore:ingotAlumite>, <ore:ingotOsmiridium>, <ore:ingotPsiAlloy>, <ore:ingotBlueAlloy>, <ore:ingotEnderium>, <ore:ingotWillowalloy>, <ore:ingotNetherite>, <ore:ingotDraconiumAwakened>, <ore:ingotStellarAlloy>, <ore:ingotManyullyn>, <ore:ingotEnergium>, <ore:ingotUUMatter>, <ore:ingotSolarium>, <ore:ingotBoundMetal>, <ore:ingotSentientMetal>, <ore:ingotCosmicNeutronium>, <deepmoblearning:glitch_infused_ingot>, <ore:ingotCrystalMatrix>, <ore:ingotTerrasteel>, <ore:gaiaIngot>, <ore:ingotOrichalcos>, <ore:ingotTerraAlloy>, <ore:ingotFallenStarAlloy>, <ore:ingotWyvernMetal>, <ore:ingotDraconicMetal>, <ore:ingotChaoticMetal>
+]);
 
 //手提包
 mods.extendedcrafting.TableCrafting.addShaped(3, <enderutilities:handybag>, [
@@ -411,7 +413,7 @@ CombinationCrafting.addRecipe(
 
 //高阶通用合金
 CombinationCrafting.addRecipe(
-    <contenttweaker:universalalloyt3>, 5000000000, 20000000, <contenttweaker:universalalloyt2>,
+    <contenttweaker:universalalloyt3>, 50000000, 500000, <contenttweaker:universalalloyt2>,
     [<contenttweaker:universalalloyt2>,<contenttweaker:universalalloyt2>,<contenttweaker:universalalloyt2>,
     <contenttweaker:universalalloyt2>,<custommc:item352>,<custommc:item352>,<custommc:item352>,<custommc:item352>,
     <ore:ingotInfinity>,<ore:ingotUltimate>,<ore:ingotTerraAlloy>,<ore:ingotAdamant>]

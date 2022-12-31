@@ -1,6 +1,6 @@
 {
     "registryname": "Ion_generator",
-	"localizedname": "小型离子发生器",
+    "localizedname": "小型离子发生器",
     "failure-action": "still",
     "requires-blueprint": false,
     "parts": [
@@ -844,4 +844,5 @@
                 "tconstruct:clear_stained_glass@9"
             ]
         }
-    ]}
+    ]
+}

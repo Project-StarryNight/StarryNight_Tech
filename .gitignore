@@ -51,5 +51,9 @@
 /fixResource
 /config/AppliedEnergistics2/items.csv
 balloon_update.log
-JarClient-4.1.17.jar
-mods/!BalloonUpdateModLoader-1.12.2-1.1.0-Stable-S.jar
+JarClient-*
+mods/!BalloonUpdateModLoader-1.12.2-1.1.0-Stable-S.*
+BalloonUpdate*
+OldBalloonUpdateFileName.txt
+config/activity.json
+mods/BlockRenderer-1.0.0.jar

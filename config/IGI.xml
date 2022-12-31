@@ -144,9 +144,9 @@
                 <var>mspt</var>
                     <num>75</num>
                     <num>50</num>
-                    <num>35</num>
-                    <num>20</num>
-                    <num>10</num>
+                    <num>40</num>
+                    <num>25</num>
+                    <num>15</num>
                     <num>0</num>
                         <str>$7($4{mspt}ms$7)</str>
                         <str>$7($c{mspt}ms$7)</str>
@@ -161,9 +161,9 @@
                 <var>tps</var>
                     <num>20</num>
                     <num>19</num>
-                    <num>17</num>
+                    <num>18</num>
+                    <num>16</num>
                     <num>15</num>
-                    <num>13</num>
                     <num>0</num>
                         <str>$9TPS:$2{tps}</str>
                         <str>$9TPS:$a{tps}</str>

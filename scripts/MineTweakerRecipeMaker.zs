@@ -24,7 +24,6 @@
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
-recipes.addShapeless(<modularcontroller:machine_projector>, [<libvulpes:holoprojector>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED

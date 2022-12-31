@@ -12,7 +12,7 @@
             "description": "将机器右上方流体输入仓换为真空流体输入仓以降低5%流体消耗",
             "modifier": {
                 "io": "input",
-                "target": "fluid",
+                "target": "modularmachinery:fluid",
                 "operation": 1,
                 "multiplier": 0.95
             }
@@ -25,7 +25,7 @@
             "description": "将机器左方流体输入仓换为真空流体输入仓以降低5%流体消耗",
             "modifier": {
                 "io": "input",
-                "target": "fluid",
+                "target": "modularmachinery:fluid",
                 "operation": 1,
                 "multiplier": 0.95
             }
@@ -38,7 +38,7 @@
             "description": "将机器左上方输入仓换为真空流体输入仓以提高5%流体产出",
             "modifier": {
                 "io": "output",
-                "target": "fluid",
+                "target": "modularmachinery:fluid",
                 "operation": 1,
                 "multiplier": 1.05
             }
@@ -51,7 +51,7 @@
             "description": "将机器右方输出仓换为真空流体输出仓以提高5%流体产出",
             "modifier": {
                 "io": "output",
-                "target": "fluid",
+                "target": "modularmachinery:fluid",
                 "operation": 1,
                 "multiplier": 1.05
             }
@@ -1634,4 +1634,5 @@
                 "modularmachinery:blockcasing@1"
             ]
         }
-    ]}
+    ]
+}

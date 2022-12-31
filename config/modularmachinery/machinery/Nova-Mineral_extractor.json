@@ -1,6 +1,6 @@
 {
     "registryname": "Mineral_extractor",
-	"localizedname": "§6矿物提取机",
+    "localizedname": "§6矿物提取机",
     "failure-action": "still",
     "requires-blueprint": false,
     "parts": [
@@ -4204,4 +4204,5 @@
                 "minecraft:purpur_block@0"
             ]
         }
-    ]}
+    ]
+}

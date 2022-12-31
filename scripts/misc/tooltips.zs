@@ -65,6 +65,11 @@ val STAGESSSPRO as string = "§e§l阶段: §4§lSSS+";
 <mekanism:transmitter:4>.addTooltip("§c禁用,§e请使用EnderIO导管传输");
 <mekanism:transmitter:5>.addTooltip("§c禁用,§e请使用EnderIO导管传输");
 
+<mekanism:machineblock2:11>.withTag({tier: 0}).addTooltip("§c禁用,§e请使用 TE 储罐");
+<mekanism:machineblock2:11>.withTag({tier: 1}).addTooltip("§c禁用,§e请使用 TE 储罐");
+<mekanism:machineblock2:11>.withTag({tier: 2}).addTooltip("§c禁用,§e请使用 TE 储罐");
+<mekanism:machineblock2:11>.withTag({tier: 3}).addTooltip("§c禁用,§e请使用 TE 储罐");
+
 <thermalexpansion:strongbox>.addTooltip("§c禁用");
 <thermalexpansion:cache>.addTooltip("§c禁用");
 
@@ -87,12 +92,12 @@ val STAGESSSPRO as string = "§e§l阶段: §4§lSSS+";
 */
 
 for item in loadedMods["modularcontroller"].items {
-    (item).addTooltip("§e§l=======机械信息/难度/功能=======");
+    (item).addTooltip("§e§l=======机械信息/等级/功能=======");
 }
 
 <modularcontroller:bot_crafter_controller>.addTooltip(DIFF4PRO);
 
-<modularcontroller:niu_niu_controller>.addTooltip("§9§l难度: §c§l§m12");
+<modularcontroller:niu_niu_controller>.addTooltip("§9§l等级: §c§l§mSS");
 <modularcontroller:niu_niu_controller>.addTooltip(DIFF5);
 <modularcontroller:niu_niu_controller>.addTooltip("§b感受它的压迫力吧");
 <modularcontroller:niu_niu_controller>.addTooltip("§d§m真·电牛子");
@@ -210,13 +215,13 @@ for item in loadedMods["modularcontroller"].items {
 
 <modularcontroller:energy_crystal_2_controller>.addTooltip(DIFF10);
 <modularcontroller:energy_crystal_2_controller>.addTooltip("§cECO实验室最新报告");
-<modularcontroller:energy_crystal_2_controller>.addTooltip("§e实验人员: jiajaixd §6ID:3550_β §9第792次实验报告");
-<modularcontroller:energy_crystal_2_controller>.addTooltip("§bα型水晶升级版试做型水晶");
+<modularcontroller:energy_crystal_2_controller>.addTooltip("§e实验人员 ID: 222112 §9第 792 次实验报告");
+<modularcontroller:energy_crystal_2_controller>.addTooltip("§bα 型水晶升级版试做型水晶");
 <modularcontroller:energy_crystal_2_controller>.addTooltip("§b普通的输导单元已经无法承受其极高的发电量");
 <modularcontroller:energy_crystal_2_controller>.addTooltip("§b我们使用了最新研究的能量水晶核心载体: ID:E222B 寰宇能源核心");
 <modularcontroller:energy_crystal_2_controller>.addTooltip("§b在转换试验中,其核心能够90%效率转换其注能水晶的能量");
-<modularcontroller:energy_crystal_2_controller>.addTooltip("§b效率是α水晶的15倍");
-<modularcontroller:energy_crystal_2_controller>.addTooltip("§e最终报告 安全率97% 爆炸率0% 允许投入生产环境使用");
+<modularcontroller:energy_crystal_2_controller>.addTooltip("§b效率是 α 水晶的 15 倍");
+<modularcontroller:energy_crystal_2_controller>.addTooltip("§e最终报告 正常运行时间: 99.7% 警报时间: 0% 允许投入生产环境使用");
 
 <modularcontroller:neutron_activator_controller>.addTooltip(DIFF4PRO);
 
@@ -307,10 +312,10 @@ for item in loadedMods["modularcontroller"].items {
 //星宿反应堆
 <modularcontroller:starburst_reactor_controller>.addTooltip(DIFF12PRO);
 <modularcontroller:starburst_reactor_controller>.addTooltip("§e既不属于异世界科技，§c也不属于本世界的科技");
-<modularcontroller:starburst_reactor_controller>.addTooltip("§a※.......§c‽....§6*.........§b#....§e!.......§5ʤ.§2∀.....§7g..§9^§d【未知数据】");
 <modularcontroller:starburst_reactor_controller>.addTooltip("§b利用时钟座的力量，遍历近百亿光年的信息，§6你的机器检查到了异常的有规律波动");
-<modularcontroller:starburst_reactor_controller>.addTooltip("§b其大致信息通过复杂的编译后");
-<modularcontroller:starburst_reactor_controller>.addTooltip("§b似乎是一个来自■■■■星系的求救信号和一个不完整的反应堆蓝图");
+<modularcontroller:starburst_reactor_controller>.addTooltip("§a这段信息数据【已损坏】");
+<modularcontroller:starburst_reactor_controller>.addTooltip("§b我们提取了尚未损坏的信息, 并通过复杂的翻译后");
+<modularcontroller:starburst_reactor_controller>.addTooltip("§b获取到了一张不完整的反应堆蓝图");
 <modularcontroller:starburst_reactor_controller>.addTooltip("§b其蓝图信息已经破损，且数据结构不明");
 <modularcontroller:starburst_reactor_controller>.addTooltip("§b但是你仍然从其中提取出了部分有用的信息，其内容§4已损坏");
 <modularcontroller:starburst_reactor_controller>.addTooltip("§r需要一个数据来合成这个蓝图");
@@ -361,26 +366,26 @@ for item in loadedMods["modularcontroller"].items {
 
 //复合型中子复制压缩机
 <modularcontroller:cnrc_controller>.addTooltip(DIFF11);
-<modularcontroller:cnrc_controller>.addTooltip("§b在ECO实验室失去了新产品音讯的513年后，推出了全新的产品：§5复合型§6中子复制压缩机。");
+<modularcontroller:cnrc_controller>.addTooltip("§b在ECO实验室停止机械工程的研发的513年后，推出了全新的产品：§5复合型§6中子复制压缩机。");
 <modularcontroller:cnrc_controller>.addTooltip("§b这种奇特的机械可以直接操纵纯原子流体，并将其任意转变为其他原子，其中用到了原子重构机的尖端技术。");
-<modularcontroller:cnrc_controller>.addTooltip("§b此外，ECO实验室还与GSP星系的§9StP§b实验室合作，将其与量子压缩机完美结合，使其成为量子工业上又一大成就。");
+<modularcontroller:cnrc_controller>.addTooltip("§b此外，ECO实验室还与外星系的§9StP§b实验室合作，将其与量子压缩机完美结合，使其成为量子工程上又一大成就。");
 <modularcontroller:cnrc_controller>.addTooltip("§e量子压缩机是一个基于中子素压缩机改进，甚至是重构的高级机械。");
 <modularcontroller:cnrc_controller>.addTooltip("§c传言中，量子压缩机内可能含有一个微型宇宙。");
-<modularcontroller:cnrc_controller>.addTooltip("§6这种强大的机械能力一直未有研发人员能够驾驭，§e直到现在。");
+<modularcontroller:cnrc_controller>.addTooltip("§6这种强大的机械能力一直未有合适的机械能够驾驭，§e直到现在。");
 
 //终焉反应堆
-<modularcontroller:terminal_reactor_controller>.addTooltip(DIFF11);
-<modularcontroller:terminal_reactor_controller>.addTooltip("§e作为§5复合型§6中子复制压缩机§e的前置机械，其中也含有不小的技术含量。");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§b研究日志§b(§e3057/5/19§b,主要实验员:§9GSP_3017§b)§a：");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§e利用了湮灭反应堆与聚变反应堆的技术，使等离子和等离子物质互相反应，产生§6非稳态等离子体§e。");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§e这种液体及其不稳定，一旦受到外部剧烈反应会发生§c相当大的爆炸§e。");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§e在一次运输中，由于驾驶员§9GSP_3054§e操作不当，导致实验室所在的行星§c被炸毁§e，研究暂停。");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§b研究报告：应当使用其他稳态液体与其混合才可投入生产环境。");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§b研究日志§b(§e3062/8/4§b,主要实验员:§9GSP_3022§e)§b：");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§e经过研究，与中子晶流体混合时，非稳态等离子体的颜色有所变化，温度大幅下降。");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§e此外，如果在混合过程中滴入少许§3终焉物质§e，会使其流体§2大幅度增长§e。");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§e这种流体可以被投入到复制生产中，且比§5紫晶素§e的原子含量更高。");
-<modularcontroller:terminal_reactor_controller>.addTooltip("§b研究报告：高使用价值，投入生产环境。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip(DIFF11);
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§e作为§5复合型§6中子复制压缩机§e的前置机械，其中也含有不小的技术含量。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§b研究日志§b(§e3057/5/19§b,主要实验员:§9GSP_3017§b)§a：");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§e利用了湮灭反应堆与聚变反应堆的技术，使等离子和等离子物质互相反应，产生§6非稳态等离子体§e。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§e这种液体及其不稳定，一旦受到外部剧烈反应会发生§c相当大的爆炸§e。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§e在一次运输中，由于驾驶员§9GSP_3054§e操作不当，导致实验室所在的行星§c被炸毁§e，研究暂停。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§b研究报告：应当使用其他稳态液体与其混合才可投入生产环境。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§b研究日志§b(§e3062/8/4§b,主要实验员:§9GSP_3022§e)§b：");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§e经过研究，与中子晶流体混合时，非稳态等离子体的颜色有所变化，温度大幅下降。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§e此外，如果在混合过程中滴入少许§3终焉物质§e，会使其流体§2大幅度增长§e。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§e这种流体可以被投入到复制生产中，且比§5紫晶素§e的原子含量更高。");
+// <modularcontroller:terminal_reactor_controller>.addTooltip("§b研究报告：高使用价值，投入生产环境。");
 
 for item in loadedMods["modularcontroller"].items {
     (item).addTooltip("§9§l=======控制器提示=======");
@@ -473,14 +478,13 @@ for item in loadedMods["modularcontroller"].items {
 <theoneprobe:probenote>.addTooltip("§e默认选项为Not Need");
 
 //添加特殊tooltip
-<custommc:item352>.addTooltip("§b可在纸箱物品商人购买~");
 <custommc:item782>.addTooltip("§b世界之色在于其中");
 <custommc:item957>.addTooltip("§b万千植物散发的魔力凝聚其中");
 <custommc:item801>.addTooltip("§b世界合金元素在于其中");
 <custommc:item499>.addTooltip("§b世间生物之魂在于其中");
 <custommc:item537>.addTooltip("§8仅残存的一丝灰色象征着死亡");
 <custommc:item918>.addTooltip("§b容纳着另外一个世界的一个灵魂的核心");
-<custommc:item918>.addTooltip("§d纸箱工艺前管理Forgotten_lin：一路走好。愿天堂没有白血病。");
+<custommc:item918>.addTooltip("§d纪念一个现实中逝去的灵魂。");
 
 <custommc:item14>.addTooltip("§d吸收了§c生命力§f§e和§1所有奇点§4的力量§3让它拥有了再生的力量");
 

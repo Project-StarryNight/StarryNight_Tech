@@ -1,10 +1,10 @@
 {
     "registryname": "Crystal_injection",
-	"localizedname": "§e水晶注能机",
+    "localizedname": "§e水晶注能机",
     "failure-action": "still",
     "color": "FFFFFF",
     "requires-blueprint": false,
-    "modifiers":[
+    "modifiers": [
         {
             "elements": "modularmachinery:blockenergyinputhatch@6",
             "x": 1,
@@ -12,26 +12,26 @@
             "z": -1,
             "description": "将能量输入仓换为§e超级能量输入仓§r,降低§a45%§r加工时间,但是能量消耗提高§c40%§r,并且有§410%§r的概率导致合成失败",
             "modifier": [
-            {
-                "io":"input",
-                "target": "duration",
-                "operation": 1,
-                "multiplier": 0.55
-            },
-            {
-                "io": "output",
-                "target": "item",
-                "operation": 0,
-                "multiplier": -0.1,
-                "affectChance": true
-            },
-            {
-                "io": "input",
-                "target": "energy",
-                "operation": 1,
-                "multiplier": 1.4
-            }
-        ]
+                {
+                    "io": "input",
+                    "target": "modularmachinery:duration",
+                    "operation": 1,
+                    "multiplier": 0.55
+                },
+                {
+                    "io": "output",
+                    "target": "modularmachinery:item",
+                    "operation": 0,
+                    "multiplier": -0.1,
+                    "affectChance": true
+                },
+                {
+                    "io": "input",
+                    "target": "modularmachinery:energy",
+                    "operation": 1,
+                    "multiplier": 1.4
+                }
+            ]
         }
     ],
     "parts": [
@@ -1203,4 +1203,5 @@
                 "gugu-utils:sparkmanahatch@0"
             ]
         }
-    ]}
+    ]
+}

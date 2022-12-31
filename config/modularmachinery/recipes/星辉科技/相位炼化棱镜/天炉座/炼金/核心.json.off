@@ -17,7 +17,7 @@
 		},
 
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "custommc:item833",
 			"nbt":{
@@ -34,46 +34,46 @@
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:aspectus_iron",
             "amount": 1,
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:aspectus_silver",
             "amount": 1,
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:dust_ash",
             "amount": 64,
 			"chance": 0
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "ore:plateCopper",
             "amount": 1
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:ember_cluster",
             "amount": 1
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "input",
             "item": "embers:ingot_dawnstone",
             "amount": 2
         },
 		{
-            "type": "item",
+            "type": "modularmachinery:item",
             "io-type": "output",
             "item": "embers:wildfire_core",
             "amount": 1

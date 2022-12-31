@@ -4,25 +4,25 @@
     "modifiers": [
         {
             "io": "input",
-            "target": "fluid",
+            "target": "modularmachinery:fluid",
             "operation": 1,
             "multiplier": 0.25
         },
         {
             "io": "input",
-            "target": "duration",
+            "target": "modularmachinery:duration",
             "operation": 1,
             "multiplier": 0.85
         },
         {
             "io": "output",
-            "target": "energy",
+            "target": "modularmachinery:energy",
             "operation": 1,
             "multiplier": 0.1
         },
         {
             "io": "output",
-            "target": "fluid",
+            "target": "modularmachinery:fluid",
             "operation": 1,
             "multiplier": 0.1
         }

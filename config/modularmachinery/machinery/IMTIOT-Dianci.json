@@ -12,7 +12,7 @@
             "description": "将机器的能量输出仓换为超级能源输出仓以提升25%能量产出",
             "modifier": {
                 "io": "output",
-                "target": "energy",
+                "target": "modularmachinery:energy",
                 "operation": 1,
                 "multiplier": 1.25
             }
@@ -3187,4 +3187,5 @@
                 "minecraft:concrete@7"
             ]
         }
-    ]}
+    ]
+}

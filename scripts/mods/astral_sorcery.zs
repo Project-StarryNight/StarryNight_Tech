@@ -39,7 +39,7 @@ Altar.removeAltarRecipe("astralsorcery:shaped/internal/altar/illuminator");
 	*/
 
 //飞龙剑
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_sword", <draconicevolution:wyvern_sword>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_sword", <draconicevolution:wyvern_sword>, 6000, 200, [
 	//0~8
 	null,<ore:ingotDraconium>,<ore:ingotRefinedObsidian>,<ore:ingotDraconium>,<redstonerepository:tool.sword_gelid>,<ore:ingotDraconium>,<draconicevolution:wyvern_core>,<ore:ingotDraconium>,null,
 	//9~12
@@ -54,7 +54,7 @@ Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_sword", <dracon
 "astralsorcery.constellation.discidia");
 
 //飞龙镐
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_pick", <draconicevolution:wyvern_pick>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_pick", <draconicevolution:wyvern_pick>, 6000, 200, [
 	//0~8
 	null,null,<redstonerepository:tool.pickaxe_gelid>,null,<ore:itemInfinityRod>,null,<ore:itemInfinityRod>,null,null,
 	//9~12
@@ -69,7 +69,7 @@ Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_pick", <draconi
 "astralsorcery.constellation.evorsio");
 
 //飞龙弓
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_bow", <draconicevolution:wyvern_bow>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_bow", <draconicevolution:wyvern_bow>, 6000, 200, [
 	//0~8
 	<enderio:item_end_steel_bow>,null,null,null,null,<ore:manaString>,null,<ore:manaString>,null,
 	//9~12
@@ -84,7 +84,7 @@ Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_bow", <draconic
 "astralsorcery.constellation.discidia");
 
 #飞龙斧
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_axe", <draconicevolution:wyvern_axe>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_axe", <draconicevolution:wyvern_axe>, 6000, 200, [
 	null, ld , ft ,
 	null, gan, null,
 	gan, null, null,
@@ -98,7 +98,7 @@ Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_axe", <draconic
 );
 
 #飞龙铲
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_shovel", <draconicevolution:wyvern_shovel>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_shovel", <draconicevolution:wyvern_shovel>, 6000, 200, [
 	null, xl, chan,
 	null, gan, xl,
 	gan, null, null,
@@ -112,7 +112,7 @@ Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_shovel", <draco
 );
 
 #飞龙头
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_helm", <draconicevolution:wyvern_helm>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_helm", <draconicevolution:wyvern_helm>, 6000, 200, [
 	core, ld, core,
 	ld, tou, ld,
 	xl, null, xl,
@@ -124,7 +124,7 @@ Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_helm", <draconi
 );
 
 #飞龙甲
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_chest", <draconicevolution:wyvern_chest>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_chest", <draconicevolution:wyvern_chest>, 6000, 200, [
 	xl, xl, xl,
 	ld, jia, ld,
 	core, hys, core,
@@ -136,7 +136,7 @@ Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_chest", <dracon
 );
 
 #飞龙腿
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_legs", <draconicevolution:wyvern_legs>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_legs", <draconicevolution:wyvern_legs>, 6000, 200, [
 	xl, xl, xl,
 	xl, null, xl,
 	null, null, null,
@@ -149,7 +149,7 @@ Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_legs", <draconi
 );
 
 #飞龙鞋
-Altar.addTraitAltarRecipe("paperbox:shaped/internal/altar/wyvern_boots", <draconicevolution:wyvern_boots>, 6000, 200, [
+Altar.addTraitAltarRecipe("nova_engineering:shaped/internal/altar/wyvern_boots", <draconicevolution:wyvern_boots>, 6000, 200, [
 	core, xue, core,
 	hys, null, hys,
 	hys, null, hys,
